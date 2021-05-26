@@ -1,0 +1,83 @@
+
+monster0010.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 13
+  size: 72, 49
+  orig: 120, 110
+  offset: 12, 20
+  index: -1
+eyes
+  rotate: false
+  xy: 215, 45
+  size: 53, 17
+  orig: 120, 110
+  offset: 21, 90
+  index: -1
+eyesBad
+  rotate: false
+  xy: 138, 2
+  size: 55, 14
+  orig: 120, 110
+  offset: 20, 90
+  index: -1
+head
+  rotate: false
+  xy: 76, 10
+  size: 60, 52
+  orig: 120, 110
+  offset: 18, 58
+  index: -1
+lfoot
+  rotate: false
+  xy: 168, 25
+  size: 18, 8
+  orig: 120, 110
+  offset: 54, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 138, 18
+  size: 28, 44
+  orig: 120, 110
+  offset: 65, 24
+  index: -1
+lpant
+  rotate: false
+  xy: 319, 46
+  size: 28, 16
+  orig: 120, 110
+  offset: 51, 6
+  index: -1
+rfoot
+  rotate: false
+  xy: 2, 3
+  size: 19, 8
+  orig: 120, 110
+  offset: 21, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 168, 35
+  size: 27, 45
+  orig: 120, 110
+  offset: 4, 22
+  index: -1
+rpant
+  rotate: false
+  xy: 349, 46
+  size: 27, 16
+  orig: 120, 110
+  offset: 15, 6
+  index: -1
+tail
+  rotate: false
+  xy: 270, 41
+  size: 47, 21
+  orig: 120, 110
+  offset: 65, 4
+  index: -1

@@ -1,0 +1,55 @@
+
+monster2022.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 73, 2
+  size: 31, 32
+  orig: 80, 100
+  offset: 27, 18
+  index: -1
+eyes
+  rotate: true
+  xy: 117, 41
+  size: 17, 27
+  orig: 80, 100
+  offset: 31, 53
+  index: -1
+eyesBad
+  rotate: false
+  xy: 146, 38
+  size: 24, 20
+  orig: 80, 100
+  offset: 26, 57
+  index: -1
+foot
+  rotate: false
+  xy: 73, 35
+  size: 42, 23
+  orig: 80, 100
+  offset: 20, 4
+  index: -1
+head
+  rotate: false
+  xy: 2, 9
+  size: 69, 49
+  orig: 80, 100
+  offset: 6, 48
+  index: -1
+lhand
+  rotate: true
+  xy: 172, 44
+  size: 14, 27
+  orig: 80, 100
+  offset: 50, 21
+  index: -1
+rhand
+  rotate: true
+  xy: 201, 45
+  size: 13, 27
+  orig: 80, 100
+  offset: 20, 21
+  index: -1

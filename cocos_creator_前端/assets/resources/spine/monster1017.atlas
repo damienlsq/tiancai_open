@@ -1,0 +1,69 @@
+
+monster1017.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 32
+  size: 28, 25
+  orig: 80, 100
+  offset: 25, 13
+  index: -1
+head
+  rotate: false
+  xy: 0, 59
+  size: 67, 67
+  orig: 80, 100
+  offset: 10, 33
+  index: -1
+head2
+  rotate: false
+  xy: 69, 59
+  size: 67, 67
+  orig: 80, 100
+  offset: 10, 33
+  index: -1
+lfoot
+  rotate: false
+  xy: 0, 0
+  size: 10, 4
+  orig: 80, 100
+  offset: 45, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 138, 102
+  size: 13, 24
+  orig: 80, 100
+  offset: 45, 14
+  index: -1
+lpant
+  rotate: false
+  xy: 30, 42
+  size: 15, 15
+  orig: 80, 100
+  offset: 38, 2
+  index: -1
+rfoot
+  rotate: false
+  xy: 12, 0
+  size: 9, 4
+  orig: 80, 100
+  offset: 24, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 0, 6
+  size: 13, 24
+  orig: 80, 100
+  offset: 21, 14
+  index: -1
+rpant
+  rotate: false
+  xy: 153, 111
+  size: 15, 15
+  orig: 80, 100
+  offset: 25, 2
+  index: -1

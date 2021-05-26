@@ -1,0 +1,76 @@
+
+monster0019.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 54, 9
+  size: 46, 51
+  orig: 70, 100
+  offset: 11, 9
+  index: -1
+eyes
+  rotate: false
+  xy: 102, 21
+  size: 28, 39
+  orig: 70, 100
+  offset: 19, 55
+  index: -1
+eyesBad
+  rotate: false
+  xy: 228, 28
+  size: 26, 32
+  orig: 70, 100
+  offset: 21, 59
+  index: -1
+head
+  rotate: false
+  xy: 0, 9
+  size: 52, 51
+  orig: 70, 100
+  offset: 8, 49
+  index: -1
+lfoot
+  rotate: false
+  xy: 0, 0
+  size: 12, 7
+  orig: 70, 100
+  offset: 42, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 132, 41
+  size: 19, 46
+  orig: 70, 100
+  offset: 49, 18
+  index: -1
+lpant
+  rotate: false
+  xy: 153, 26
+  size: 15, 13
+  orig: 70, 100
+  offset: 42, 1
+  index: -1
+rfoot
+  rotate: false
+  xy: 102, 12
+  size: 12, 7
+  orig: 70, 100
+  offset: 15, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 180, 41
+  size: 19, 46
+  orig: 70, 100
+  offset: 1, 18
+  index: -1
+rpant
+  rotate: false
+  xy: 132, 25
+  size: 19, 14
+  orig: 70, 100
+  offset: 13, 0
+  index: -1

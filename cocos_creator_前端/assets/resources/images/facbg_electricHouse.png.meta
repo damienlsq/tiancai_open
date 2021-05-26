@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8fc5c95f-5ab9-4724-9cd5-f00de3f931f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 226,
+  "height": 152,
+  "platformSettings": {},
+  "subMetas": {
+    "facbg_electricHouse": {
+      "ver": "1.0.4",
+      "uuid": "8e9e3026-06da-45e8-9e74-88cd33f8074d",
+      "rawTextureUuid": "8fc5c95f-5ab9-4724-9cd5-f00de3f931f5",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 226,
+      "height": 152,
+      "rawWidth": 226,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

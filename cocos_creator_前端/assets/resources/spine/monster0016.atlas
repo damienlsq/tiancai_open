@@ -1,0 +1,90 @@
+
+monster0016.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 48
+  size: 62, 78
+  orig: 80, 160
+  offset: 8, 38
+  index: -1
+fire1
+  rotate: false
+  xy: 136, 93
+  size: 31, 33
+  orig: 276, 204
+  offset: 117, 78
+  index: -1
+gun
+  rotate: false
+  xy: 66, 79
+  size: 68, 47
+  orig: 100, 100
+  offset: 12, 39
+  index: -1
+head
+  rotate: true
+  xy: 2, 4
+  size: 42, 57
+  orig: 80, 160
+  offset: 18, 103
+  index: -1
+lfoot
+  rotate: false
+  xy: 216, 121
+  size: 14, 5
+  orig: 80, 160
+  offset: 40, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 66, 59
+  size: 18, 42
+  orig: 80, 160
+  offset: 59, 34
+  index: -1
+lleg
+  rotate: false
+  xy: 96, 11
+  size: 13, 46
+  orig: 80, 160
+  offset: 40, 3
+  index: -1
+lram
+  rotate: false
+  xy: 61, 2
+  size: 17, 44
+  orig: 80, 160
+  offset: 59, 66
+  index: -1
+rfoot
+  rotate: false
+  xy: 136, 86
+  size: 14, 5
+  orig: 80, 160
+  offset: 25, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 169, 92
+  size: 16, 44
+  orig: 80, 160
+  offset: 2, 33
+  index: -1
+rleg
+  rotate: false
+  xy: 80, 11
+  size: 14, 46
+  orig: 80, 160
+  offset: 25, 3
+  index: -1
+rram
+  rotate: true
+  xy: 169, 110
+  size: 16, 45
+  orig: 80, 160
+  offset: 2, 64
+  index: -1

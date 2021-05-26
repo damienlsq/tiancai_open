@@ -1,0 +1,104 @@
+
+monster2021.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 4
+  size: 70, 58
+  orig: 70, 120
+  offset: 0, 16
+  index: -1
+eyes
+  rotate: false
+  xy: 218, 2
+  size: 70, 9
+  orig: 70, 120
+  offset: 0, 97
+  index: -1
+eyesBad
+  rotate: false
+  xy: 362, 39
+  size: 70, 9
+  orig: 70, 120
+  offset: 0, 97
+  index: -1
+head
+  rotate: false
+  xy: 74, 9
+  size: 70, 53
+  orig: 70, 120
+  offset: 0, 67
+  index: -1
+larm
+  rotate: false
+  xy: 146, 9
+  size: 70, 24
+  orig: 70, 120
+  offset: 0, 47
+  index: -1
+lf
+  rotate: false
+  xy: 146, 35
+  size: 70, 27
+  orig: 70, 120
+  offset: 0, 25
+  index: -1
+lfoot
+  rotate: false
+  xy: 434, 53
+  size: 70, 9
+  orig: 70, 120
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: false
+  xy: 290, 2
+  size: 70, 12
+  orig: 70, 120
+  offset: 0, 3
+  index: -1
+lpant
+  rotate: false
+  xy: 218, 13
+  size: 70, 20
+  orig: 70, 120
+  offset: 0, 10
+  index: -1
+rarm
+  rotate: false
+  xy: 290, 38
+  size: 70, 24
+  orig: 70, 120
+  offset: 0, 47
+  index: -1
+rf
+  rotate: false
+  xy: 218, 35
+  size: 70, 27
+  orig: 70, 120
+  offset: 0, 25
+  index: -1
+rfoot
+  rotate: false
+  xy: 362, 28
+  size: 70, 9
+  orig: 70, 120
+  offset: 0, 0
+  index: -1
+rleg
+  rotate: false
+  xy: 362, 50
+  size: 70, 12
+  orig: 70, 120
+  offset: 0, 3
+  index: -1
+rpant
+  rotate: false
+  xy: 290, 16
+  size: 70, 20
+  orig: 70, 120
+  offset: 0, 10
+  index: -1

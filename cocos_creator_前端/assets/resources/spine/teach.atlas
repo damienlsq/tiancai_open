@@ -1,0 +1,27 @@
+
+teach.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fl1
+  rotate: false
+  xy: 2, 2
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+fl2
+  rotate: false
+  xy: 194, 38
+  size: 154, 154
+  orig: 190, 190
+  offset: 17, 18
+  index: -1
+fl3
+  rotate: false
+  xy: 350, 93
+  size: 101, 99
+  orig: 190, 190
+  offset: 43, 46
+  index: -1

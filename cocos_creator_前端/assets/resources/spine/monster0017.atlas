@@ -1,0 +1,83 @@
+
+monster0017.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 75, 83
+  size: 51, 43
+  orig: 80, 120
+  offset: 12, 17
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 25
+  size: 34, 37
+  orig: 80, 120
+  offset: 20, 61
+  index: -1
+eyesBad
+  rotate: false
+  xy: 38, 29
+  size: 32, 33
+  orig: 80, 120
+  offset: 21, 65
+  index: -1
+head
+  rotate: false
+  xy: 2, 64
+  size: 71, 62
+  orig: 80, 120
+  offset: 1, 55
+  index: -1
+lfoot
+  rotate: true
+  xy: 118, 70
+  size: 11, 5
+  orig: 80, 120
+  offset: 43, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 75, 66
+  size: 15, 41
+  orig: 80, 120
+  offset: 53, 19
+  index: -1
+lpant
+  rotate: false
+  xy: 91, 47
+  size: 17, 17
+  orig: 80, 120
+  offset: 41, 4
+  index: -1
+rfoot
+  rotate: true
+  xy: 45, 2
+  size: 10, 5
+  orig: 80, 120
+  offset: 24, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 2, 8
+  size: 15, 41
+  orig: 80, 120
+  offset: 5, 19
+  index: -1
+rpant
+  rotate: false
+  xy: 72, 44
+  size: 17, 18
+  orig: 80, 120
+  offset: 19, 3
+  index: -1
+tail
+  rotate: false
+  xy: 45, 14
+  size: 24, 13
+  orig: 80, 120
+  offset: 56, 23
+  index: -1

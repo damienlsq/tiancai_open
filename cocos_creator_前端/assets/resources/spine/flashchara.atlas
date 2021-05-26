@@ -1,0 +1,41 @@
+
+flashchara.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gro1
+  rotate: false
+  xy: 2, 47
+  size: 148, 152
+  orig: 204, 276
+  offset: 20, 60
+  index: -1
+gro2
+  rotate: false
+  xy: 2, 2
+  size: 22, 43
+  orig: 204, 276
+  offset: 24, 59
+  index: -1
+gro3
+  rotate: false
+  xy: 2, 2
+  size: 22, 43
+  orig: 204, 276
+  offset: 145, 158
+  index: -1
+gro4
+  rotate: false
+  xy: 152, 171
+  size: 16, 28
+  orig: 204, 276
+  offset: 125, 40
+  index: -1
+gro5
+  rotate: false
+  xy: 152, 171
+  size: 16, 28
+  orig: 204, 276
+  offset: 60, 33
+  index: -1

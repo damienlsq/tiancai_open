@@ -1,0 +1,97 @@
+
+monster2029.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 65, 26
+  size: 29, 56
+  orig: 60, 130
+  offset: 15, 18
+  index: -1
+eyes
+  rotate: false
+  xy: 65, 4
+  size: 27, 20
+  orig: 60, 130
+  offset: 18, 92
+  index: -1
+eyesBad
+  rotate: false
+  xy: 123, 38
+  size: 27, 17
+  orig: 60, 130
+  offset: 17, 94
+  index: -1
+head
+  rotate: true
+  xy: 0, 0
+  size: 55, 63
+  orig: 60, 130
+  offset: 4, 67
+  index: -1
+larm
+  rotate: true
+  xy: 152, 42
+  size: 13, 25
+  orig: 60, 130
+  offset: 36, 46
+  index: -1
+lf
+  rotate: true
+  xy: 123, 26
+  size: 10, 27
+  orig: 60, 130
+  offset: 41, 23
+  index: -1
+lfoot
+  rotate: false
+  xy: 235, 48
+  size: 13, 7
+  orig: 60, 130
+  offset: 30, 0
+  index: -1
+ling
+  rotate: true
+  xy: 94, 10
+  size: 14, 25
+  orig: 40, 90
+  offset: 13, 27
+  index: -1
+lpant
+  rotate: true
+  xy: 121, 14
+  size: 10, 17
+  orig: 60, 130
+  offset: 31, 5
+  index: -1
+rarm
+  rotate: true
+  xy: 179, 42
+  size: 13, 25
+  orig: 60, 130
+  offset: 11, 46
+  index: -1
+rf
+  rotate: true
+  xy: 206, 44
+  size: 11, 27
+  orig: 60, 130
+  offset: 8, 23
+  index: -1
+rfoot
+  rotate: false
+  xy: 171, 33
+  size: 13, 7
+  orig: 60, 130
+  offset: 17, 0
+  index: -1
+rpant
+  rotate: true
+  xy: 152, 30
+  size: 10, 17
+  orig: 60, 130
+  offset: 19, 5
+  index: -1

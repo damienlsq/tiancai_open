@@ -1,0 +1,391 @@
+
+capsule.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+capsule2
+  rotate: true
+  xy: 96, 20
+  size: 42, 82
+  orig: 68, 148
+  offset: 13, 33
+  index: -1
+capsule7
+  rotate: true
+  xy: 2, 10
+  size: 52, 92
+  orig: 68, 148
+  offset: 8, 28
+  index: -1
+headlight0001
+  rotate: false
+  xy: 1077, 2
+  size: 37, 17
+  orig: 100, 100
+  offset: 35, 24
+  index: -1
+headlight0002
+  rotate: false
+  xy: 1972, 39
+  size: 40, 23
+  orig: 100, 100
+  offset: 32, 19
+  index: -1
+headlight0003
+  rotate: false
+  xy: 1928, 40
+  size: 42, 22
+  orig: 100, 100
+  offset: 30, 21
+  index: -1
+headlight0004
+  rotate: false
+  xy: 1592, 2
+  size: 44, 21
+  orig: 100, 100
+  offset: 28, 23
+  index: -1
+headlight0005
+  rotate: false
+  xy: 1546, 2
+  size: 44, 20
+  orig: 100, 100
+  offset: 27, 25
+  index: -1
+headlight0006
+  rotate: false
+  xy: 1882, 41
+  size: 44, 21
+  orig: 100, 100
+  offset: 27, 25
+  index: -1
+headlight0007
+  rotate: false
+  xy: 1754, 36
+  size: 43, 26
+  orig: 100, 100
+  offset: 28, 21
+  index: -1
+headlight0008
+  rotate: false
+  xy: 1674, 2
+  size: 43, 25
+  orig: 100, 100
+  offset: 29, 23
+  index: -1
+headlight0009
+  rotate: false
+  xy: 1710, 34
+  size: 42, 28
+  orig: 100, 100
+  offset: 30, 21
+  index: -1
+headlight0010
+  rotate: false
+  xy: 1799, 33
+  size: 40, 29
+  orig: 100, 100
+  offset: 31, 21
+  index: -1
+headlight0011
+  rotate: false
+  xy: 1719, 2
+  size: 39, 30
+  orig: 100, 100
+  offset: 32, 22
+  index: -1
+headlight0012
+  rotate: false
+  xy: 1841, 31
+  size: 39, 31
+  orig: 100, 100
+  offset: 32, 23
+  index: -1
+headlight0013
+  rotate: false
+  xy: 1669, 29
+  size: 39, 33
+  orig: 100, 100
+  offset: 32, 23
+  index: -1
+headlight0014
+  rotate: false
+  xy: 1628, 28
+  size: 39, 34
+  orig: 100, 100
+  offset: 32, 23
+  index: -1
+headlight0015
+  rotate: false
+  xy: 1587, 25
+  size: 39, 37
+  orig: 100, 100
+  offset: 32, 22
+  index: -1
+headlight0016
+  rotate: false
+  xy: 1546, 24
+  size: 39, 38
+  orig: 100, 100
+  offset: 32, 22
+  index: -1
+headlight0017
+  rotate: false
+  xy: 1504, 22
+  size: 40, 40
+  orig: 100, 100
+  offset: 31, 22
+  index: -1
+headlight0018
+  rotate: true
+  xy: 1415, 22
+  size: 40, 42
+  orig: 100, 100
+  offset: 31, 21
+  index: -1
+headlight0019
+  rotate: true
+  xy: 1459, 23
+  size: 39, 43
+  orig: 100, 100
+  offset: 31, 21
+  index: -1
+headlight0020
+  rotate: true
+  xy: 1369, 21
+  size: 41, 44
+  orig: 100, 100
+  offset: 30, 21
+  index: -1
+headlight0021
+  rotate: true
+  xy: 1322, 21
+  size: 41, 45
+  orig: 100, 100
+  offset: 30, 21
+  index: -1
+headlight0022
+  rotate: true
+  xy: 783, 21
+  size: 41, 47
+  orig: 100, 100
+  offset: 30, 20
+  index: -1
+headlight0023
+  rotate: true
+  xy: 832, 21
+  size: 41, 47
+  orig: 100, 100
+  offset: 30, 20
+  index: -1
+headlight0024
+  rotate: true
+  xy: 881, 19
+  size: 43, 47
+  orig: 100, 100
+  offset: 29, 21
+  index: -1
+headlight0025
+  rotate: true
+  xy: 930, 19
+  size: 43, 47
+  orig: 100, 100
+  offset: 29, 21
+  index: -1
+headlight0026
+  rotate: true
+  xy: 979, 19
+  size: 43, 47
+  orig: 100, 100
+  offset: 29, 21
+  index: -1
+headlight0027
+  rotate: true
+  xy: 1028, 19
+  size: 43, 47
+  orig: 100, 100
+  offset: 29, 22
+  index: -1
+headlight0028
+  rotate: true
+  xy: 581, 18
+  size: 44, 48
+  orig: 100, 100
+  offset: 28, 22
+  index: -1
+headlight0029
+  rotate: true
+  xy: 631, 18
+  size: 44, 48
+  orig: 100, 100
+  offset: 28, 22
+  index: -1
+headlight0030
+  rotate: true
+  xy: 180, 17
+  size: 45, 49
+  orig: 100, 100
+  offset: 28, 22
+  index: -1
+headlight0031
+  rotate: true
+  xy: 231, 17
+  size: 45, 49
+  orig: 100, 100
+  offset: 28, 23
+  index: -1
+headlight0032
+  rotate: true
+  xy: 282, 17
+  size: 45, 49
+  orig: 100, 100
+  offset: 28, 23
+  index: -1
+headlight0033
+  rotate: true
+  xy: 333, 15
+  size: 47, 48
+  orig: 100, 100
+  offset: 27, 25
+  index: -1
+headlight0034
+  rotate: false
+  xy: 383, 15
+  size: 47, 47
+  orig: 100, 100
+  offset: 27, 26
+  index: -1
+headlight0035
+  rotate: false
+  xy: 432, 15
+  size: 47, 47
+  orig: 100, 100
+  offset: 27, 27
+  index: -1
+headlight0036
+  rotate: false
+  xy: 481, 16
+  size: 47, 46
+  orig: 100, 100
+  offset: 27, 28
+  index: -1
+headlight0037
+  rotate: false
+  xy: 530, 18
+  size: 49, 44
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+headlight0038
+  rotate: false
+  xy: 681, 20
+  size: 49, 42
+  orig: 100, 100
+  offset: 26, 32
+  index: -1
+headlight0039
+  rotate: false
+  xy: 732, 21
+  size: 49, 41
+  orig: 100, 100
+  offset: 26, 33
+  index: -1
+headlight0040
+  rotate: false
+  xy: 1077, 21
+  size: 47, 41
+  orig: 100, 100
+  offset: 26, 34
+  index: -1
+headlight0041
+  rotate: false
+  xy: 1126, 21
+  size: 47, 41
+  orig: 100, 100
+  offset: 26, 34
+  index: -1
+headlight0042
+  rotate: false
+  xy: 1175, 22
+  size: 47, 40
+  orig: 100, 100
+  offset: 27, 35
+  index: -1
+headlight0043
+  rotate: false
+  xy: 1224, 22
+  size: 47, 40
+  orig: 100, 100
+  offset: 27, 35
+  index: -1
+headlight0044
+  rotate: false
+  xy: 1273, 23
+  size: 47, 39
+  orig: 100, 100
+  offset: 27, 36
+  index: -1
+headlight0045
+  rotate: false
+  xy: 1638, 2
+  size: 34, 24
+  orig: 100, 100
+  offset: 39, 36
+  index: -1
+headlight0046
+  rotate: false
+  xy: 1760, 11
+  size: 35, 23
+  orig: 100, 100
+  offset: 38, 37
+  index: -1
+headlight0047
+  rotate: false
+  xy: 1797, 10
+  size: 31, 21
+  orig: 100, 100
+  offset: 38, 37
+  index: -1
+headlight0048
+  rotate: true
+  xy: 1948, 8
+  size: 30, 22
+  orig: 100, 100
+  offset: 39, 37
+  index: -1
+headlight0049
+  rotate: false
+  xy: 2014, 39
+  size: 31, 23
+  orig: 100, 100
+  offset: 38, 38
+  index: -1
+headlight0050
+  rotate: false
+  xy: 1882, 15
+  size: 31, 24
+  orig: 100, 100
+  offset: 38, 38
+  index: -1
+headlight0051
+  rotate: false
+  xy: 1915, 13
+  size: 31, 25
+  orig: 100, 100
+  offset: 38, 39
+  index: -1
+headlight0052
+  rotate: false
+  xy: 1972, 11
+  size: 31, 26
+  orig: 100, 100
+  offset: 38, 39
+  index: -1
+headlight0053
+  rotate: false
+  xy: 2005, 11
+  size: 31, 26
+  orig: 100, 100
+  offset: 38, 40
+  index: -1

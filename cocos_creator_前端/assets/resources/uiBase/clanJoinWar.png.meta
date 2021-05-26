@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "92fbc7c6-0d3f-4df1-9fe4-52c3261a2dbc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "clanJoinWar": {
+      "ver": "1.0.4",
+      "uuid": "c50f2691-2f07-4c3c-ad7a-b73c3918beb7",
+      "rawTextureUuid": "92fbc7c6-0d3f-4df1-9fe4-52c3261a2dbc",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 70,
+      "height": 64,
+      "rawWidth": 70,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

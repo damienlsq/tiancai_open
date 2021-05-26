@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1834744c-3f24-4efb-a709-49f0c6d0285b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 4,
+  "platformSettings": {},
+  "subMetas": {
+    "progressLabExpBar": {
+      "ver": "1.0.4",
+      "uuid": "b230cae9-11e5-4fca-a425-5f00f9386785",
+      "rawTextureUuid": "1834744c-3f24-4efb-a709-49f0c6d0285b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 3,
+      "rawWidth": 118,
+      "rawHeight": 4,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

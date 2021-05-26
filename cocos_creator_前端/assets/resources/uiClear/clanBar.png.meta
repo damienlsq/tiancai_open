@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "41537b31-2865-48a3-ada1-dc834c7dc31a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 640,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "clanBar": {
+      "ver": "1.0.4",
+      "uuid": "fc5fb6a3-3c3a-4f1d-a6d1-1317d47913af",
+      "rawTextureUuid": "41537b31-2865-48a3-ada1-dc834c7dc31a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 20,
+      "rawWidth": 640,
+      "rawHeight": 20,
+      "borderTop": 6,
+      "borderBottom": 6,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

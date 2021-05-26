@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a8d9b3ee-3495-483f-8e28-8368a895958d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "gambleTimeBg": {
+      "ver": "1.0.4",
+      "uuid": "f231c015-1054-401e-9b04-f3a7f5e67f12",
+      "rawTextureUuid": "a8d9b3ee-3495-483f-8e28-8368a895958d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 36,
+      "rawWidth": 140,
+      "rawHeight": 36,
+      "borderTop": 10,
+      "borderBottom": 10,
+      "borderLeft": 20,
+      "borderRight": 20,
+      "subMetas": {}
+    }
+  }
+}

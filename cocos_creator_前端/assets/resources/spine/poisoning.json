@@ -1,0 +1,98 @@
+{
+"skeleton": { "hash": "CajpRObmQ5NBmtwf4zQSLh6llRo", "spine": "3.6.48", "width": 170, "height": 170, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 167, "rotation": 90, "x": -3.12, "y": 49.61 }
+],
+"slots": [
+	{ "name": "poisoning0001", "bone": "bone", "attachment": "poisoning0030" }
+],
+"skins": {
+	"default": {
+		"poisoning0001": {
+			"poisoning0001": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0002": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0003": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0004": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0005": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0006": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0007": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0008": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0009": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0010": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0011": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0012": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0013": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0014": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0015": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0016": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0017": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0018": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0019": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0020": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0021": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0022": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0023": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0024": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0025": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0026": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0027": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0028": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0029": { "rotation": -90, "width": 170, "height": 170 },
+			"poisoning0030": { "rotation": -90, "width": 170, "height": 170 }
+		}
+	}
+},
+"animations": {
+	"poisoning": {
+		"slots": {
+			"poisoning0001": {
+				"attachment": [
+					{ "time": 0.0333, "name": "poisoning0002" },
+					{ "time": 0.0667, "name": "poisoning0003" },
+					{ "time": 0.1, "name": "poisoning0004" },
+					{ "time": 0.1333, "name": "poisoning0005" },
+					{ "time": 0.1667, "name": "poisoning0006" },
+					{ "time": 0.2, "name": "poisoning0007" },
+					{ "time": 0.2333, "name": "poisoning0008" },
+					{ "time": 0.2667, "name": "poisoning0009" },
+					{ "time": 0.3, "name": "poisoning0010" },
+					{ "time": 0.3333, "name": "poisoning0011" },
+					{ "time": 0.3667, "name": "poisoning0012" },
+					{ "time": 0.4, "name": "poisoning0013" },
+					{ "time": 0.4333, "name": "poisoning0014" },
+					{ "time": 0.4667, "name": "poisoning0015" },
+					{ "time": 0.5, "name": "poisoning0016" },
+					{ "time": 0.5333, "name": "poisoning0017" },
+					{ "time": 0.5667, "name": "poisoning0018" },
+					{ "time": 0.6, "name": "poisoning0019" },
+					{ "time": 0.6333, "name": "poisoning0020" },
+					{ "time": 0.6667, "name": "poisoning0021" },
+					{ "time": 0.7, "name": "poisoning0022" },
+					{ "time": 0.7333, "name": "poisoning0023" },
+					{ "time": 0.7667, "name": "poisoning0024" },
+					{ "time": 0.8, "name": "poisoning0025" },
+					{ "time": 0.8333, "name": "poisoning0026" },
+					{ "time": 0.8667, "name": "poisoning0027" },
+					{ "time": 0.9, "name": "poisoning0028" },
+					{ "time": 0.9333, "name": "poisoning0029" },
+					{ "time": 0.9667, "name": "poisoning0030" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

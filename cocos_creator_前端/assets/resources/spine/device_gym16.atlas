@@ -1,0 +1,363 @@
+
+device_gym16.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcade30001
+  rotate: true
+  xy: 130, 2
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30005
+  rotate: false
+  xy: 901, 97
+  size: 41, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30010
+  rotate: true
+  xy: 161, 2
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30015
+  rotate: false
+  xy: 722, 66
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30020
+  rotate: true
+  xy: 192, 2
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30025
+  rotate: false
+  xy: 769, 97
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30030
+  rotate: true
+  xy: 223, 2
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30035
+  rotate: false
+  xy: 898, 66
+  size: 41, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30040
+  rotate: false
+  xy: 984, 66
+  size: 38, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30045
+  rotate: false
+  xy: 944, 97
+  size: 41, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30050
+  rotate: true
+  xy: 254, 2
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30055
+  rotate: false
+  xy: 319, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30060
+  rotate: false
+  xy: 941, 66
+  size: 41, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30065
+  rotate: false
+  xy: 317, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30070
+  rotate: false
+  xy: 364, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30075
+  rotate: false
+  xy: 371, 35
+  size: 40, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30080
+  rotate: false
+  xy: 413, 35
+  size: 39, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30085
+  rotate: false
+  xy: 362, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30090
+  rotate: false
+  xy: 766, 66
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30095
+  rotate: false
+  xy: 409, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30100
+  rotate: false
+  xy: 813, 97
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30101
+  rotate: false
+  xy: 813, 97
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30102
+  rotate: false
+  xy: 810, 66
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30103
+  rotate: false
+  xy: 810, 66
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30104
+  rotate: false
+  xy: 857, 97
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30105
+  rotate: false
+  xy: 407, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30106
+  rotate: false
+  xy: 454, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30107
+  rotate: false
+  xy: 454, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30108
+  rotate: false
+  xy: 452, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30109
+  rotate: false
+  xy: 452, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30110
+  rotate: false
+  xy: 285, 35
+  size: 41, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30115
+  rotate: false
+  xy: 499, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30120
+  rotate: false
+  xy: 497, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30125
+  rotate: false
+  xy: 270, 66
+  size: 45, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30130
+  rotate: false
+  xy: 270, 97
+  size: 47, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30135
+  rotate: false
+  xy: 544, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30140
+  rotate: false
+  xy: 542, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30145
+  rotate: false
+  xy: 589, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30150
+  rotate: false
+  xy: 587, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30155
+  rotate: false
+  xy: 285, 4
+  size: 41, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30160
+  rotate: false
+  xy: 328, 35
+  size: 41, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30165
+  rotate: false
+  xy: 371, 4
+  size: 40, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30170
+  rotate: false
+  xy: 634, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30175
+  rotate: false
+  xy: 854, 66
+  size: 42, 29
+  orig: 550, 400
+  offset: 250, 186
+  index: -1
+arcade30180
+  rotate: false
+  xy: 632, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30185
+  rotate: false
+  xy: 328, 4
+  size: 41, 29
+  orig: 550, 400
+  offset: 251, 186
+  index: -1
+arcade30190
+  rotate: false
+  xy: 679, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30195
+  rotate: false
+  xy: 677, 66
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+arcade30200
+  rotate: false
+  xy: 724, 97
+  size: 43, 29
+  orig: 550, 400
+  offset: 249, 186
+  index: -1
+device_gym11_body
+  rotate: true
+  xy: 130, 47
+  size: 79, 138
+  orig: 121, 146
+  offset: 42, 0
+  index: -1
+device_gym11_body2
+  rotate: true
+  xy: 2, 13
+  size: 113, 126
+  orig: 121, 146
+  offset: 7, 0
+  index: -1

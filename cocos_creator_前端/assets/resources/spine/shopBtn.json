@@ -1,0 +1,88 @@
+{
+"skeleton": { "hash": "ix4QoDwi1mJpWhgdElpfz3vKyJI", "spine": "3.6.52", "width": 86, "height": 98, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 47, "rotation": 90, "x": 1, "y": 1 },
+	{ "name": "bone2", "parent": "root", "length": 47, "rotation": 90, "x": 1, "y": 1 }
+],
+"slots": [
+	{ "name": "shape", "bone": "bone", "attachment": "shape" },
+	{ "name": "shape2", "bone": "bone2" }
+],
+"skins": {
+	"default": {
+		"shape": {
+			"shape": { "path": "形状 ", "x": -1, "y": 1, "rotation": -90, "width": 86, "height": 98 }
+		},
+		"shape2": {
+			"shopBtn0001": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0002": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0003": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0004": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0005": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0006": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0007": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0008": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0009": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0010": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0011": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0012": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0013": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0014": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0015": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0016": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0017": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0018": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0019": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0020": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0021": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0022": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0023": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0024": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0025": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0026": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0027": { "rotation": -90, "width": 86, "height": 98 },
+			"shopBtn0028": { "rotation": -90, "width": 86, "height": 98 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"shape2": {
+				"attachment": [
+					{ "time": 0, "name": "shopBtn0001" },
+					{ "time": 0.0333, "name": "shopBtn0002" },
+					{ "time": 0.0667, "name": "shopBtn0003" },
+					{ "time": 0.1, "name": "shopBtn0004" },
+					{ "time": 0.1333, "name": "shopBtn0005" },
+					{ "time": 0.1667, "name": "shopBtn0006" },
+					{ "time": 0.2, "name": "shopBtn0007" },
+					{ "time": 0.2333, "name": "shopBtn0008" },
+					{ "time": 0.2667, "name": "shopBtn0009" },
+					{ "time": 0.3, "name": "shopBtn0010" },
+					{ "time": 0.3333, "name": "shopBtn0011" },
+					{ "time": 0.3667, "name": "shopBtn0012" },
+					{ "time": 0.4, "name": "shopBtn0013" },
+					{ "time": 0.4333, "name": "shopBtn0014" },
+					{ "time": 0.4667, "name": "shopBtn0015" },
+					{ "time": 0.5, "name": "shopBtn0016" },
+					{ "time": 0.5333, "name": "shopBtn0017" },
+					{ "time": 0.5667, "name": "shopBtn0018" },
+					{ "time": 0.6, "name": "shopBtn0019" },
+					{ "time": 0.6333, "name": "shopBtn0020" },
+					{ "time": 0.6667, "name": "shopBtn0021" },
+					{ "time": 0.7, "name": "shopBtn0022" },
+					{ "time": 0.7333, "name": "shopBtn0023" },
+					{ "time": 0.7667, "name": "shopBtn0024" },
+					{ "time": 0.8, "name": "shopBtn0025" },
+					{ "time": 0.8333, "name": "shopBtn0026" },
+					{ "time": 0.8667, "name": "shopBtn0027" },
+					{ "time": 0.9, "name": "shopBtn0028" },
+					{ "time": 9, "name": "shopBtn0028" }
+				]
+			}
+		}
+	}
+}
+}

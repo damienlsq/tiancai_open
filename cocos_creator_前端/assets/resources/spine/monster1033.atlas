@@ -1,0 +1,69 @@
+
+monster1033.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 56, 0
+  size: 49, 62
+  orig: 90, 140
+  offset: 17, 18
+  index: -1
+eyes
+  rotate: false
+  xy: 152, 30
+  size: 28, 12
+  orig: 90, 140
+  offset: 30, 91
+  index: -1
+eyesBad
+  rotate: false
+  xy: 152, 19
+  size: 27, 9
+  orig: 90, 140
+  offset: 30, 92
+  index: -1
+head
+  rotate: false
+  xy: 0, 0
+  size: 54, 62
+  orig: 90, 140
+  offset: 12, 78
+  index: -1
+lfoot
+  rotate: true
+  xy: 152, 44
+  size: 18, 39
+  orig: 90, 140
+  offset: 44, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 193, 41
+  size: 25, 21
+  orig: 90, 140
+  offset: 62, 54
+  index: -1
+mouth
+  rotate: false
+  xy: 107, 28
+  size: 43, 34
+  orig: 90, 140
+  offset: 22, 57
+  index: -1
+rfoot
+  rotate: true
+  xy: 107, 4
+  size: 22, 36
+  orig: 90, 140
+  offset: 17, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 220, 37
+  size: 25, 25
+  orig: 87, 140
+  offset: 0, 45
+  index: -1

@@ -1,0 +1,47 @@
+{
+    "name": "csv2configdb",
+    "version": "0.0.1",
+    "description": "csv2configdb",
+    "keywords": [
+        "javascript",
+        "nodejs"
+    ],
+    "respository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": {
+        "name": "Wyman",
+        "email": "wyman1990x@gmail.com"
+    },
+    "contributors": [
+        {}
+    ],
+    "main": "./main.js",
+    "engines": {
+        "node": "6.2.0"
+    },
+    "private": true,
+    "dependencies": {
+        "koa": "0.21.0",
+        "koa-router": "~5.2.1",
+        "co-fs": "~1.2.0",
+        "co-views": "2.0.0",
+        "redis": "~0.12.1",
+        "co-redis": "~1.1.1",
+        "swig": "1.4.2",
+        "require-reload": "0.2.2",
+        "shelljs": "*",
+        "promise": "7.0.4",
+        "underscore": "*",
+        "co-sleep": "0.0.1",
+        "co": "~4.5.4",
+        "co-body": "~2.0.0",
+        "co-mysql": "~1.0.0",
+        "mysql": "~2.7.0",
+        "co-wait": "~0.0.0",
+        "js-base64": "~2.1.9",
+        "xlsx": "~0.9.3",
+        "walk-sync": "~0.3.1"
+    }
+}

@@ -1,0 +1,41 @@
+
+monster2003.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 113, 86
+  orig: 130, 200
+  offset: 8, 11
+  index: -1
+foot
+  rotate: false
+  xy: 223, 82
+  size: 90, 32
+  orig: 130, 200
+  offset: 22, 0
+  index: -1
+head
+  rotate: true
+  xy: 115, 12
+  size: 74, 106
+  orig: 130, 200
+  offset: 26, 79
+  index: -1
+lhand
+  rotate: false
+  xy: 191, 100
+  size: 19, 14
+  orig: 130, 200
+  offset: 110, 74
+  index: -1
+rhand
+  rotate: true
+  xy: 0, 88
+  size: 26, 189
+  orig: 130, 200
+  offset: 4, 11
+  index: -1

@@ -1,0 +1,27 @@
+
+curse.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bones
+  rotate: false
+  xy: 108, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bones2
+  rotate: false
+  xy: 160, 35
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+bones3
+  rotate: false
+  xy: 2, 2
+  size: 104, 50
+  orig: 167, 140
+  offset: 22, 83
+  index: -1

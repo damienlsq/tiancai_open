@@ -1,0 +1,55 @@
+
+monster2025.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 74, 8
+  size: 30, 28
+  orig: 70, 100
+  offset: 21, 24
+  index: -1
+eyesBad
+  rotate: true
+  xy: 104, 30
+  size: 8, 9
+  orig: 70, 90
+  offset: 29, 65
+  index: -1
+eyse
+  rotate: true
+  xy: 2, 4
+  size: 4, 3
+  orig: 70, 90
+  offset: 32, 68
+  index: -1
+foot
+  rotate: false
+  xy: 74, 40
+  size: 39, 22
+  orig: 70, 100
+  offset: 19, 7
+  index: -1
+head
+  rotate: false
+  xy: 2, 10
+  size: 70, 52
+  orig: 70, 100
+  offset: 0, 48
+  index: -1
+lhand
+  rotate: false
+  xy: 104, 2
+  size: 12, 26
+  orig: 70, 100
+  offset: 46, 21
+  index: -1
+rhand
+  rotate: false
+  xy: 115, 36
+  size: 11, 26
+  orig: 70, 100
+  offset: 16, 20
+  index: -1

@@ -1,0 +1,100 @@
+{
+"skeleton": { "hash": "X1p0sQKey4oN7faTlKj4PWdjlBM", "spine": "3.6.52", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 122, "rotation": 89.53, "x": 162.34, "y": -83.68 }
+],
+"slots": [
+	{ "name": "gear", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"gear": {
+			"gear0001": { "x": 16.67, "y": -12.97, "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0002": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0003": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0004": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0005": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0006": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0007": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0008": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0009": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0010": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0011": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0012": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0013": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0014": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0015": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0016": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0017": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0018": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0019": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0020": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0021": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0022": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0023": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0024": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0025": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0026": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0027": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0028": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0029": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0030": { "rotation": -89.53, "width": 550, "height": 400 },
+			"gear0031": { "rotation": -89.53, "width": 550, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"gear": {
+		"slots": {
+			"gear": {
+				"attachment": [
+					{ "time": 0, "name": "gear0016" },
+					{ "time": 0.0333, "name": "gear0017" },
+					{ "time": 0.0667, "name": "gear0018" },
+					{ "time": 0.1, "name": "gear0019" },
+					{ "time": 0.1333, "name": "gear0020" },
+					{ "time": 0.1667, "name": "gear0021" },
+					{ "time": 0.2, "name": "gear0022" },
+					{ "time": 0.2333, "name": "gear0023" },
+					{ "time": 0.2667, "name": "gear0024" },
+					{ "time": 0.3, "name": "gear0025" },
+					{ "time": 0.3333, "name": "gear0026" },
+					{ "time": 0.3667, "name": "gear0027" },
+					{ "time": 0.4, "name": "gear0028" },
+					{ "time": 0.4333, "name": "gear0029" },
+					{ "time": 0.4667, "name": "gear0030" },
+					{ "time": 0.5, "name": "gear0031" },
+					{ "time": 0.5333, "name": "gear0002" },
+					{ "time": 0.5667, "name": "gear0003" },
+					{ "time": 0.6, "name": "gear0004" },
+					{ "time": 0.6333, "name": "gear0005" },
+					{ "time": 0.6667, "name": "gear0006" },
+					{ "time": 0.7, "name": "gear0007" },
+					{ "time": 0.7333, "name": "gear0008" },
+					{ "time": 0.7667, "name": "gear0009" },
+					{ "time": 0.8, "name": "gear0010" },
+					{ "time": 0.8333, "name": "gear0011" },
+					{ "time": 0.8667, "name": "gear0012" },
+					{ "time": 0.9, "name": "gear0013" },
+					{ "time": 0.9333, "name": "gear0014" },
+					{ "time": 0.9667, "name": "gear0015" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

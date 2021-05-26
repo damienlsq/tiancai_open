@@ -1,0 +1,81 @@
+{
+"skeleton": { "hash": "nbxKio4NCONWQnDtTLJ7uPsuuwc", "spine": "3.3.07", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fBlood", "parent": "root", "length": 95.68, "rotation": 89.48, "x": -8.17, "y": 127.44 }
+],
+"slots": [
+	{ "name": "fBlood", "bone": "fBlood" }
+],
+"skins": {
+	"default": {
+		"fBlood": {
+			"fb0001": { "x": 0.07, "y": -11.83, "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0002": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0003": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0004": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0005": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0006": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0007": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0008": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0009": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0010": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0011": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0012": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0013": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0014": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0015": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0016": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0017": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0018": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0019": { "rotation": -89.48, "width": 550, "height": 400 },
+			"fb0020": { "rotation": -89.48, "width": 550, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"fBlood": {
+		"slots": {
+			"fBlood": {
+				"attachment": [
+					{ "time": 0.0333, "name": "fb0001" },
+					{ "time": 0.0666, "name": "fb0002" },
+					{ "time": 0.1, "name": "fb0003" },
+					{ "time": 0.1333, "name": "fb0004" },
+					{ "time": 0.1666, "name": "fb0005" },
+					{ "time": 0.2, "name": "fb0006" },
+					{ "time": 0.2333, "name": "fb0007" },
+					{ "time": 0.2666, "name": "fb0008" },
+					{ "time": 0.3, "name": "fb0009" },
+					{ "time": 0.3333, "name": "fb0010" },
+					{ "time": 0.3666, "name": "fb0011" },
+					{ "time": 0.4, "name": "fb0012" },
+					{ "time": 0.4333, "name": "fb0013" },
+					{ "time": 0.4666, "name": "fb0014" },
+					{ "time": 0.5, "name": "fb0015" },
+					{ "time": 0.5333, "name": "fb0016" },
+					{ "time": 0.5666, "name": "fb0017" },
+					{ "time": 0.6, "name": "fb0018" },
+					{ "time": 0.6333, "name": "fb0019" },
+					{ "time": 0.6666, "name": "fb0020" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.7333, "name": "fb0001" }
+				]
+			}
+		},
+		"bones": {
+			"fBlood": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

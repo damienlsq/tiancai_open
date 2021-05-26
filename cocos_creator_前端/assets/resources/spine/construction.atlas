@@ -1,0 +1,139 @@
+
+construction.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 2, 733
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+2222
+  rotate: false
+  xy: 2, 447
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+333
+  rotate: false
+  xy: 644, 733
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+aim1
+  rotate: false
+  xy: 118, 101
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 1928, 865
+  size: 152, 91
+  orig: 152, 91
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 48, 15
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 2, 134
+  size: 573, 25
+  orig: 573, 25
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 1928, 791
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 2, 46
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 2, 2
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 1928, 753
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+com
+  rotate: false
+  xy: 2, 161
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+go
+  rotate: false
+  xy: 644, 447
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+goods
+  rotate: false
+  xy: 1286, 733
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+goods2
+  rotate: false
+  xy: 644, 161
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+goods3
+  rotate: false
+  xy: 1286, 447
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+goods4
+  rotate: false
+  xy: 1286, 161
+  size: 640, 284
+  orig: 640, 284
+  offset: 0, 0
+  index: -1
+line_03
+  rotate: true
+  xy: 577, 148
+  size: 11, 74
+  orig: 11, 74
+  offset: 0, 0
+  index: -1
+lunl_03
+  rotate: false
+  xy: 118, 73
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,117 @@
+{
+"skeleton": { "hash": "wPZTtVyoWeV3FvMBacBGQ+CT+xU", "spine": "3.3.07", "width": 550, "height": 400, "images": "" },
+"bones": [
+	{ "name": "root", "x": 60.99 },
+	{ "name": "bone", "parent": "root", "length": 111.01, "rotation": 88.96, "x": 1.49, "y": 6 }
+],
+"slots": [
+	{ "name": "photics0001", "bone": "bone", "attachment": "photics0001" }
+],
+"skins": {
+	"default": {
+		"photics0001": {
+			"photics0001": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0002": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0003": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0004": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0005": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0006": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0007": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0008": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0009": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0010": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0011": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0012": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0013": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0014": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0015": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0016": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0017": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0018": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0019": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0020": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0021": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0022": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0023": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0024": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0025": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0026": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0027": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0028": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0029": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0030": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0031": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0032": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0033": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0034": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0035": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0036": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0037": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0038": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 },
+			"photics0039": { "x": -6.02, "y": 1.39, "rotation": -88.96, "width": 550, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"photics": {
+		"slots": {
+			"photics0001": {
+				"attachment": [
+					{ "time": 0, "name": "photics0001" },
+					{ "time": 0.0333, "name": "photics0002" },
+					{ "time": 0.0666, "name": "photics0003" },
+					{ "time": 0.1, "name": "photics0004" },
+					{ "time": 0.1333, "name": "photics0005" },
+					{ "time": 0.1666, "name": "photics0006" },
+					{ "time": 0.2, "name": "photics0007" },
+					{ "time": 0.2333, "name": "photics0008" },
+					{ "time": 0.2666, "name": "photics0009" },
+					{ "time": 0.3, "name": "photics0010" },
+					{ "time": 0.3333, "name": "photics0011" },
+					{ "time": 0.3666, "name": "photics0012" },
+					{ "time": 0.4, "name": "photics0013" },
+					{ "time": 0.4333, "name": "photics0014" },
+					{ "time": 0.4666, "name": "photics0015" },
+					{ "time": 0.5, "name": "photics0016" },
+					{ "time": 0.5333, "name": "photics0017" },
+					{ "time": 0.5666, "name": "photics0018" },
+					{ "time": 0.6, "name": "photics0019" },
+					{ "time": 0.6333, "name": "photics0020" },
+					{ "time": 0.6666, "name": "photics0021" },
+					{ "time": 0.7, "name": "photics0022" },
+					{ "time": 0.7333, "name": "photics0023" },
+					{ "time": 0.7666, "name": "photics0024" },
+					{ "time": 0.8, "name": "photics0025" },
+					{ "time": 0.8333, "name": "photics0026" },
+					{ "time": 0.8666, "name": "photics0027" },
+					{ "time": 0.9, "name": "photics0028" },
+					{ "time": 0.9333, "name": "photics0029" },
+					{ "time": 0.9666, "name": "photics0030" },
+					{ "time": 1, "name": "photics0031" },
+					{ "time": 1.0333, "name": "photics0032" },
+					{ "time": 1.0666, "name": "photics0033" },
+					{ "time": 1.1, "name": "photics0034" },
+					{ "time": 1.1333, "name": "photics0035" },
+					{ "time": 1.1666, "name": "photics0036" },
+					{ "time": 1.2, "name": "photics0037" },
+					{ "time": 1.2333, "name": "photics0038" },
+					{ "time": 1.2666, "name": "photics0039" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

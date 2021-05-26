@@ -1,0 +1,76 @@
+
+buildfloor.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud1
+  rotate: false
+  xy: 2, 252
+  size: 338, 255
+  orig: 338, 255
+  offset: 0, 0
+  index: -1
+cloud10
+  rotate: false
+  xy: 635, 262
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 812, 380
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 342, 244
+  size: 291, 263
+  orig: 291, 263
+  offset: 0, 0
+  index: -1
+cloud4
+  rotate: false
+  xy: 2, 2
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+cloud5
+  rotate: false
+  xy: 635, 354
+  size: 175, 153
+  orig: 211, 200
+  offset: 25, 23
+  index: -1
+cloud6
+  rotate: false
+  xy: 964, 475
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+cloud7
+  rotate: false
+  xy: 2, 77
+  size: 253, 173
+  orig: 253, 173
+  offset: 0, 0
+  index: -1
+cloud8
+  rotate: false
+  xy: 325, 148
+  size: 107, 94
+  orig: 128, 122
+  offset: 15, 14
+  index: -1
+cloud9
+  rotate: true
+  xy: 257, 154
+  size: 96, 66
+  orig: 96, 89
+  offset: 0, 12
+  index: -1

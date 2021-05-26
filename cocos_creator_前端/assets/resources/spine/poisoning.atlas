@@ -1,0 +1,216 @@
+
+poisoning.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poisoning0001
+  rotate: false
+  xy: 560, 2
+  size: 91, 29
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0002
+  rotate: false
+  xy: 1025, 65
+  size: 91, 29
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0003
+  rotate: false
+  xy: 1118, 97
+  size: 91, 29
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0004
+  rotate: false
+  xy: 1025, 96
+  size: 91, 30
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0005
+  rotate: false
+  xy: 932, 24
+  size: 91, 30
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0006
+  rotate: false
+  xy: 932, 56
+  size: 91, 32
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0007
+  rotate: false
+  xy: 839, 14
+  size: 91, 33
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0008
+  rotate: false
+  xy: 653, 2
+  size: 91, 34
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0009
+  rotate: false
+  xy: 932, 90
+  size: 91, 36
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0010
+  rotate: false
+  xy: 839, 49
+  size: 91, 37
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0011
+  rotate: false
+  xy: 839, 88
+  size: 91, 38
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0012
+  rotate: false
+  xy: 746, 2
+  size: 91, 39
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0013
+  rotate: false
+  xy: 746, 43
+  size: 91, 40
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0014
+  rotate: false
+  xy: 746, 85
+  size: 91, 41
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0015
+  rotate: false
+  xy: 653, 38
+  size: 91, 42
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0016
+  rotate: false
+  xy: 653, 82
+  size: 91, 44
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0017
+  rotate: false
+  xy: 560, 33
+  size: 91, 45
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0018
+  rotate: false
+  xy: 560, 80
+  size: 91, 46
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0019
+  rotate: false
+  xy: 467, 29
+  size: 91, 47
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0020
+  rotate: false
+  xy: 467, 78
+  size: 91, 48
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0021
+  rotate: false
+  xy: 374, 23
+  size: 91, 50
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0022
+  rotate: false
+  xy: 374, 75
+  size: 91, 51
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0023
+  rotate: false
+  xy: 281, 19
+  size: 91, 52
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0024
+  rotate: false
+  xy: 281, 73
+  size: 91, 53
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0025
+  rotate: false
+  xy: 188, 15
+  size: 91, 54
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0026
+  rotate: false
+  xy: 188, 71
+  size: 91, 55
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0027
+  rotate: false
+  xy: 95, 11
+  size: 91, 56
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0028
+  rotate: false
+  xy: 95, 69
+  size: 91, 57
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0029
+  rotate: false
+  xy: 2, 6
+  size: 91, 58
+  orig: 170, 170
+  offset: 41, 14
+  index: -1
+poisoning0030
+  rotate: false
+  xy: 2, 66
+  size: 91, 60
+  orig: 170, 170
+  offset: 41, 14
+  index: -1

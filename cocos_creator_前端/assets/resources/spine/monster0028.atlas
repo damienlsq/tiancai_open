@@ -1,0 +1,62 @@
+
+monster0028.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 55, 37
+  size: 26, 23
+  orig: 60, 80
+  offset: 16, 10
+  index: -1
+eyes
+  rotate: false
+  xy: 83, 50
+  size: 29, 10
+  orig: 60, 80
+  offset: 14, 48
+  index: -1
+eyesBad
+  rotate: false
+  xy: 2, 5
+  size: 34, 11
+  orig: 60, 80
+  offset: 12, 48
+  index: -1
+head
+  rotate: false
+  xy: 2, 18
+  size: 51, 42
+  orig: 60, 80
+  offset: 3, 29
+  index: -1
+lf
+  rotate: true
+  xy: 83, 39
+  size: 9, 22
+  orig: 60, 80
+  offset: 38, 11
+  index: -1
+lfoot
+  rotate: false
+  xy: 38, 2
+  size: 15, 14
+  orig: 60, 80
+  offset: 27, 0
+  index: -1
+rf
+  rotate: true
+  xy: 55, 25
+  size: 10, 22
+  orig: 60, 80
+  offset: 10, 11
+  index: -1
+rfoot
+  rotate: false
+  xy: 55, 9
+  size: 14, 14
+  orig: 60, 80
+  offset: 16, 0
+  index: -1

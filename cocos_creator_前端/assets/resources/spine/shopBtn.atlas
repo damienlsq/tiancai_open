@@ -1,0 +1,209 @@
+
+shopBtn.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shopBtn0001
+  rotate: false
+  xy: 794, 2
+  size: 41, 24
+  orig: 86, 98
+  offset: 18, 57
+  index: -1
+shopBtn0002
+  rotate: true
+  xy: 63, 2
+  size: 57, 58
+  orig: 86, 98
+  offset: 15, 24
+  index: -1
+shopBtn0003
+  rotate: true
+  xy: 2, 2
+  size: 57, 59
+  orig: 86, 98
+  offset: 15, 24
+  index: -1
+shopBtn0004
+  rotate: false
+  xy: 670, 2
+  size: 58, 60
+  orig: 86, 98
+  offset: 14, 24
+  index: -1
+shopBtn0005
+  rotate: true
+  xy: 730, 2
+  size: 59, 62
+  orig: 86, 98
+  offset: 14, 23
+  index: -1
+shopBtn0006
+  rotate: true
+  xy: 604, 2
+  size: 60, 64
+  orig: 86, 98
+  offset: 13, 22
+  index: -1
+shopBtn0007
+  rotate: true
+  xy: 672, 64
+  size: 62, 65
+  orig: 86, 98
+  offset: 12, 22
+  index: -1
+shopBtn0008
+  rotate: true
+  xy: 604, 64
+  size: 62, 66
+  orig: 86, 98
+  offset: 12, 21
+  index: -1
+shopBtn0009
+  rotate: false
+  xy: 203, 61
+  size: 64, 65
+  orig: 86, 98
+  offset: 11, 21
+  index: -1
+shopBtn0010
+  rotate: false
+  xy: 2, 61
+  size: 65, 65
+  orig: 86, 98
+  offset: 10, 21
+  index: -1
+shopBtn0011
+  rotate: false
+  xy: 69, 61
+  size: 65, 65
+  orig: 86, 98
+  offset: 10, 21
+  index: -1
+shopBtn0012
+  rotate: false
+  xy: 136, 61
+  size: 65, 65
+  orig: 86, 98
+  offset: 9, 21
+  index: -1
+shopBtn0013
+  rotate: false
+  xy: 269, 62
+  size: 65, 64
+  orig: 86, 98
+  offset: 9, 22
+  index: -1
+shopBtn0014
+  rotate: true
+  xy: 336, 62
+  size: 64, 65
+  orig: 86, 98
+  offset: 9, 22
+  index: -1
+shopBtn0015
+  rotate: false
+  xy: 403, 62
+  size: 65, 64
+  orig: 86, 98
+  offset: 8, 23
+  index: -1
+shopBtn0016
+  rotate: false
+  xy: 739, 63
+  size: 64, 63
+  orig: 86, 98
+  offset: 8, 24
+  index: -1
+shopBtn0017
+  rotate: false
+  xy: 805, 62
+  size: 64, 64
+  orig: 86, 98
+  offset: 8, 24
+  index: -1
+shopBtn0018
+  rotate: false
+  xy: 470, 62
+  size: 65, 64
+  orig: 86, 98
+  offset: 7, 24
+  index: -1
+shopBtn0019
+  rotate: true
+  xy: 235, 7
+  size: 52, 31
+  orig: 86, 98
+  offset: 7, 57
+  index: -1
+shopBtn0020
+  rotate: true
+  xy: 982, 74
+  size: 52, 31
+  orig: 86, 98
+  offset: 7, 57
+  index: -1
+shopBtn0021
+  rotate: false
+  xy: 871, 59
+  size: 53, 32
+  orig: 86, 98
+  offset: 6, 57
+  index: -1
+shopBtn0022
+  rotate: false
+  xy: 926, 59
+  size: 53, 32
+  orig: 86, 98
+  offset: 6, 57
+  index: -1
+shopBtn0023
+  rotate: false
+  xy: 794, 28
+  size: 53, 32
+  orig: 86, 98
+  offset: 6, 57
+  index: -1
+shopBtn0024
+  rotate: false
+  xy: 927, 93
+  size: 53, 33
+  orig: 86, 98
+  offset: 6, 57
+  index: -1
+shopBtn0025
+  rotate: false
+  xy: 871, 93
+  size: 54, 33
+  orig: 86, 98
+  offset: 5, 57
+  index: -1
+shopBtn0026
+  rotate: false
+  xy: 179, 26
+  size: 54, 33
+  orig: 86, 98
+  offset: 5, 57
+  index: -1
+shopBtn0027
+  rotate: false
+  xy: 123, 25
+  size: 54, 34
+  orig: 86, 98
+  offset: 5, 57
+  index: -1
+shopBtn0028
+  rotate: false
+  xy: 837, 2
+  size: 41, 24
+  orig: 86, 98
+  offset: 18, 57
+  index: -1
+形状 
+  rotate: true
+  xy: 537, 63
+  size: 63, 65
+  orig: 86, 98
+  offset: 12, 21
+  index: -1

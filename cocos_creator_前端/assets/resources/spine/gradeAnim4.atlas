@@ -1,0 +1,874 @@
+
+gradeAnim4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Medal40001
+  rotate: false
+  xy: 701, 874
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Medal40002
+  rotate: false
+  xy: 701, 874
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Medal40003
+  rotate: false
+  xy: 701, 874
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Medal40004
+  rotate: true
+  xy: 1815, 782
+  size: 84, 23
+  orig: 200, 200
+  offset: 57, 27
+  index: -1
+Medal40005
+  rotate: false
+  xy: 635, 206
+  size: 107, 58
+  orig: 200, 200
+  offset: 45, 27
+  index: -1
+Medal40006
+  rotate: true
+  xy: 1106, 754
+  size: 116, 93
+  orig: 200, 200
+  offset: 41, 27
+  index: -1
+Medal40007
+  rotate: false
+  xy: 146, 5
+  size: 125, 128
+  orig: 200, 200
+  offset: 36, 29
+  index: -1
+Medal40008
+  rotate: false
+  xy: 146, 135
+  size: 125, 143
+  orig: 200, 200
+  offset: 36, 32
+  index: -1
+Medal40009
+  rotate: true
+  xy: 1845, 897
+  size: 125, 156
+  orig: 200, 200
+  offset: 36, 35
+  index: -1
+Medal40010
+  rotate: false
+  xy: 142, 280
+  size: 125, 146
+  orig: 200, 200
+  offset: 36, 34
+  index: -1
+Medal40011
+  rotate: true
+  xy: 562, 750
+  size: 125, 137
+  orig: 200, 200
+  offset: 36, 32
+  index: -1
+Medal40012
+  rotate: false
+  xy: 979, 741
+  size: 125, 128
+  orig: 200, 200
+  offset: 36, 30
+  index: -1
+Medal40013
+  rotate: true
+  xy: 296, 609
+  size: 125, 117
+  orig: 200, 200
+  offset: 36, 29
+  index: -1
+Medal40014
+  rotate: false
+  xy: 296, 486
+  size: 123, 121
+  orig: 200, 200
+  offset: 37, 29
+  index: -1
+Medal40015
+  rotate: false
+  xy: 415, 617
+  size: 123, 125
+  orig: 200, 200
+  offset: 37, 29
+  index: -1
+Medal40016
+  rotate: false
+  xy: 540, 623
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40017
+  rotate: false
+  xy: 540, 623
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40018
+  rotate: false
+  xy: 663, 624
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40019
+  rotate: true
+  xy: 786, 625
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40020
+  rotate: true
+  xy: 977, 618
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40021
+  rotate: false
+  xy: 173, 467
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40022
+  rotate: false
+  xy: 421, 491
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40023
+  rotate: false
+  xy: 544, 497
+  size: 121, 124
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40024
+  rotate: true
+  xy: 1686, 745
+  size: 121, 127
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40025
+  rotate: true
+  xy: 1336, 747
+  size: 121, 130
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40026
+  rotate: true
+  xy: 1201, 747
+  size: 121, 133
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40027
+  rotate: false
+  xy: 193, 736
+  size: 121, 136
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40028
+  rotate: true
+  xy: 701, 751
+  size: 121, 138
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40029
+  rotate: false
+  xy: 316, 744
+  size: 121, 140
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40030
+  rotate: false
+  xy: 173, 593
+  size: 121, 141
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40031
+  rotate: false
+  xy: 439, 749
+  size: 121, 140
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40032
+  rotate: true
+  xy: 841, 748
+  size: 121, 136
+  orig: 200, 200
+  offset: 38, 31
+  index: -1
+Medal40033
+  rotate: true
+  xy: 1468, 741
+  size: 126, 130
+  orig: 200, 200
+  offset: 36, 31
+  index: -1
+Medal40034
+  rotate: false
+  xy: 1845, 768
+  size: 151, 127
+  orig: 200, 200
+  offset: 23, 31
+  index: -1
+Medal40035
+  rotate: false
+  xy: 389, 891
+  size: 172, 131
+  orig: 200, 200
+  offset: 12, 31
+  index: -1
+Medal40036
+  rotate: false
+  xy: 199, 886
+  size: 188, 136
+  orig: 200, 200
+  offset: 4, 31
+  index: -1
+Medal40037
+  rotate: false
+  xy: 2, 883
+  size: 195, 139
+  orig: 200, 200
+  offset: 0, 31
+  index: -1
+Medal40038
+  rotate: false
+  xy: 2, 736
+  size: 189, 145
+  orig: 200, 200
+  offset: 3, 31
+  index: -1
+Medal40039
+  rotate: false
+  xy: 2, 582
+  size: 169, 152
+  orig: 200, 200
+  offset: 13, 31
+  index: -1
+Medal40040
+  rotate: false
+  xy: 2, 254
+  size: 138, 172
+  orig: 200, 200
+  offset: 29, 8
+  index: -1
+Medal40041
+  rotate: false
+  xy: 2, 84
+  size: 142, 168
+  orig: 200, 200
+  offset: 27, 10
+  index: -1
+Medal40042
+  rotate: true
+  xy: 563, 877
+  size: 145, 165
+  orig: 200, 200
+  offset: 26, 12
+  index: -1
+Medal40043
+  rotate: true
+  xy: 730, 874
+  size: 148, 161
+  orig: 200, 200
+  offset: 25, 14
+  index: -1
+Medal40044
+  rotate: true
+  xy: 1054, 872
+  size: 150, 158
+  orig: 200, 200
+  offset: 24, 16
+  index: -1
+Medal40045
+  rotate: true
+  xy: 1373, 870
+  size: 152, 156
+  orig: 200, 200
+  offset: 23, 18
+  index: -1
+Medal40046
+  rotate: false
+  xy: 1689, 868
+  size: 154, 154
+  orig: 200, 200
+  offset: 22, 19
+  index: -1
+Medal40047
+  rotate: false
+  xy: 1531, 869
+  size: 156, 153
+  orig: 200, 200
+  offset: 21, 20
+  index: -1
+Medal40048
+  rotate: false
+  xy: 1214, 870
+  size: 157, 152
+  orig: 200, 200
+  offset: 20, 21
+  index: -1
+Medal40049
+  rotate: false
+  xy: 893, 871
+  size: 159, 151
+  orig: 200, 200
+  offset: 19, 22
+  index: -1
+Medal40050
+  rotate: false
+  xy: 2, 428
+  size: 160, 152
+  orig: 200, 200
+  offset: 18, 21
+  index: -1
+Medal4II0027
+  rotate: true
+  xy: 269, 280
+  size: 27, 2
+  orig: 200, 200
+  offset: 85, 153
+  index: -1
+Medal4II0028
+  rotate: true
+  xy: 269, 280
+  size: 27, 2
+  orig: 200, 200
+  offset: 85, 153
+  index: -1
+Medal4II0029
+  rotate: false
+  xy: 389, 887
+  size: 29, 2
+  orig: 200, 200
+  offset: 84, 153
+  index: -1
+Medal4II0030
+  rotate: true
+  xy: 164, 434
+  size: 31, 123
+  orig: 200, 200
+  offset: 83, 32
+  index: -1
+Medal4II0031
+  rotate: true
+  xy: 296, 445
+  size: 39, 123
+  orig: 200, 200
+  offset: 79, 32
+  index: -1
+Medal4II0032
+  rotate: false
+  xy: 269, 309
+  size: 39, 123
+  orig: 200, 200
+  offset: 79, 32
+  index: -1
+Medal4II0033
+  rotate: false
+  xy: 273, 184
+  size: 41, 123
+  orig: 200, 200
+  offset: 78, 32
+  index: -1
+Medal4II0034
+  rotate: false
+  xy: 2003, 899
+  size: 43, 123
+  orig: 200, 200
+  offset: 77, 32
+  index: -1
+Medal4II0035
+  rotate: true
+  xy: 421, 444
+  size: 45, 123
+  orig: 200, 200
+  offset: 76, 32
+  index: -1
+Medal4II0036
+  rotate: false
+  xy: 273, 59
+  size: 47, 123
+  orig: 200, 200
+  offset: 75, 32
+  index: -1
+Medal4II0037
+  rotate: true
+  xy: 635, 266
+  size: 49, 123
+  orig: 200, 200
+  offset: 74, 32
+  index: -1
+Medal4II0038
+  rotate: true
+  xy: 546, 442
+  size: 53, 123
+  orig: 200, 200
+  offset: 72, 32
+  index: -1
+Medal4II0039
+  rotate: true
+  xy: 273, 2
+  size: 55, 123
+  orig: 200, 200
+  offset: 71, 32
+  index: -1
+Medal4II0040
+  rotate: true
+  xy: 671, 440
+  size: 59, 123
+  orig: 200, 200
+  offset: 69, 32
+  index: -1
+Medal4II0041
+  rotate: false
+  xy: 912, 498
+  size: 61, 123
+  orig: 200, 200
+  offset: 68, 32
+  index: -1
+Medal4II0042
+  rotate: false
+  xy: 912, 623
+  size: 63, 123
+  orig: 200, 200
+  offset: 67, 32
+  index: -1
+Medal4II0043
+  rotate: false
+  xy: 911, 373
+  size: 61, 123
+  orig: 200, 200
+  offset: 68, 32
+  index: -1
+Medal4II0044
+  rotate: false
+  xy: 1098, 495
+  size: 59, 121
+  orig: 200, 200
+  offset: 69, 33
+  index: -1
+Medal4III0079
+  rotate: false
+  xy: 1106, 717
+  size: 80, 35
+  orig: 200, 200
+  offset: 59, 101
+  index: -1
+Medal4III0080
+  rotate: false
+  xy: 1600, 718
+  size: 81, 35
+  orig: 200, 200
+  offset: 58, 101
+  index: -1
+Medal4III0081
+  rotate: false
+  xy: 1683, 709
+  size: 81, 34
+  orig: 200, 200
+  offset: 57, 101
+  index: -1
+Medal4III0082
+  rotate: false
+  xy: 407, 53
+  size: 82, 35
+  orig: 200, 200
+  offset: 57, 101
+  index: -1
+Medal4III0083
+  rotate: true
+  xy: 1159, 497
+  size: 75, 29
+  orig: 200, 200
+  offset: 63, 107
+  index: -1
+Medal4III0084
+  rotate: false
+  xy: 1313, 643
+  size: 77, 30
+  orig: 200, 200
+  offset: 62, 105
+  index: -1
+Medal4III0085
+  rotate: false
+  xy: 1315, 675
+  size: 77, 33
+  orig: 200, 200
+  offset: 60, 103
+  index: -1
+Medal4III0086
+  rotate: false
+  xy: 1234, 675
+  size: 79, 33
+  orig: 200, 200
+  offset: 59, 101
+  index: -1
+Medal4III0087
+  rotate: false
+  xy: 1103, 640
+  size: 80, 35
+  orig: 200, 200
+  offset: 59, 101
+  index: -1
+Medal4III0088
+  rotate: false
+  xy: 1188, 710
+  size: 80, 35
+  orig: 200, 200
+  offset: 59, 101
+  index: -1
+Medal4III0089
+  rotate: false
+  xy: 1270, 710
+  size: 79, 35
+  orig: 200, 200
+  offset: 60, 101
+  index: -1
+Medal4III0090
+  rotate: false
+  xy: 1351, 710
+  size: 78, 35
+  orig: 200, 200
+  offset: 62, 101
+  index: -1
+Medal4III0091
+  rotate: false
+  xy: 1234, 638
+  size: 77, 35
+  orig: 200, 200
+  offset: 61, 101
+  index: -1
+Medal4III0092
+  rotate: false
+  xy: 398, 13
+  size: 82, 38
+  orig: 200, 200
+  offset: 57, 98
+  index: -1
+Medal4III0093
+  rotate: false
+  xy: 322, 67
+  size: 83, 38
+  orig: 200, 200
+  offset: 57, 98
+  index: -1
+Medal4III0094
+  rotate: false
+  xy: 408, 90
+  size: 83, 33
+  orig: 200, 200
+  offset: 57, 103
+  index: -1
+Medal4III0095
+  rotate: false
+  xy: 1103, 677
+  size: 80, 38
+  orig: 200, 200
+  offset: 59, 98
+  index: -1
+MedalV0041
+  rotate: true
+  xy: 164, 428
+  size: 4, 42
+  orig: 200, 200
+  offset: 39, 75
+  index: -1
+MedalV0042
+  rotate: true
+  xy: 316, 737
+  size: 5, 44
+  orig: 200, 200
+  offset: 39, 74
+  index: -1
+MedalV0043
+  rotate: false
+  xy: 164, 537
+  size: 5, 43
+  orig: 200, 200
+  offset: 39, 75
+  index: -1
+MedalV0044
+  rotate: false
+  xy: 116, 13
+  size: 27, 69
+  orig: 200, 200
+  offset: 39, 75
+  index: -1
+MedalV0045
+  rotate: false
+  xy: 1190, 503
+  size: 30, 69
+  orig: 200, 200
+  offset: 38, 76
+  index: -1
+MedalV0046
+  rotate: true
+  xy: 1766, 711
+  size: 32, 69
+  orig: 200, 200
+  offset: 38, 77
+  index: -1
+MedalV0047
+  rotate: true
+  xy: 316, 192
+  size: 33, 92
+  orig: 200, 200
+  offset: 38, 54
+  index: -1
+MedalV0048
+  rotate: true
+  xy: 627, 169
+  size: 35, 96
+  orig: 200, 200
+  offset: 38, 52
+  index: -1
+MedalV0049
+  rotate: true
+  xy: 408, 125
+  size: 38, 96
+  orig: 200, 200
+  offset: 38, 53
+  index: -1
+MedalV0050
+  rotate: true
+  xy: 529, 171
+  size: 40, 96
+  orig: 200, 200
+  offset: 38, 54
+  index: -1
+MedalV0051
+  rotate: false
+  xy: 2003, 803
+  size: 43, 94
+  orig: 200, 200
+  offset: 38, 56
+  index: -1
+MedalV0052
+  rotate: true
+  xy: 2, 5
+  size: 77, 112
+  orig: 200, 200
+  offset: 38, 40
+  index: -1
+MedalV0053
+  rotate: true
+  xy: 796, 419
+  size: 81, 113
+  orig: 200, 200
+  offset: 38, 39
+  index: -1
+MedalV0054
+  rotate: false
+  xy: 1600, 755
+  size: 84, 112
+  orig: 200, 200
+  offset: 38, 40
+  index: -1
+MedalV0055
+  rotate: false
+  xy: 310, 323
+  size: 109, 120
+  orig: 200, 200
+  offset: 38, 33
+  index: -1
+MedalV0056
+  rotate: false
+  xy: 1034, 251
+  size: 111, 120
+  orig: 200, 200
+  offset: 39, 33
+  index: -1
+MedalV0057
+  rotate: true
+  xy: 667, 501
+  size: 121, 120
+  orig: 200, 200
+  offset: 38, 33
+  index: -1
+MedalV0058
+  rotate: false
+  xy: 789, 502
+  size: 121, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0059
+  rotate: false
+  xy: 975, 495
+  size: 121, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0060
+  rotate: true
+  xy: 974, 373
+  size: 120, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0061
+  rotate: false
+  xy: 1097, 373
+  size: 120, 120
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0062
+  rotate: true
+  xy: 790, 297
+  size: 120, 119
+  orig: 200, 200
+  offset: 38, 33
+  index: -1
+MedalV0063
+  rotate: false
+  xy: 1147, 251
+  size: 120, 120
+  orig: 200, 200
+  offset: 39, 33
+  index: -1
+MedalV0064
+  rotate: false
+  xy: 421, 321
+  size: 121, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0065
+  rotate: false
+  xy: 544, 319
+  size: 121, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0066
+  rotate: false
+  xy: 667, 317
+  size: 121, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+MedalV0067
+  rotate: false
+  xy: 911, 250
+  size: 121, 121
+  orig: 200, 200
+  offset: 38, 32
+  index: -1
+v1
+  rotate: false
+  xy: 744, 244
+  size: 11, 20
+  orig: 191, 184
+  offset: 88, 36
+  index: -1
+v2
+  rotate: false
+  xy: 1136, 618
+  size: 21, 20
+  orig: 191, 184
+  offset: 83, 36
+  index: -1
+v3
+  rotate: false
+  xy: 1103, 618
+  size: 31, 20
+  orig: 191, 184
+  offset: 78, 36
+  index: -1
+v4
+  rotate: true
+  xy: 760, 284
+  size: 31, 20
+  orig: 191, 184
+  offset: 79, 36
+  index: -1
+v5
+  rotate: false
+  xy: 506, 143
+  size: 21, 20
+  orig: 191, 184
+  offset: 82, 36
+  index: -1
+ya2_225
+  rotate: false
+  xy: 410, 165
+  size: 117, 39
+  orig: 191, 184
+  offset: 40, 22
+  index: -1
+ya3_1
+  rotate: false
+  xy: 1185, 640
+  size: 47, 68
+  orig: 191, 184
+  offset: 70, 54
+  index: -1
+ya3_15
+  rotate: false
+  xy: 412, 206
+  size: 115, 113
+  orig: 191, 184
+  offset: 39, 36
+  index: -1
+ya3_16
+  rotate: false
+  xy: 322, 107
+  size: 84, 83
+  orig: 191, 184
+  offset: 47, 46
+  index: -1
+ya3_78
+  rotate: false
+  xy: 316, 227
+  size: 94, 94
+  orig: 191, 184
+  offset: 47, 38
+  index: -1
+ya3_79
+  rotate: false
+  xy: 1159, 574
+  size: 45, 64
+  orig: 191, 184
+  offset: 71, 57
+  index: -1
+ya3_9
+  rotate: false
+  xy: 529, 213
+  size: 104, 104
+  orig: 191, 184
+  offset: 42, 33
+  index: -1

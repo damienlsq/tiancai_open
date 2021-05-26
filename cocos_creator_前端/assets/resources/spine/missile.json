@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "AzJ9G5zRTpPh9d/4QeEI1Mbj7Zs", "spine": "3.6.52", "width": 120, "height": 40, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 126, "rotation": 180, "x": -3.5, "y": 3 }
+],
+"slots": [
+	{ "name": "missile0001", "bone": "bone", "attachment": "missile0002" }
+],
+"skins": {
+	"default": {
+		"missile0001": {
+			"missile0001": { "x": -8, "rotation": 180, "width": 120, "height": 40 },
+			"missile0002": { "x": -8, "rotation": 180, "width": 120, "height": 40 }
+		}
+	}
+},
+"animations": {
+	"missile": {
+		"slots": {
+			"missile0001": {
+				"attachment": [
+					{ "time": 0.0667, "name": "missile0001" },
+					{ "time": 0.1333, "name": "missile0002" },
+					{ "time": 0.2, "name": "missile0001" },
+					{ "time": 0.2333, "name": "missile0002" },
+					{ "time": 0.3333, "name": "missile0001" },
+					{ "time": 0.4, "name": "missile0002" },
+					{ "time": 0.4667, "name": "missile0001" },
+					{ "time": 0.5, "name": "missile0002" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

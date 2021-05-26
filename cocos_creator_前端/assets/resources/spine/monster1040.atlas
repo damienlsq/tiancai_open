@@ -1,0 +1,300 @@
+
+monster1040.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 513, 38
+  size: 66, 129
+  orig: 440, 300
+  offset: 184, 79
+  index: -1
+eyes
+  rotate: false
+  xy: 798, 103
+  size: 15, 10
+  orig: 444, 300
+  offset: 171, 195
+  index: -1
+eyesBad
+  rotate: false
+  xy: 1002, 240
+  size: 19, 14
+  orig: 444, 300
+  offset: 171, 192
+  index: -1
+fire0001
+  rotate: false
+  xy: 541, 106
+  size: 140, 77
+  orig: 200, 100
+  offset: 25, 11
+  index: -1
+fire0002
+  rotate: false
+  xy: 683, 115
+  size: 135, 65
+  orig: 200, 100
+  offset: 28, 15
+  index: -1
+fire0003
+  rotate: false
+  xy: 215, 48
+  size: 148, 64
+  orig: 200, 100
+  offset: 18, 16
+  index: -1
+fire0004
+  rotate: false
+  xy: 2, 11
+  size: 153, 75
+  orig: 200, 100
+  offset: 14, 12
+  index: -1
+fire0005
+  rotate: false
+  xy: 700, 182
+  size: 150, 72
+  orig: 200, 100
+  offset: 15, 13
+  index: -1
+fire0006
+  rotate: false
+  xy: 384, 183
+  size: 155, 71
+  orig: 200, 100
+  offset: 10, 14
+  index: -1
+fire0007
+  rotate: false
+  xy: 384, 112
+  size: 150, 69
+  orig: 200, 100
+  offset: 15, 15
+  index: -1
+fire0008
+  rotate: false
+  xy: 365, 43
+  size: 146, 67
+  orig: 200, 100
+  offset: 17, 16
+  index: -1
+fire0009
+  rotate: false
+  xy: 541, 185
+  size: 157, 69
+  orig: 200, 100
+  offset: 6, 15
+  index: -1
+fire0010
+  rotate: false
+  xy: 852, 178
+  size: 148, 76
+  orig: 200, 100
+  offset: 15, 13
+  index: -1
+fire20001
+  rotate: false
+  xy: 912, 48
+  size: 68, 61
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+fire20002
+  rotate: false
+  xy: 912, 48
+  size: 68, 61
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+fire20004
+  rotate: false
+  xy: 912, 48
+  size: 68, 61
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+fire20007
+  rotate: false
+  xy: 912, 48
+  size: 68, 61
+  orig: 100, 100
+  offset: 9, 9
+  index: -1
+fire20010
+  rotate: false
+  xy: 934, 111
+  size: 83, 65
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+fire20003
+  rotate: false
+  xy: 934, 111
+  size: 83, 65
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+fire20005
+  rotate: false
+  xy: 934, 111
+  size: 83, 65
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+fire20006
+  rotate: false
+  xy: 934, 111
+  size: 83, 65
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+fire20008
+  rotate: false
+  xy: 934, 111
+  size: 83, 65
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+fire20009
+  rotate: false
+  xy: 934, 111
+  size: 83, 65
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+fire30001
+  rotate: false
+  xy: 231, 7
+  size: 70, 39
+  orig: 100, 100
+  offset: 19, 23
+  index: -1
+fire30002
+  rotate: false
+  xy: 231, 7
+  size: 70, 39
+  orig: 100, 100
+  offset: 19, 23
+  index: -1
+fire30004
+  rotate: false
+  xy: 231, 7
+  size: 70, 39
+  orig: 100, 100
+  offset: 19, 23
+  index: -1
+fire30007
+  rotate: false
+  xy: 231, 7
+  size: 70, 39
+  orig: 100, 100
+  offset: 19, 23
+  index: -1
+fire30003
+  rotate: false
+  xy: 157, 2
+  size: 72, 44
+  orig: 100, 100
+  offset: 17, 22
+  index: -1
+fire30005
+  rotate: false
+  xy: 157, 2
+  size: 72, 44
+  orig: 100, 100
+  offset: 17, 22
+  index: -1
+fire30006
+  rotate: false
+  xy: 157, 2
+  size: 72, 44
+  orig: 100, 100
+  offset: 17, 22
+  index: -1
+fire30008
+  rotate: false
+  xy: 157, 2
+  size: 72, 44
+  orig: 100, 100
+  offset: 17, 22
+  index: -1
+fire30009
+  rotate: false
+  xy: 157, 2
+  size: 72, 44
+  orig: 100, 100
+  offset: 17, 22
+  index: -1
+fire30010
+  rotate: false
+  xy: 157, 2
+  size: 72, 44
+  orig: 100, 100
+  offset: 17, 22
+  index: -1
+head
+  rotate: false
+  xy: 683, 57
+  size: 113, 56
+  orig: 444, 300
+  offset: 129, 175
+  index: -1
+lfoot
+  rotate: true
+  xy: 157, 50
+  size: 36, 53
+  orig: 440, 300
+  offset: 211, 57
+  index: -1
+mouth
+  rotate: true
+  xy: 644, 59
+  size: 45, 27
+  orig: 440, 300
+  offset: 159, 156
+  index: -1
+rfoot
+  rotate: false
+  xy: 303, 3
+  size: 51, 43
+  orig: 440, 300
+  offset: 160, 60
+  index: -1
+tail
+  rotate: true
+  xy: 820, 116
+  size: 60, 112
+  orig: 440, 300
+  offset: 232, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 644, 2
+  size: 53, 45
+  orig: 440, 300
+  offset: 143, 115
+  index: -1
+wing2
+  rotate: false
+  xy: 215, 114
+  size: 167, 140
+  orig: 440, 300
+  offset: 0, 115
+  index: -1
+wing3
+  rotate: false
+  xy: 820, 54
+  size: 90, 60
+  orig: 440, 300
+  offset: 225, 120
+  index: -1
+wing4
+  rotate: false
+  xy: 2, 88
+  size: 211, 166
+  orig: 440, 300
+  offset: 229, 134
+  index: -1

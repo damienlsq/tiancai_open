@@ -1,0 +1,20 @@
+
+reflex.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reflex1
+  rotate: false
+  xy: 96, 6
+  size: 67, 134
+  orig: 300, 186
+  offset: 202, 26
+  index: -1
+reflex2
+  rotate: false
+  xy: 0, 0
+  size: 94, 140
+  orig: 300, 186
+  offset: 154, 23
+  index: -1

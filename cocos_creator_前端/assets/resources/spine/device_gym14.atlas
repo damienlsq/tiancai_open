@@ -1,0 +1,111 @@
+
+device_gym14.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammerMachine
+  rotate: true
+  xy: 2, 8
+  size: 115, 139
+  orig: 115, 145
+  offset: 0, 0
+  index: -1
+hammerMachineHAMMER
+  rotate: false
+  xy: 143, 81
+  size: 18, 42
+  orig: 85, 128
+  offset: 65, 7
+  index: -1
+hammerMachineLED1
+  rotate: false
+  xy: 187, 119
+  size: 20, 4
+  orig: 85, 128
+  offset: 29, 85
+  index: -1
+hammerMachineLED2
+  rotate: false
+  xy: 2, 2
+  size: 22, 4
+  orig: 85, 128
+  offset: 28, 85
+  index: -1
+hammerMachineLED3
+  rotate: true
+  xy: 143, 57
+  size: 22, 4
+  orig: 85, 128
+  offset: 28, 85
+  index: -1
+hammerMachineLED4
+  rotate: false
+  xy: 163, 119
+  size: 22, 4
+  orig: 85, 128
+  offset: 28, 85
+  index: -1
+hammerMachineLED5
+  rotate: false
+  xy: 26, 2
+  size: 22, 4
+  orig: 85, 128
+  offset: 28, 85
+  index: -1
+hammerMachineLED6
+  rotate: true
+  xy: 143, 33
+  size: 22, 4
+  orig: 85, 128
+  offset: 28, 85
+  index: -1
+hammerMachineLi1
+  rotate: true
+  xy: 149, 58
+  size: 21, 5
+  orig: 85, 128
+  offset: 29, 41
+  index: -1
+hammerMachineLi2
+  rotate: false
+  xy: 163, 112
+  size: 21, 5
+  orig: 85, 128
+  offset: 29, 48
+  index: -1
+hammerMachineLi3
+  rotate: true
+  xy: 149, 35
+  size: 21, 5
+  orig: 85, 128
+  offset: 29, 55
+  index: -1
+hammerMachineLi4
+  rotate: true
+  xy: 156, 58
+  size: 21, 5
+  orig: 85, 128
+  offset: 29, 62
+  index: -1
+hammerMachineLi5
+  rotate: false
+  xy: 163, 105
+  size: 21, 5
+  orig: 85, 128
+  offset: 29, 69
+  index: -1
+hammerMachineLi6
+  rotate: true
+  xy: 156, 35
+  size: 21, 5
+  orig: 85, 128
+  offset: 29, 76
+  index: -1
+hammerMachineNum
+  rotate: false
+  xy: 186, 111
+  size: 8, 6
+  orig: 85, 128
+  offset: 36, 84
+  index: -1

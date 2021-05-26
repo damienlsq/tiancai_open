@@ -1,0 +1,183 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion PROP_COMPILE_SDK_VERSION.toInteger()
+    buildToolsVersion PROP_BUILD_TOOLS_VERSION
+
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
+
+    def versionPropsFile = file('../gradle.properties')
+
+    def UMENG_CHANNEL = "test"
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+    task(runProgram){
+        if(project.hasProperty("CMD_CHANNEL")){
+            UMENG_CHANNEL = CMD_CHANNEL;
+        }
+    }
+
+    if (versionPropsFile.canRead()) {
+        def Properties versionProps = new Properties()
+
+        versionProps.load(new FileInputStream(versionPropsFile))
+
+        def code = versionProps['VERSION_CODE'].toInteger() + 1
+
+        versionProps['VERSION_CODE']=code.toString()
+        versionProps.store(versionPropsFile.newWriter(), null)
+
+        defaultConfig {
+            applicationId ""
+            minSdkVersion PROP_MIN_SDK_VERSION
+            targetSdkVersion PROP_TARGET_SDK_VERSION
+            versionCode code
+            versionName ""
+            testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+            externalNativeBuild {
+                ndkBuild {
+                    if (!project.hasProperty("PROP_NDK_MODE") || PROP_NDK_MODE.compareTo('none') != 0) {
+                        // skip the NDK Build step if PROP_NDK_MODE is none
+                        targets 'cocos2djs'
+                        arguments 'NDK_TOOLCHAIN_VERSION=clang'
+                        
+                        def module_paths = [project.file("/Applications/CocosCreator.app/Contents/Resources/cocos2d-x"),
+                                            project.file("/Applications/CocosCreator.app/Contents/Resources/cocos2d-x/cocos"),
+                                            project.file("/Applications/CocosCreator.app/Contents/Resources/cocos2d-x/external")]
+                        if (Os.isFamily(Os.FAMILY_WINDOWS)) {
+                            arguments 'NDK_MODULE_PATH=' + module_paths.join(";")
+                        }
+                        else {
+                            arguments 'NDK_MODULE_PATH=' + module_paths.join(':')
+                        }
+
+                        arguments '-j' + Runtime.runtime.availableProcessors()
+                        abiFilters.addAll(PROP_APP_ABI.split(':').collect{it as String})
+                    }
+                }
+            }
+        }
+        flavorDimensions 'free'
+        //定义各个渠道所不同的属性(包名、版本号、签名等等)
+        productFlavors {
+            // 打包顺序会先执行这个，然后再执行单独的配置，所以单独可以覆盖此配置
+            productFlavors.all { flavor ->
+                // 通用的BuildConfig
+                buildConfigField 'String','WEIXIN_ID','""'
+                buildConfigField 'String','XIAOMI_ID','""'
+                buildConfigField 'String','XIAOMI_KEY','""'
+                buildConfigField 'Integer','SPLASH_TIME','1000'
+            }
+
+            dev {
+                applicationId ""
+                buildConfigField 'String','CHANNEL_ID','"test"'
+                //定义为不同的包名
+                dimension 'free'
+            }
+        }
+
+    }
+    else {
+        throw new GradleException("Could not read version.properties!")
+    }
+
+    sourceSets {
+        main {
+            java.srcDirs = ["src/main/java"]
+            res.srcDirs = ["src/main/res", "libAAK/res"]
+            assets.srcDirs = ["assets"]
+        }
+        dev {
+            java.srcDirs = ["src/main/java", 
+                            "src/mbgwanga/java",
+                            "src/pay/java"]
+            res.srcDirs = ["src/main/res"]
+            jniLibs.srcDirs = ["libs"]
+        }
+    }
+
+    externalNativeBuild {
+        ndkBuild {
+            if (!project.hasProperty("PROP_NDK_MODE") || PROP_NDK_MODE.compareTo('none') != 0) {
+                // skip the NDK Build step if PROP_NDK_MODE is none
+                path "jni/Android.mk"
+            }
+        }
+    }
+
+    signingConfigs {
+
+       release {
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                storeFile file(RELEASE_STORE_FILE)
+                storePassword RELEASE_STORE_PASSWORD
+                keyAlias RELEASE_KEY_ALIAS
+                keyPassword RELEASE_KEY_PASSWORD
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                signingConfig signingConfigs.release
+            }
+
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=0'
+                }
+            }
+        }
+
+        debug {
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=1'
+                }
+            }
+        }
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'aar'
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation fileTree(dir: "/Applications/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/java/libs", include: ['*.jar'])
+    implementation project(':libcocos2dx')
+
+    def taskNames = "";
+    if (gradle.startParameter.taskNames) {
+        taskNames = gradle.startParameter.taskNames[0].toLowerCase()
+    };
+        
+    if (taskNames.contains("dev")) {
+        
+        implementation "androidx.core:core:1.1.0"
+        implementation "androidx.localbroadcastmanager:localbroadcastmanager:1.0.0"
+
+        // 微信
+        implementation 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:+'
+    } 
+    implementation project(':protectlib')
+}

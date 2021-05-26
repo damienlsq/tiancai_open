@@ -1,0 +1,201 @@
+{
+"skeleton": { "hash": "DyvDhFOTsYUOlyz+C3ofb+KnhFg", "spine": "3.6.52", "width": 825, "height": 600, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 135, "rotation": 89.58, "x": -1, "y": 7 },
+	{ "name": "bone2", "parent": "root", "length": 135, "rotation": 89.58, "x": -1, "y": 38, "scaleX": 1.5, "scaleY": 1.5 }
+],
+"slots": [
+	{ "name": "electricHouse", "bone": "bone", "attachment": "shock30036" },
+	{ "name": "electricHouse2", "bone": "bone2", "attachment": "shock220035" }
+],
+"skins": {
+	"default": {
+		"electricHouse": {
+			"shock30036": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30037": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30038": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30039": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30040": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30041": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30042": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30043": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30044": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30045": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30046": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30047": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30048": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30049": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30050": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30051": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30052": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30053": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30054": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30055": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30056": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30057": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock30058": { "rotation": -89.58, "width": 550, "height": 400 }
+		},
+		"electricHouse2": {
+			"shock220020": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220021": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220022": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220023": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220024": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220025": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220026": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220027": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220028": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220029": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220030": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220031": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220032": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220033": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220034": { "rotation": -89.58, "width": 550, "height": 400 },
+			"shock220035": { "rotation": -89.58, "width": 550, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"electricHouse": {
+				"attachment": [
+					{ "time": 0, "name": "shock30036" },
+					{ "time": 0.0333, "name": "shock30037" },
+					{ "time": 0.0667, "name": "shock30038" },
+					{ "time": 0.1, "name": "shock30039" },
+					{ "time": 0.1333, "name": "shock30040" },
+					{ "time": 0.1667, "name": "shock30041" },
+					{ "time": 0.2, "name": "shock30042" },
+					{ "time": 0.2333, "name": "shock30043" },
+					{ "time": 0.2667, "name": "shock30044" },
+					{ "time": 0.3, "name": "shock30045" },
+					{ "time": 0.3333, "name": "shock30046" },
+					{ "time": 0.3667, "name": "shock30047" },
+					{ "time": 0.4, "name": "shock30043" },
+					{ "time": 0.4333, "name": "shock30044" },
+					{ "time": 0.4667, "name": "shock30045" },
+					{ "time": 0.5, "name": "shock30046" },
+					{ "time": 0.5333, "name": "shock30047" },
+					{ "time": 0.5667, "name": "shock30043" },
+					{ "time": 0.6, "name": "shock30044" },
+					{ "time": 0.6333, "name": "shock30045" },
+					{ "time": 0.6667, "name": "shock30046" },
+					{ "time": 0.7, "name": "shock30047" },
+					{ "time": 0.7333, "name": "shock30043" },
+					{ "time": 0.7667, "name": "shock30044" },
+					{ "time": 0.8, "name": "shock30045" },
+					{ "time": 0.8333, "name": "shock30046" },
+					{ "time": 0.8667, "name": "shock30047" },
+					{ "time": 3.1667, "name": "shock30050" },
+					{ "time": 3.2, "name": "shock30051" },
+					{ "time": 3.2333, "name": "shock30052" },
+					{ "time": 3.2667, "name": "shock30053" },
+					{ "time": 3.3, "name": "shock30054" },
+					{ "time": 3.3333, "name": "shock30055" },
+					{ "time": 3.3667, "name": "shock30056" },
+					{ "time": 3.4, "name": "shock30057" },
+					{ "time": 3.4333, "name": "shock30058" },
+					{ "time": 4, "name": "shock30042" },
+					{ "time": 4.0333, "name": "shock30043" },
+					{ "time": 4.0667, "name": "shock30044" },
+					{ "time": 4.1, "name": "shock30045" },
+					{ "time": 4.1333, "name": "shock30046" },
+					{ "time": 4.1667, "name": "shock30047" },
+					{ "time": 4.2, "name": "shock30043" },
+					{ "time": 4.2333, "name": "shock30044" },
+					{ "time": 4.2667, "name": "shock30045" },
+					{ "time": 4.3, "name": "shock30046" },
+					{ "time": 4.3333, "name": "shock30047" },
+					{ "time": 4.3667, "name": "shock30043" },
+					{ "time": 4.4, "name": "shock30044" },
+					{ "time": 4.4333, "name": "shock30045" },
+					{ "time": 4.4667, "name": "shock30046" },
+					{ "time": 4.5, "name": "shock30047" },
+					{ "time": 4.5333, "name": "shock30043" },
+					{ "time": 4.5667, "name": "shock30044" },
+					{ "time": 4.6, "name": "shock30045" },
+					{ "time": 4.6333, "name": "shock30046" },
+					{ "time": 4.6667, "name": "shock30047" },
+					{ "time": 5.9333, "name": "shock30050" },
+					{ "time": 5.9667, "name": "shock30051" },
+					{ "time": 6, "name": "shock30052" },
+					{ "time": 6.0333, "name": "shock30053" },
+					{ "time": 6.0667, "name": "shock30054" },
+					{ "time": 6.1, "name": "shock30055" },
+					{ "time": 6.1333, "name": "shock30056" },
+					{ "time": 6.1667, "name": "shock30057" },
+					{ "time": 6.2, "name": "shock30058" }
+				]
+			},
+			"electricHouse2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": null },
+					{ "time": 0.2667, "name": "shock220021" },
+					{ "time": 0.3, "name": "shock220022" },
+					{ "time": 0.3333, "name": "shock220023" },
+					{ "time": 0.3667, "name": "shock220024" },
+					{ "time": 0.4, "name": "shock220025" },
+					{ "time": 0.4333, "name": "shock220026" },
+					{ "time": 0.4667, "name": "shock220027" },
+					{ "time": 0.5, "name": "shock220028" },
+					{ "time": 0.5333, "name": "shock220029" },
+					{ "time": 0.5667, "name": "shock220030" },
+					{ "time": 0.6, "name": "shock220031" },
+					{ "time": 0.6333, "name": "shock220032" },
+					{ "time": 0.6667, "name": "shock220033" },
+					{ "time": 0.7, "name": "shock220034" },
+					{ "time": 0.7333, "name": "shock220035" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 4.0333, "name": null },
+					{ "time": 4.0667, "name": "shock220021" },
+					{ "time": 4.1, "name": "shock220022" },
+					{ "time": 4.1333, "name": "shock220023" },
+					{ "time": 4.1667, "name": "shock220024" },
+					{ "time": 4.2, "name": "shock220025" },
+					{ "time": 4.2333, "name": "shock220026" },
+					{ "time": 4.2667, "name": "shock220027" },
+					{ "time": 4.3, "name": "shock220028" },
+					{ "time": 4.3333, "name": "shock220029" },
+					{ "time": 4.3667, "name": "shock220030" },
+					{ "time": 4.4, "name": "shock220031" },
+					{ "time": 4.4333, "name": "shock220032" },
+					{ "time": 4.4667, "name": "shock220033" },
+					{ "time": 4.5, "name": "shock220034" },
+					{ "time": 4.5333, "name": "shock220035" },
+					{ "time": 4.5667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 8.9333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 8.9333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 8.9333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

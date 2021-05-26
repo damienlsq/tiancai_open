@@ -1,0 +1,129 @@
+{
+  "FS": {
+    "FS2C_WS_FWD": {
+      "type": "server_fwd",
+      "name": "FS2C_WS_FWD",
+      "port": 30001,
+      "peers": 4000,
+      "encryptkey": "88888888"
+    },
+    "FS2C_ENET_FWD": {
+      "type": "server_fwd",
+      "name": "FS2C_ENET_FWD",
+      "port": 30002,
+      "peers": 4000,
+      "encrypt": true,
+      "encryptkey": "88888888",
+      "base64": true,
+      "compress": true
+    },
+    "FS2GS_FWD": {
+      "type": "server_fwd",
+      "name": "FS2GS_FWD",
+      "port": 30003,
+      "timeoutMin": 60000,
+      "timeoutMax": 60000
+    },
+    "FS2BS_FWD": {
+      "type": "server_fwd",
+      "name": "FS2BS_FWD",
+      "port": 30004,
+      "peers": 32,
+      "timeoutMin": 60000,
+      "timeoutMax": 60000
+    },
+    "FS2XFS_FWD": {
+      "type": "client_fwd",
+      "name": "FS2XFS_ENET_FWD",
+      "address": "改为.你的域名.com",
+      "port": 30005,
+      "timeoutMin": 60000,
+      "timeoutMax": 60000,
+      "isClient": true,
+      "reconnect": true
+    }
+  },
+  "XFS": {
+    "FS2XFS_FWD": {
+      "type": "server_fwd",
+      "name": "FS2XFS_ENET_FWD",
+      "port": 30005
+    }
+  },
+  "BS": {
+    "BS2GS_FWD": {
+      "type": "client_fwd",
+      "name": "BS2GS_FWD",
+      "port": 30006
+    },
+    "BS2FS_FWD": {
+      "type": "client_fwd",
+      "name": "BS2FS_FWD",
+      "port": 30004
+    }
+  },
+  "GS": {
+    "GS2BS_FWD": {
+      "type": "server_fwd",
+      "name": "GS2BS_FWD",
+      "port": 30006
+    },
+    "FS2GS_FWD": {
+      "type": "server_fwd",
+      "name": "FS2GS_FWD",
+      "port": 30003
+    }
+  },
+  "DB": [
+    {
+      "name": "mysql-users",
+      "type": "MYSQL",
+      "host": "数据库连接HOST",
+      "port": 3306,
+      "user": "数据库账号",
+      "password": "数据库密码",
+      "charset": "utf8mb4",
+      "debug": false,
+      "database": "数据库"
+    },
+    {
+      "name": "mysql-bills",
+      "type": "MYSQL",
+      "host": "数据库连接HOST",
+      "port": 3306,
+      "user": "数据库账号",
+      "password": "数据库密码",
+      "charset": "utf8",
+      "debug": false,
+      "database": "数据库"
+    },
+    {
+      "name": "redis-users",
+      "type": "REDIS",
+      "host": "redis连接HOST",
+      "password": "8xc2c9qzyJi6",
+      "port": 6379
+    },
+    {
+      "name": "redis-stat",
+      "type": "REDIS",
+      "host": "redis连接HOST",
+      "password": "redis密码",
+      "port": 6379
+    },
+    {
+      "name": "redis-subscribe-bills",
+      "type": "REDIS",
+      "host": "redis连接HOST",
+      "password": "redis密码",
+      "port": 6379
+    },
+    {
+      "name": "redis-subscribe",
+      "type": "REDIS",
+      "host": "redis连接HOST",
+      "password": "redis密码",
+      "port": 6379
+    }
+  ]
+}

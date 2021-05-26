@@ -1,0 +1,90 @@
+
+monster0013.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 34
+  size: 105, 92
+  orig: 130, 160
+  offset: 11, 26
+  index: -1
+fire1
+  rotate: true
+  xy: 109, 2
+  size: 31, 33
+  orig: 276, 204
+  offset: 117, 78
+  index: -1
+gun
+  rotate: false
+  xy: 109, 35
+  size: 40, 28
+  orig: 47, 28
+  offset: 2, 0
+  index: -1
+head
+  rotate: false
+  xy: 109, 65
+  size: 47, 61
+  orig: 130, 160
+  offset: 40, 99
+  index: -1
+larm
+  rotate: false
+  xy: 230, 79
+  size: 21, 47
+  orig: 130, 160
+  offset: 100, 56
+  index: -1
+lf
+  rotate: true
+  xy: 2, 11
+  size: 21, 50
+  orig: 130, 160
+  offset: 100, 22
+  index: -1
+lfoot
+  rotate: true
+  xy: 208, 62
+  size: 23, 11
+  orig: 130, 160
+  offset: 67, 0
+  index: -1
+lpant
+  rotate: false
+  xy: 195, 87
+  size: 33, 39
+  orig: 130, 160
+  offset: 62, 3
+  index: -1
+rarm
+  rotate: true
+  xy: 158, 63
+  size: 20, 48
+  orig: 130, 160
+  offset: 7, 56
+  index: -1
+rf
+  rotate: true
+  xy: 54, 13
+  size: 19, 51
+  orig: 130, 160
+  offset: 7, 22
+  index: -1
+rfoot
+  rotate: true
+  xy: 144, 11
+  size: 22, 10
+  orig: 130, 160
+  offset: 38, 0
+  index: -1
+rpant
+  rotate: false
+  xy: 158, 85
+  size: 35, 41
+  orig: 130, 160
+  offset: 31, 3
+  index: -1

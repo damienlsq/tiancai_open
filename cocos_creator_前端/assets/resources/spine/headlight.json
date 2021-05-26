@@ -1,0 +1,145 @@
+{
+"skeleton": { "hash": "8MKw/D69QU5rVSWjUX1TqvuSNas", "spine": "3.6.48", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "headlight", "parent": "root", "length": 59.7, "rotation": 89.45, "x": -0.8, "y": 2.8 }
+],
+"slots": [
+	{ "name": "headlight", "bone": "headlight" }
+],
+"skins": {
+	"default": {
+		"headlight": {
+			"headlight0001": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0002": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0003": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0004": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0005": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0006": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0007": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0008": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0009": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0010": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0011": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0012": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0013": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0014": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0015": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0016": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0017": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0018": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0019": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0020": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0021": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0022": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0023": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0024": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0025": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0026": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0027": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0028": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0029": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0030": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0031": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0032": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0033": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0034": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0035": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0036": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0037": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0038": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0039": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0040": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0041": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0042": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0043": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0044": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0045": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0046": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0047": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0048": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0049": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0050": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0051": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0052": { "rotation": -89.45, "width": 270, "height": 270 },
+			"headlight0053": { "rotation": -89.45, "width": 270, "height": 270 }
+		}
+	}
+},
+"animations": {
+	"headlight": {
+		"slots": {
+			"headlight": {
+				"attachment": [
+					{ "time": 0, "name": "headlight0001" },
+					{ "time": 0.0333, "name": "headlight0002" },
+					{ "time": 0.0667, "name": "headlight0003" },
+					{ "time": 0.1, "name": "headlight0004" },
+					{ "time": 0.1333, "name": "headlight0005" },
+					{ "time": 0.1667, "name": "headlight0006" },
+					{ "time": 0.2, "name": "headlight0007" },
+					{ "time": 0.2333, "name": "headlight0008" },
+					{ "time": 0.2667, "name": "headlight0009" },
+					{ "time": 0.3, "name": "headlight0010" },
+					{ "time": 0.3333, "name": "headlight0011" },
+					{ "time": 0.3667, "name": "headlight0012" },
+					{ "time": 0.4, "name": "headlight0013" },
+					{ "time": 0.4333, "name": "headlight0014" },
+					{ "time": 0.4667, "name": "headlight0015" },
+					{ "time": 0.5, "name": "headlight0016" },
+					{ "time": 0.5333, "name": "headlight0017" },
+					{ "time": 0.5667, "name": "headlight0018" },
+					{ "time": 0.6, "name": "headlight0019" },
+					{ "time": 0.6333, "name": "headlight0020" },
+					{ "time": 0.6667, "name": "headlight0021" },
+					{ "time": 0.7, "name": "headlight0022" },
+					{ "time": 0.7333, "name": "headlight0023" },
+					{ "time": 0.7667, "name": "headlight0024" },
+					{ "time": 0.8, "name": "headlight0025" },
+					{ "time": 0.8333, "name": "headlight0026" },
+					{ "time": 0.8667, "name": "headlight0027" },
+					{ "time": 0.9, "name": "headlight0028" },
+					{ "time": 0.9333, "name": "headlight0029" },
+					{ "time": 0.9667, "name": "headlight0030" },
+					{ "time": 1, "name": "headlight0031" },
+					{ "time": 1.0333, "name": "headlight0032" },
+					{ "time": 1.0667, "name": "headlight0033" },
+					{ "time": 1.1, "name": "headlight0034" },
+					{ "time": 1.1333, "name": "headlight0035" },
+					{ "time": 1.1667, "name": "headlight0036" },
+					{ "time": 1.2, "name": "headlight0037" },
+					{ "time": 1.2333, "name": "headlight0038" },
+					{ "time": 1.2667, "name": "headlight0039" },
+					{ "time": 1.3, "name": "headlight0040" },
+					{ "time": 1.3333, "name": "headlight0041" },
+					{ "time": 1.3667, "name": "headlight0042" },
+					{ "time": 1.4, "name": "headlight0043" },
+					{ "time": 1.4333, "name": "headlight0044" },
+					{ "time": 1.4667, "name": "headlight0045" },
+					{ "time": 1.5, "name": "headlight0046" },
+					{ "time": 1.5333, "name": "headlight0047" },
+					{ "time": 1.5667, "name": "headlight0048" },
+					{ "time": 1.6, "name": "headlight0049" },
+					{ "time": 1.6333, "name": "headlight0050" },
+					{ "time": 1.6667, "name": "headlight0051" },
+					{ "time": 1.7, "name": "headlight0052" },
+					{ "time": 1.7333, "name": "headlight0053" }
+				]
+			}
+		},
+		"bones": {
+			"headlight": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

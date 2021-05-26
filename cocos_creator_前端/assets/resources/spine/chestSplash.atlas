@@ -1,0 +1,41 @@
+
+chestSplash.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chestSplash1
+  rotate: false
+  xy: 2, 2
+  size: 252, 239
+  orig: 252, 239
+  offset: 0, 0
+  index: -1
+chestSplash4
+  rotate: false
+  xy: 256, 11
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 423, 103
+  size: 127, 138
+  orig: 200, 190
+  offset: 39, 21
+  index: -1
+leaf22
+  rotate: false
+  xy: 256, 56
+  size: 165, 185
+  orig: 200, 200
+  offset: 18, 7
+  index: -1
+leaf30
+  rotate: false
+  xy: 552, 144
+  size: 97, 97
+  orig: 200, 190
+  offset: 52, 46
+  index: -1

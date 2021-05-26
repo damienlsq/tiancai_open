@@ -1,0 +1,97 @@
+
+monster1030.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 11
+  size: 51, 90
+  orig: 110, 140
+  offset: 24, 26
+  index: -1
+eyes
+  rotate: false
+  xy: 375, 45
+  size: 27, 17
+  orig: 110, 140
+  offset: 35, 102
+  index: -1
+eyesBad
+  rotate: false
+  xy: 169, 4
+  size: 28, 17
+  orig: 110, 140
+  offset: 35, 102
+  index: -1
+head
+  rotate: false
+  xy: 94, 2
+  size: 73, 60
+  orig: 110, 140
+  offset: 12, 80
+  index: -1
+larm
+  rotate: true
+  xy: 224, 45
+  size: 17, 59
+  orig: 110, 140
+  offset: 69, 56
+  index: -1
+lfoot
+  rotate: false
+  xy: 312, 29
+  size: 21, 8
+  orig: 110, 140
+  offset: 53, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 285, 39
+  size: 23, 49
+  orig: 110, 140
+  offset: 68, 10
+  index: -1
+lpant
+  rotate: true
+  xy: 336, 38
+  size: 24, 37
+  orig: 110, 140
+  offset: 45, 6
+  index: -1
+rarm
+  rotate: true
+  xy: 224, 26
+  size: 17, 59
+  orig: 110, 140
+  offset: 13, 57
+  index: -1
+rfoot
+  rotate: false
+  xy: 199, 13
+  size: 21, 8
+  orig: 110, 140
+  offset: 25, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 224, 2
+  size: 22, 50
+  orig: 110, 140
+  offset: 8, 10
+  index: -1
+rpant
+  rotate: false
+  xy: 285, 2
+  size: 25, 35
+  orig: 110, 140
+  offset: 29, 6
+  index: -1
+tail
+  rotate: false
+  xy: 169, 23
+  size: 53, 39
+  orig: 110, 140
+  offset: 57, 1
+  index: -1

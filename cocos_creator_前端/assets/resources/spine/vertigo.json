@@ -1,0 +1,136 @@
+{
+"skeleton": { "hash": "vLgKliZsZzA0Mf0Y6ia6mG01EVk", "spine": "3.3.07", "width": 100, "height": 100, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2", "parent": "root", "length": 19.31, "rotation": 75.75, "x": 23.6, "y": -28.93 }
+],
+"slots": [
+	{ "name": "vertigo30001", "bone": "bone2", "attachment": "vertigo30001" }
+],
+"skins": {
+	"default": {
+		"vertigo30001": {
+			"vertigo30001": { "x": 14.81, "y": 2.28, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30002": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30003": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30004": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30005": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30006": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30007": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30008": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30009": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30010": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30011": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30012": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30013": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30014": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30015": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30016": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30017": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30018": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30019": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30020": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30021": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30022": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30023": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30024": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30025": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30026": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30027": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30028": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30029": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 },
+			"vertigo30030": { "x": 14.8, "y": 2.27, "rotation": -75.75, "width": 100, "height": 100 }
+		}
+	}
+},
+"animations": {
+	"vertigo": {
+		"slots": {
+			"vertigo30001": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "vertigo30001" },
+					{ "time": 0.0666, "name": "vertigo30002" },
+					{ "time": 0.1, "name": "vertigo30003" },
+					{ "time": 0.1333, "name": "vertigo30004" },
+					{ "time": 0.1666, "name": "vertigo30005" },
+					{ "time": 0.2, "name": "vertigo30006" },
+					{ "time": 0.2333, "name": "vertigo30007" },
+					{ "time": 0.2666, "name": "vertigo30008" },
+					{ "time": 0.3, "name": "vertigo30009" },
+					{ "time": 0.3333, "name": "vertigo30010" },
+					{ "time": 0.3666, "name": "vertigo30011" },
+					{ "time": 0.4, "name": "vertigo30012" },
+					{ "time": 0.4333, "name": "vertigo30013" },
+					{ "time": 0.4666, "name": "vertigo30014" },
+					{ "time": 0.5, "name": "vertigo30015" },
+					{ "time": 0.5333, "name": "vertigo30016" },
+					{ "time": 0.5666, "name": "vertigo30017" },
+					{ "time": 0.6, "name": "vertigo30018" },
+					{ "time": 0.6333, "name": "vertigo30019" },
+					{ "time": 0.6666, "name": "vertigo30020" },
+					{ "time": 0.7, "name": "vertigo30021" },
+					{ "time": 0.7333, "name": "vertigo30022" },
+					{ "time": 0.7666, "name": "vertigo30023" },
+					{ "time": 0.8, "name": "vertigo30024" },
+					{ "time": 0.8333, "name": "vertigo30025" },
+					{ "time": 0.8666, "name": "vertigo30026" },
+					{ "time": 0.9, "name": "vertigo30027" },
+					{ "time": 0.9333, "name": "vertigo30028" },
+					{ "time": 0.9666, "name": "vertigo30029" },
+					{ "time": 1, "name": "vertigo30030" },
+					{ "time": 1.0333, "name": "vertigo30001" },
+					{ "time": 1.0666, "name": "vertigo30002" },
+					{ "time": 1.1, "name": "vertigo30003" },
+					{ "time": 1.1333, "name": "vertigo30004" },
+					{ "time": 1.1666, "name": "vertigo30005" },
+					{ "time": 1.2, "name": "vertigo30006" },
+					{ "time": 1.2333, "name": "vertigo30007" },
+					{ "time": 1.2666, "name": "vertigo30008" },
+					{ "time": 1.3, "name": "vertigo30009" },
+					{ "time": 1.3333, "name": "vertigo30010" },
+					{ "time": 1.3666, "name": "vertigo30011" },
+					{ "time": 1.4, "name": "vertigo30012" },
+					{ "time": 1.4333, "name": "vertigo30013" },
+					{ "time": 1.4666, "name": "vertigo30014" },
+					{ "time": 1.5, "name": "vertigo30015" },
+					{ "time": 1.5333, "name": "vertigo30016" },
+					{ "time": 1.5666, "name": "vertigo30017" },
+					{ "time": 1.6, "name": "vertigo30018" },
+					{ "time": 1.6333, "name": "vertigo30019" },
+					{ "time": 1.6666, "name": "vertigo30020" },
+					{ "time": 1.7, "name": "vertigo30021" },
+					{ "time": 1.7333, "name": "vertigo30022" },
+					{ "time": 1.7666, "name": "vertigo30023" },
+					{ "time": 1.8, "name": "vertigo30024" },
+					{ "time": 1.8333, "name": "vertigo30025" },
+					{ "time": 1.8666, "name": "vertigo30026" },
+					{ "time": 1.9, "name": "vertigo30027" },
+					{ "time": 1.9333, "name": "vertigo30028" },
+					{ "time": 1.9666, "name": "vertigo30029" },
+					{ "time": 2, "name": "vertigo30030" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.404, "y": 0.404 },
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

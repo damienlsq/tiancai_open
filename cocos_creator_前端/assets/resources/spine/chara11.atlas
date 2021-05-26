@@ -1,0 +1,279 @@
+
+chara11.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 58, 11
+  size: 15, 15
+  orig: 150, 90
+  offset: 22, 67
+  index: -1
+body_2_1
+  rotate: false
+  xy: 361, 91
+  size: 51, 35
+  orig: 150, 90
+  offset: 50, 9
+  index: -1
+book
+  rotate: false
+  xy: 414, 91
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+eyesBad
+  rotate: false
+  xy: 449, 62
+  size: 29, 29
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyesBrow
+  rotate: false
+  xy: 251, 49
+  size: 26, 7
+  orig: 150, 90
+  offset: 55, 72
+  index: -1
+eyesClose
+  rotate: false
+  xy: 205, 38
+  size: 29, 29
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyesHappy
+  rotate: true
+  xy: 480, 97
+  size: 29, 30
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyesNone
+  rotate: false
+  xy: 148, 2
+  size: 29, 25
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyes_0_2
+  rotate: true
+  xy: 480, 66
+  size: 29, 30
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyes_0_5
+  rotate: true
+  xy: 480, 35
+  size: 29, 30
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyes_0_Angry
+  rotate: true
+  xy: 251, 58
+  size: 29, 30
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyes_0_Angry2
+  rotate: false
+  xy: 449, 93
+  size: 29, 33
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyes_2_1
+  rotate: false
+  xy: 174, 34
+  size: 29, 30
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+eyes_2_4
+  rotate: false
+  xy: 179, 2
+  size: 29, 30
+  orig: 150, 90
+  offset: 53, 48
+  index: -1
+head_2_1
+  rotate: false
+  xy: 192, 69
+  size: 57, 57
+  orig: 150, 90
+  offset: 47, 33
+  index: -1
+larm_2_1
+  rotate: false
+  xy: 283, 69
+  size: 16, 18
+  orig: 150, 90
+  offset: 90, 22
+  index: -1
+lfoot_2_1
+  rotate: false
+  xy: 23, 2
+  size: 13, 5
+  orig: 150, 90
+  offset: 80, 0
+  index: -1
+lforearm_2_1
+  rotate: true
+  xy: 75, 15
+  size: 11, 18
+  orig: 150, 90
+  offset: 96, 13
+  index: -1
+lleg_2_1
+  rotate: false
+  xy: 58, 2
+  size: 7, 7
+  orig: 150, 90
+  offset: 82, 1
+  index: -1
+lpant_2_1
+  rotate: false
+  xy: 210, 10
+  size: 25, 26
+  orig: 150, 90
+  offset: 74, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 283, 57
+  size: 14, 10
+  orig: 150, 90
+  offset: 67, 39
+  index: -1
+mouth0
+  rotate: false
+  xy: 210, 2
+  size: 19, 6
+  orig: 150, 90
+  offset: 65, 35
+  index: -1
+mouth3
+  rotate: false
+  xy: 95, 18
+  size: 19, 8
+  orig: 150, 90
+  offset: 65, 35
+  index: -1
+mouth_s1
+  rotate: false
+  xy: 361, 81
+  size: 20, 8
+  orig: 242, 140
+  offset: 54, 53
+  index: -1
+mouth_s2
+  rotate: false
+  xy: 383, 81
+  size: 13, 8
+  orig: 13, 12
+  offset: 0, 4
+  index: -1
+point
+  rotate: false
+  xy: 236, 40
+  size: 5, 5
+  orig: 192, 151
+  offset: 179, 71
+  index: -1
+question
+  rotate: true
+  xy: 309, 84
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+rarm_2_1
+  rotate: false
+  xy: 41, 9
+  size: 15, 17
+  orig: 150, 90
+  offset: 46, 22
+  index: -1
+rfoot_2_1
+  rotate: false
+  xy: 38, 2
+  size: 12, 5
+  orig: 150, 90
+  offset: 58, 0
+  index: -1
+rforearm_2_1
+  rotate: false
+  xy: 23, 9
+  size: 16, 17
+  orig: 150, 90
+  offset: 40, 13
+  index: -1
+rforearm_2_2
+  rotate: false
+  xy: 236, 47
+  size: 13, 20
+  orig: 150, 90
+  offset: 40, 11
+  index: -1
+rleg_2_1
+  rotate: false
+  xy: 192, 66
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+void
+  rotate: false
+  xy: 192, 66
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rpant_2_1
+  rotate: true
+  xy: 116, 2
+  size: 25, 30
+  orig: 150, 90
+  offset: 52, 1
+  index: -1
+square1
+  rotate: false
+  xy: 2, 28
+  size: 112, 98
+  orig: 120, 120
+  offset: 4, 13
+  index: -1
+square2
+  rotate: false
+  xy: 116, 66
+  size: 74, 60
+  orig: 120, 120
+  offset: 24, 35
+  index: -1
+square3
+  rotate: false
+  xy: 2, 6
+  size: 19, 20
+  orig: 120, 120
+  offset: 52, 66
+  index: -1
+weapon_2_1
+  rotate: false
+  xy: 116, 29
+  size: 56, 35
+  orig: 150, 93
+  offset: 21, 15
+  index: -1
+weapon_2_4
+  rotate: false
+  xy: 251, 89
+  size: 56, 37
+  orig: 150, 93
+  offset: 21, 13
+  index: -1

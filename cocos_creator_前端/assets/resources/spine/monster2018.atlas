@@ -1,0 +1,90 @@
+
+monster2018.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 291, 22
+  size: 71, 67
+  orig: 140, 160
+  offset: 46, 20
+  index: -1
+eyes
+  rotate: false
+  xy: 256, 17
+  size: 17, 16
+  orig: 140, 160
+  offset: 70, 89
+  index: -1
+eyesBad
+  rotate: false
+  xy: 256, 6
+  size: 17, 9
+  orig: 140, 160
+  offset: 71, 93
+  index: -1
+foot
+  rotate: false
+  xy: 417, 89
+  size: 84, 31
+  orig: 140, 160
+  offset: 36, 3
+  index: -1
+head
+  rotate: false
+  xy: 216, 35
+  size: 73, 85
+  orig: 140, 160
+  offset: 43, 75
+  index: -1
+head2
+  rotate: false
+  xy: 109, 3
+  size: 105, 117
+  orig: 105, 119
+  offset: 0, 1
+  index: -1
+head3
+  rotate: false
+  xy: 2, 2
+  size: 105, 118
+  orig: 105, 119
+  offset: 0, 1
+  index: -1
+larm
+  rotate: false
+  xy: 216, 4
+  size: 38, 29
+  orig: 140, 160
+  offset: 94, 68
+  index: -1
+lf
+  rotate: true
+  xy: 364, 17
+  size: 32, 36
+  orig: 120, 140
+  offset: 85, 27
+  index: -1
+rf
+  rotate: false
+  xy: 364, 51
+  size: 35, 38
+  orig: 140, 160
+  offset: 22, 45
+  index: -1
+rram
+  rotate: false
+  xy: 401, 58
+  size: 38, 29
+  orig: 140, 160
+  offset: 25, 68
+  index: -1
+weapon
+  rotate: true
+  xy: 291, 91
+  size: 29, 124
+  orig: 140, 160
+  offset: 0, 5
+  index: -1

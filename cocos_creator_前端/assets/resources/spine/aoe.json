@@ -1,0 +1,75 @@
+{
+"skeleton": { "hash": "FqoD4/uIewiMW6qj0qggX8lJ4Fo", "spine": "3.6.48", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 189, "rotation": 90, "x": -6.5, "y": 175 }
+],
+"slots": [
+	{ "name": "aoe", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"aoe": {
+			"aoe0001": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0002": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0003": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0004": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0005": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0006": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0007": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0008": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0009": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0010": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0011": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0012": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0013": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0014": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0015": { "rotation": -90, "width": 360, "height": 300 },
+			"aoe0016": { "rotation": -90, "width": 360, "height": 300 }
+		}
+	}
+},
+"animations": {
+	"aoe": {
+		"slots": {
+			"aoe": {
+				"color": [
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "aoe0001" },
+					{ "time": 0.0667, "name": "aoe0002" },
+					{ "time": 0.1333, "name": "aoe0003" },
+					{ "time": 0.2, "name": "aoe0004" },
+					{ "time": 0.2667, "name": "aoe0005" },
+					{ "time": 0.3333, "name": "aoe0006" },
+					{ "time": 0.4, "name": "aoe0007" },
+					{ "time": 0.4667, "name": "aoe0008" },
+					{ "time": 0.5333, "name": "aoe0009" },
+					{ "time": 0.6, "name": "aoe0010" },
+					{ "time": 0.6667, "name": "aoe0011" },
+					{ "time": 0.7333, "name": "aoe0012" },
+					{ "time": 0.8, "name": "aoe0013" },
+					{ "time": 0.8667, "name": "aoe0014" },
+					{ "time": 0.9333, "name": "aoe0015" },
+					{ "time": 1, "name": "aoe0016" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

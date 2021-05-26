@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "af4401e2-3072-4ad5-b19e-ea399b668153",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 640,
+  "height": 3200,
+  "platformSettings": {},
+  "subMetas": {
+    "bglab2": {
+      "ver": "1.0.4",
+      "uuid": "dbf2725e-bb18-4ebd-86ae-f5efd87b559f",
+      "rawTextureUuid": "af4401e2-3072-4ad5-b19e-ea399b668153",
+      "trimType": "auto",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 3200,
+      "rawWidth": 640,
+      "rawHeight": 3200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

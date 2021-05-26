@@ -1,0 +1,75 @@
+{
+  "encryptJs": false,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "yourgamepackagename",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "d2ca9450-bb5c-475d-8ced-afe7fcd61ef9",
+  "title": "tiancai",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "d7acace4-c123-44",
+  "zipCompressJs": true,
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "yourgamepackagename",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "appBundle": false,
+  "android": {
+    "packageName": "yourname",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "yourgamepackagename",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "yourgamepackagename",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "mainCompressionType": "default",
+  "mainIsRemote": true,
+  "nativeMd5Cache": false,
+  "agreements": {
+    "20200904180755": false,
+    "20200904180716": false
+  }
+}

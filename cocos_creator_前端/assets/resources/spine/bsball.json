@@ -1,0 +1,71 @@
+{
+"skeleton": { "hash": "2N7mA0SnW0Bm6sGxYKmMMruNgEk", "spine": "3.6.38", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root", "scaleX": 1.263, "scaleY": 1.263 },
+	{ "name": "bone2", "parent": "root", "length": 69.31, "rotation": 87.71, "x": -95.73, "y": 258.83 }
+],
+"slots": [
+	{ "name": "yuan", "bone": "bone2" }
+],
+"skins": {
+	"default": {
+		"yuan": {
+			"bricka0001": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0002": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0003": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0004": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0005": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0006": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0007": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0008": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0009": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0010": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0011": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0012": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0013": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0014": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0015": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 },
+			"bricka0016": { "x": 1.81, "y": -4.45, "rotation": -87.71, "width": 640, "height": 1136 }
+		}
+	}
+},
+"animations": {
+	"bsball": {
+		"slots": {
+			"yuan": {
+				"attachment": [
+					{ "time": 0, "name": "bricka0001" },
+					{ "time": 0.0667, "name": "bricka0002" },
+					{ "time": 0.1333, "name": "bricka0003" },
+					{ "time": 0.2, "name": "bricka0004" },
+					{ "time": 0.2667, "name": "bricka0005" },
+					{ "time": 0.3333, "name": "bricka0006" },
+					{ "time": 0.4, "name": "bricka0007" },
+					{ "time": 0.4667, "name": "bricka0008" },
+					{ "time": 0.5333, "name": "bricka0009" },
+					{ "time": 0.5667, "name": "bricka0010" },
+					{ "time": 0.6, "name": "bricka0011" },
+					{ "time": 0.6333, "name": "bricka0012" },
+					{ "time": 0.6667, "name": "bricka0013" },
+					{ "time": 0.7, "name": "bricka0014" },
+					{ "time": 0.7333, "name": "bricka0015" },
+					{ "time": 0.7667, "name": "bricka0016" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

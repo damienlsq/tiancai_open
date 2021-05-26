@@ -1,0 +1,76 @@
+
+confusion.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+confusion0001
+  rotate: false
+  xy: 0, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0002
+  rotate: false
+  xy: 44, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0003
+  rotate: false
+  xy: 88, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0004
+  rotate: false
+  xy: 132, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0005
+  rotate: false
+  xy: 176, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0006
+  rotate: false
+  xy: 220, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0007
+  rotate: false
+  xy: 264, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0008
+  rotate: false
+  xy: 308, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0009
+  rotate: false
+  xy: 352, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1
+confusion0010
+  rotate: false
+  xy: 396, 0
+  size: 42, 33
+  orig: 550, 400
+  offset: 28, 328
+  index: -1

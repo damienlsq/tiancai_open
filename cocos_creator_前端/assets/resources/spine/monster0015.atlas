@@ -1,0 +1,111 @@
+
+monster0015.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 39
+  size: 68, 86
+  orig: 90, 170
+  offset: 12, 20
+  index: -1
+body1
+  rotate: false
+  xy: 2, 13
+  size: 51, 24
+  orig: 90, 170
+  offset: 20, 20
+  index: -1
+eyes
+  rotate: false
+  xy: 55, 2
+  size: 28, 15
+  orig: 90, 170
+  offset: 32, 118
+  index: -1
+eyesBad
+  rotate: false
+  xy: 98, 17
+  size: 29, 19
+  orig: 90, 170
+  offset: 32, 119
+  index: -1
+fire1
+  rotate: false
+  xy: 121, 62
+  size: 31, 33
+  orig: 276, 204
+  offset: 117, 78
+  index: -1
+gun
+  rotate: false
+  xy: 121, 97
+  size: 43, 28
+  orig: 100, 100
+  offset: 27, 37
+  index: -1
+head
+  rotate: false
+  xy: 72, 59
+  size: 47, 66
+  orig: 90, 170
+  offset: 22, 95
+  index: -1
+larm
+  rotate: true
+  xy: 166, 105
+  size: 20, 46
+  orig: 90, 170
+  offset: 67, 52
+  index: -1
+lf
+  rotate: true
+  xy: 55, 19
+  size: 17, 41
+  orig: 90, 170
+  offset: 71, 27
+  index: -1
+lfoot
+  rotate: true
+  xy: 198, 66
+  size: 18, 5
+  orig: 90, 170
+  offset: 45, 1
+  index: -1
+lpant
+  rotate: true
+  xy: 214, 106
+  size: 19, 40
+  orig: 90, 170
+  offset: 45, 5
+  index: -1
+rarm
+  rotate: true
+  xy: 72, 38
+  size: 19, 46
+  orig: 90, 170
+  offset: 5, 53
+  index: -1
+rf
+  rotate: true
+  xy: 166, 86
+  size: 17, 42
+  orig: 90, 170
+  offset: 4, 27
+  index: -1
+rfoot
+  rotate: true
+  xy: 120, 38
+  size: 19, 6
+  orig: 90, 170
+  offset: 28, 1
+  index: -1
+rpant
+  rotate: true
+  xy: 154, 64
+  size: 20, 42
+  orig: 90, 170
+  offset: 26, 5
+  index: -1

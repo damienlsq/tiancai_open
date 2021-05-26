@@ -1,0 +1,62 @@
+
+monster0027.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 47, 35
+  size: 31, 21
+  orig: 60, 80
+  offset: 18, 10
+  index: -1
+eyes
+  rotate: false
+  xy: 47, 18
+  size: 25, 15
+  orig: 60, 80
+  offset: 20, 49
+  index: -1
+eyesBad
+  rotate: false
+  xy: 80, 40
+  size: 21, 16
+  orig: 60, 80
+  offset: 22, 48
+  index: -1
+head
+  rotate: false
+  xy: 2, 8
+  size: 43, 48
+  orig: 60, 80
+  offset: 11, 28
+  index: -1
+lhand
+  rotate: true
+  xy: 103, 44
+  size: 12, 23
+  orig: 60, 80
+  offset: 40, 9
+  index: -1
+lpant
+  rotate: false
+  xy: 47, 2
+  size: 18, 14
+  orig: 60, 80
+  offset: 30, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 103, 30
+  size: 12, 23
+  orig: 60, 80
+  offset: 13, 9
+  index: -1
+rpant
+  rotate: false
+  xy: 80, 24
+  size: 17, 14
+  orig: 60, 80
+  offset: 18, 0
+  index: -1

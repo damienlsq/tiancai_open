@@ -1,0 +1,75 @@
+{
+"skeleton": { "hash": "0yB9/64m7gFnPTDRMm7GgfxDl0Q", "spine": "3.3.07", "width": 150, "height": 150, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 40.51, "rotation": 89.99, "x": 0.88, "y": 1.05 }
+],
+"slots": [
+	{ "name": "level", "bone": "bone", "attachment": "levelChange0001" }
+],
+"skins": {
+	"default": {
+		"level": {
+			"levelChange0001": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0002": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0003": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0004": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0005": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0006": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0007": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0008": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0009": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0010": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0011": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0012": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0013": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0014": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0015": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0016": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0017": { "rotation": -89.99, "width": 150, "height": 150 },
+			"levelChange0018": { "rotation": -89.99, "width": 150, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"levelChange": {
+		"slots": {
+			"level": {
+				"attachment": [
+					{ "time": 0.0333, "name": "levelChange0001" },
+					{ "time": 0.0666, "name": "levelChange0002" },
+					{ "time": 0.1, "name": "levelChange0003" },
+					{ "time": 0.1333, "name": "levelChange0004" },
+					{ "time": 0.1666, "name": "levelChange0005" },
+					{ "time": 0.2, "name": "levelChange0006" },
+					{ "time": 0.2333, "name": "levelChange0007" },
+					{ "time": 0.2666, "name": "levelChange0008" },
+					{ "time": 0.3, "name": "levelChange0009" },
+					{ "time": 0.3333, "name": "levelChange0010" },
+					{ "time": 0.3666, "name": "levelChange0011" },
+					{ "time": 0.4, "name": "levelChange0012" },
+					{ "time": 0.4333, "name": "levelChange0013" },
+					{ "time": 0.4666, "name": "levelChange0014" },
+					{ "time": 0.5, "name": "levelChange0015" },
+					{ "time": 0.5333, "name": "levelChange0016" },
+					{ "time": 0.5666, "name": "levelChange0017" },
+					{ "time": 0.6, "name": "levelChange0018" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

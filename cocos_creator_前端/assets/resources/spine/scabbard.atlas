@@ -1,0 +1,13 @@
+
+scabbard.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fly
+  rotate: false
+  xy: 2, 2
+  size: 88, 100
+  orig: 552, 185
+  offset: 4, 74
+  index: -1

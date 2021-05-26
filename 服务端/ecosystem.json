@@ -1,0 +1,15 @@
+{
+  "apps": [],
+  "deploy": {
+    "docker": {
+      "user": "",
+      "host": "",
+      "port": "",
+      "ref": "origin/release",
+      "repo": "git@github.com:damienlsq/tiancai_open.git",
+      "path": "",
+      "post-deploy": "sh deploy/releaseDeploy.sh",
+      "pre-deploy-local": "echo 'release deploying'"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+"skeleton": { "hash": "Bw9PL/gSuzu0j95uB76FREq2ncY", "spine": "3.6.48", "width": 552, "height": 185, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 41.69, "rotation": 89.16, "x": -47.88, "y": 3.02 }
+],
+"slots": [
+	{ "name": "fly", "bone": "bone", "attachment": "fly" }
+],
+"skins": {
+	"default": {
+		"fly": {
+			"fly": { "x": -40.45, "y": -230.2, "rotation": -89.16, "width": 552, "height": 185 }
+		}
+	}
+},
+"animations": {
+	"scabbard": {
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1333, "angle": -215.53 },
+					{ "time": 0.2333, "angle": -136.16 },
+					{ "time": 0.3667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -5.52, "y": -4.29 },
+					{ "time": 0.3667, "x": 36.17, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.52, "y": 0.52 },
+					{ "time": 0.3667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

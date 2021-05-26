@@ -1,0 +1,62 @@
+
+monster2002.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 147, 33
+  size: 28, 30
+  orig: 140, 148
+  offset: 60, 14
+  index: -1
+eyes
+  rotate: true
+  xy: 69, 14
+  size: 25, 31
+  orig: 140, 148
+  offset: 62, 50
+  index: -1
+eyesBad
+  rotate: true
+  xy: 179, 36
+  size: 25, 30
+  orig: 140, 148
+  offset: 62, 52
+  index: -1
+foot
+  rotate: false
+  xy: 69, 41
+  size: 42, 20
+  orig: 140, 148
+  offset: 52, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 14
+  size: 65, 47
+  orig: 140, 148
+  offset: 44, 40
+  index: -1
+lhand
+  rotate: true
+  xy: 2, 2
+  size: 10, 31
+  orig: 140, 148
+  offset: 85, 11
+  index: -1
+rhand
+  rotate: true
+  xy: 113, 39
+  size: 22, 32
+  orig: 140, 148
+  offset: 49, 13
+  index: -1
+weapon
+  rotate: false
+  xy: 211, 35
+  size: 27, 26
+  orig: 140, 148
+  offset: 31, 4
+  index: -1

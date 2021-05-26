@@ -1,0 +1,111 @@
+
+effectCharaUpBgLight.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 13
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+ser_003
+  rotate: false
+  xy: 1084, 842
+  size: 36, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ser_02_05
+  rotate: false
+  xy: 1296, 987
+  size: 23, 26
+  orig: 25, 26
+  offset: 1, 0
+  index: -1
+ser_02_08
+  rotate: false
+  xy: 1004, 705
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+ser_02_11
+  rotate: false
+  xy: 1004, 733
+  size: 56, 29
+  orig: 68, 38
+  offset: 12, 2
+  index: -1
+ser_02_16
+  rotate: false
+  xy: 1084, 814
+  size: 23, 26
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+ser_02_21
+  rotate: false
+  xy: 1237, 966
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+ser_02_25
+  rotate: false
+  xy: 1237, 945
+  size: 34, 19
+  orig: 49, 37
+  offset: 7, 9
+  index: -1
+ser_02_29
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 13, 11
+  offset: 1, 2
+  index: -1
+ser_02_33
+  rotate: false
+  xy: 1062, 753
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ser_02_35
+  rotate: false
+  xy: 1237, 934
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ser_02_39
+  rotate: false
+  xy: 1273, 955
+  size: 9, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+ser_031
+  rotate: false
+  xy: 1004, 764
+  size: 78, 120
+  orig: 102, 151
+  offset: 4, 11
+  index: -1
+ser_03111
+  rotate: false
+  xy: 1122, 861
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+ser_2_06
+  rotate: false
+  xy: 1004, 886
+  size: 231, 127
+  orig: 249, 143
+  offset: 9, 5
+  index: -1

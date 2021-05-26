@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "80ccef37-00a3-4126-94a0-4588018fa53f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 609,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "clanInfoBg": {
+      "ver": "1.0.4",
+      "uuid": "206de29a-65a1-430d-beda-a530984cf978",
+      "rawTextureUuid": "80ccef37-00a3-4126-94a0-4588018fa53f",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 608,
+      "height": 107,
+      "rawWidth": 609,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

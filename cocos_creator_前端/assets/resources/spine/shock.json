@@ -1,0 +1,87 @@
+{
+"skeleton": { "hash": "7uTuXlvjChEdeBu9QJFLJifrj1w", "spine": "3.6.50", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 135, "rotation": 90, "x": -5.5, "y": -17 }
+],
+"slots": [
+	{ "name": "shock", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"shock": {
+			"shock0001": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0002": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0003": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0004": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0005": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0006": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0007": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0008": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0009": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0010": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0011": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0012": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0013": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0014": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0015": { "rotation": -90, "width": 550, "height": 400 },
+			"shock0016": { "rotation": -90, "width": 550, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"shock": {
+		"slots": {
+			"shock": {
+				"attachment": [
+					{ "time": 0, "name": "shock0001" },
+					{ "time": 0.0333, "name": "shock0002" },
+					{ "time": 0.0667, "name": "shock0003" },
+					{ "time": 0.1, "name": "shock0004" },
+					{ "time": 0.1333, "name": "shock0005" },
+					{ "time": 0.1667, "name": "shock0006" },
+					{ "time": 0.2, "name": "shock0007" },
+					{ "time": 0.2333, "name": "shock0008" },
+					{ "time": 0.2667, "name": "shock0009" },
+					{ "time": 0.3, "name": "shock0010" },
+					{ "time": 0.3333, "name": "shock0011" },
+					{ "time": 0.3667, "name": "shock0012" },
+					{ "time": 0.4, "name": "shock0013" },
+					{ "time": 0.4333, "name": "shock0014" },
+					{ "time": 0.4667, "name": "shock0015" },
+					{ "time": 0.5, "name": "shock0016" },
+					{ "time": 0.5333, "name": "shock0001" },
+					{ "time": 0.5667, "name": "shock0002" },
+					{ "time": 0.6, "name": "shock0003" },
+					{ "time": 0.6333, "name": "shock0004" },
+					{ "time": 0.6667, "name": "shock0005" },
+					{ "time": 0.7, "name": "shock0006" },
+					{ "time": 0.7333, "name": "shock0007" },
+					{ "time": 0.7667, "name": "shock0008" },
+					{ "time": 0.8, "name": "shock0009" },
+					{ "time": 0.8333, "name": "shock0010" },
+					{ "time": 0.8667, "name": "shock0011" },
+					{ "time": 0.9, "name": "shock0012" },
+					{ "time": 0.9333, "name": "shock0013" },
+					{ "time": 0.9667, "name": "shock0014" },
+					{ "time": 1, "name": "shock0015" },
+					{ "time": 1.0333, "name": "shock0016" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

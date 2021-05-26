@@ -1,0 +1,118 @@
+
+bsball.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bricka0001
+  rotate: false
+  xy: 310, 2
+  size: 170, 53
+  orig: 640, 1136
+  offset: 334, 327
+  index: -1
+bricka0002
+  rotate: true
+  xy: 1116, 116
+  size: 215, 67
+  orig: 640, 1136
+  offset: 311, 320
+  index: -1
+bricka0003
+  rotate: false
+  xy: 430, 57
+  size: 261, 102
+  orig: 640, 1136
+  offset: 288, 313
+  index: -1
+bricka0004
+  rotate: false
+  xy: 2, 16
+  size: 306, 123
+  orig: 640, 1136
+  offset: 266, 307
+  index: -1
+bricka0005
+  rotate: false
+  xy: 1262, 170
+  size: 350, 165
+  orig: 640, 1136
+  offset: 244, 300
+  index: -1
+bricka0006
+  rotate: false
+  xy: 441, 161
+  size: 364, 168
+  orig: 640, 1136
+  offset: 237, 298
+  index: -1
+bricka0007
+  rotate: false
+  xy: 1653, 339
+  size: 376, 171
+  orig: 640, 1136
+  offset: 231, 296
+  index: -1
+bricka0008
+  rotate: false
+  xy: 1262, 337
+  size: 389, 173
+  orig: 640, 1136
+  offset: 224, 294
+  index: -1
+bricka0009
+  rotate: false
+  xy: 858, 333
+  size: 402, 177
+  orig: 640, 1136
+  offset: 218, 292
+  index: -1
+bricka0010
+  rotate: false
+  xy: 441, 331
+  size: 415, 179
+  orig: 640, 1136
+  offset: 211, 290
+  index: -1
+bricka0011
+  rotate: false
+  xy: 2, 141
+  size: 426, 182
+  orig: 640, 1136
+  offset: 206, 288
+  index: -1
+bricka0012
+  rotate: false
+  xy: 2, 325
+  size: 437, 185
+  orig: 640, 1136
+  offset: 200, 286
+  index: -1
+bricka0013
+  rotate: false
+  xy: 1614, 44
+  size: 254, 146
+  orig: 640, 1136
+  offset: 292, 326
+  index: -1
+bricka0014
+  rotate: false
+  xy: 858, 185
+  size: 256, 146
+  orig: 640, 1136
+  offset: 291, 326
+  index: -1
+bricka0015
+  rotate: false
+  xy: 1653, 192
+  size: 259, 145
+  orig: 640, 1136
+  offset: 290, 327
+  index: -1
+bricka0016
+  rotate: false
+  xy: 2031, 509
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

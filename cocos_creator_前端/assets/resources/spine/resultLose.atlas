@@ -1,0 +1,27 @@
+
+resultLose.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+draw0
+  rotate: false
+  xy: 2, 2
+  size: 87, 87
+  orig: 500, 900
+  offset: 392, 332
+  index: -1
+leafDraw
+  rotate: false
+  xy: 429, 361
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+lost
+  rotate: false
+  xy: 2, 91
+  size: 425, 291
+  orig: 500, 900
+  offset: 21, 285
+  index: -1

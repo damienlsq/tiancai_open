@@ -1,0 +1,62 @@
+
+monster2027.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 90, 110
+  offset: 43, 28
+  index: -1
+eyes
+  rotate: true
+  xy: 45, 39
+  size: 16, 26
+  orig: 90, 110
+  offset: 49, 54
+  index: -1
+eyesBad
+  rotate: false
+  xy: 82, 62
+  size: 21, 19
+  orig: 90, 110
+  offset: 48, 58
+  index: -1
+foot
+  rotate: false
+  xy: 2, 32
+  size: 41, 23
+  orig: 90, 110
+  offset: 37, 8
+  index: -1
+head
+  rotate: false
+  xy: 2, 57
+  size: 78, 69
+  orig: 100, 130
+  offset: 15, 61
+  index: -1
+lhand
+  rotate: false
+  xy: 98, 83
+  size: 13, 27
+  orig: 90, 110
+  offset: 68, 25
+  index: -1
+rhand
+  rotate: false
+  xy: 82, 83
+  size: 14, 27
+  orig: 90, 110
+  offset: 37, 25
+  index: -1
+weapon
+  rotate: false
+  xy: 82, 112
+  size: 34, 14
+  orig: 90, 110
+  offset: 4, 33
+  index: -1

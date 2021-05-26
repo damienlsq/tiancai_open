@@ -1,0 +1,188 @@
+
+tDoor.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+door0001
+  rotate: false
+  xy: 375, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0002
+  rotate: false
+  xy: 375, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0003
+  rotate: false
+  xy: 527, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0004
+  rotate: false
+  xy: 527, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0005
+  rotate: false
+  xy: 679, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0006
+  rotate: false
+  xy: 679, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0007
+  rotate: false
+  xy: 831, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0008
+  rotate: false
+  xy: 831, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0009
+  rotate: false
+  xy: 983, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0010
+  rotate: false
+  xy: 983, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0011
+  rotate: false
+  xy: 1135, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0012
+  rotate: false
+  xy: 1135, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0013
+  rotate: false
+  xy: 1287, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0014
+  rotate: false
+  xy: 1287, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0015
+  rotate: false
+  xy: 1439, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0016
+  rotate: false
+  xy: 1439, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0017
+  rotate: false
+  xy: 1591, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0018
+  rotate: false
+  xy: 1591, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0019
+  rotate: false
+  xy: 1743, 170
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+door0020
+  rotate: false
+  xy: 1743, 118
+  size: 150, 50
+  orig: 150, 50
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1895, 128
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+light_r
+  rotate: false
+  xy: 338, 14
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+mechanicalArm
+  rotate: false
+  xy: 199, 37
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 199, 108
+  size: 174, 112
+  orig: 174, 112
+  offset: 0, 0
+  index: -1
+xiabiana
+  rotate: false
+  xy: 2, 2
+  size: 195, 108
+  orig: 195, 108
+  offset: 0, 0
+  index: -1
+xiabiana2
+  rotate: false
+  xy: 2, 112
+  size: 195, 108
+  orig: 195, 108
+  offset: 0, 0
+  index: -1

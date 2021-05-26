@@ -1,0 +1,55 @@
+
+monster2001.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 81, 23
+  size: 39, 67
+  orig: 80, 120
+  offset: 31, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 191, 23
+  size: 28, 17
+  orig: 80, 120
+  offset: 38, 103
+  index: -1
+eyesBad
+  rotate: false
+  xy: 191, 42
+  size: 38, 20
+  orig: 80, 120
+  offset: 32, 100
+  index: -1
+foot
+  rotate: false
+  xy: 150, 29
+  size: 39, 33
+  orig: 120, 120
+  offset: 62, 4
+  index: -1
+head
+  rotate: true
+  xy: 2, 18
+  size: 44, 77
+  orig: 79, 120
+  offset: 29, 41
+  index: -1
+lhand
+  rotate: true
+  xy: 2, 2
+  size: 14, 24
+  orig: 80, 120
+  offset: 66, 27
+  index: -1
+rhand
+  rotate: true
+  xy: 28, 2
+  size: 14, 24
+  orig: 80, 120
+  offset: 24, 30
+  index: -1

@@ -1,0 +1,19 @@
+{
+  "name": "gs_tc",
+  "script": "main_gs.js",
+  "node_args": "--trace-warnings",
+  "restart_delay": 10000,
+  "kill_timeout": 30000,
+  "cwd": "部署路径",
+  "defaultRelease": true,
+  "error_file": "logs/err.log",
+  "out_file": "logs/out.log",
+  "merge_logs": true,
+  "log_date_format": "YYYY-MM-DD HH:mm:ss.SSS",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "env_development": {
+    "NODE_ENV": "development"
+  }
+}

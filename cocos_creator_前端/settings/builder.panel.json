@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "yourgamepackagename",
+  "startScene": "d2ca9450-bb5c-475d-8ced-afe7fcd61ef9",
+  "title": "creator",
+  "webOrientation": "auto"
+}

@@ -1,0 +1,195 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "clanEventInfoBase",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_active": true,
+    "_level": 1,
+    "_components": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 628,
+      "height": 100
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 1
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 285,
+    "groupIndex": 0,
+    "_id": "",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "eventNode",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_level": 0,
+    "_components": [],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 1
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "groupIndex": 0,
+    "_id": "",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "8c4f58c9-3aca-4596-8957-bbde8d875b47"
+    },
+    "fileId": "89a1UgkJRGqLkz5rUQ/7GR",
+    "sync": false
+  },
+  {
+    "__type__": "8fbd8TBtNVO0IEuHRsSHLhO",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "clanEventInfo0": {
+      "__uuid__": "2ee7631f-1035-43de-b411-c420a091132e"
+    },
+    "clanEventInfo1": {
+      "__uuid__": "39ae279d-b0a4-4a85-aae3-18023ad3835c"
+    },
+    "clanEventInfo2": {
+      "__uuid__": "b6fa7d0f-810f-49cc-beaa-86b9a3d6a21f"
+    },
+    "clanEventInfo3": {
+      "__uuid__": "7eb6dc27-d020-4cbb-85f3-a908e7adaf84"
+    },
+    "clanEventInfo4": {
+      "__uuid__": "04cd0e20-e98c-4b2a-9e2b-f0dd52a30887"
+    },
+    "clanEventInfo5": {
+      "__uuid__": "5eadc2f2-fb97-42f4-8729-3f34c09ad190"
+    },
+    "clanEventInfo6": {
+      "__uuid__": "feacb5ba-d896-41b4-a590-8f2fe959618d"
+    },
+    "eventNode": {
+      "__id__": 2
+    },
+    "_id": "eeB3fKkKRBCZZMMHcHrK5W"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "8c4f58c9-3aca-4596-8957-bbde8d875b47"
+    },
+    "fileId": "670d5z/SZxCw7VZToxO5YE4",
+    "sync": false
+  }
+]

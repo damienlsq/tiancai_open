@@ -1,0 +1,279 @@
+
+electricHouse.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shock220020
+  rotate: false
+  xy: 325, 113
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shock220021
+  rotate: false
+  xy: 2, 2
+  size: 112, 86
+  orig: 550, 400
+  offset: 219, 159
+  index: -1
+shock220022
+  rotate: false
+  xy: 1617, 751
+  size: 112, 86
+  orig: 550, 400
+  offset: 219, 159
+  index: -1
+shock220023
+  rotate: false
+  xy: 116, 6
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220024
+  rotate: false
+  xy: 1617, 667
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220025
+  rotate: false
+  xy: 1731, 755
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220026
+  rotate: false
+  xy: 1294, 284
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220027
+  rotate: true
+  xy: 1940, 909
+  size: 112, 83
+  orig: 550, 400
+  offset: 219, 162
+  index: -1
+shock220028
+  rotate: false
+  xy: 1294, 368
+  size: 112, 83
+  orig: 550, 400
+  offset: 219, 162
+  index: -1
+shock220029
+  rotate: false
+  xy: 1408, 369
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220030
+  rotate: false
+  xy: 1617, 583
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220031
+  rotate: false
+  xy: 1731, 671
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220032
+  rotate: true
+  xy: 1845, 725
+  size: 112, 82
+  orig: 550, 400
+  offset: 219, 163
+  index: -1
+shock220033
+  rotate: false
+  xy: 1408, 286
+  size: 112, 81
+  orig: 550, 400
+  offset: 219, 164
+  index: -1
+shock220034
+  rotate: true
+  xy: 1522, 339
+  size: 112, 81
+  orig: 550, 400
+  offset: 219, 164
+  index: -1
+shock220035
+  rotate: false
+  xy: 1617, 508
+  size: 100, 73
+  orig: 550, 400
+  offset: 224, 162
+  index: -1
+shock30036
+  rotate: false
+  xy: 971, 216
+  size: 321, 179
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30037
+  rotate: false
+  xy: 648, 158
+  size: 321, 192
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30038
+  rotate: false
+  xy: 648, 352
+  size: 321, 214
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30039
+  rotate: false
+  xy: 2, 784
+  size: 321, 237
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30049
+  rotate: false
+  xy: 2, 784
+  size: 321, 237
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30040
+  rotate: false
+  xy: 2, 549
+  size: 321, 233
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30041
+  rotate: false
+  xy: 2, 318
+  size: 321, 229
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30042
+  rotate: false
+  xy: 2, 90
+  size: 321, 226
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30044
+  rotate: false
+  xy: 2, 90
+  size: 321, 226
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30046
+  rotate: false
+  xy: 2, 90
+  size: 321, 226
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30043
+  rotate: false
+  xy: 325, 333
+  size: 321, 222
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30045
+  rotate: false
+  xy: 648, 568
+  size: 321, 222
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30047
+  rotate: false
+  xy: 325, 557
+  size: 321, 229
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30048
+  rotate: false
+  xy: 325, 788
+  size: 321, 233
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30050
+  rotate: false
+  xy: 648, 792
+  size: 321, 229
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30051
+  rotate: false
+  xy: 971, 799
+  size: 321, 222
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30052
+  rotate: false
+  xy: 325, 116
+  size: 321, 215
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30053
+  rotate: false
+  xy: 971, 591
+  size: 321, 206
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30054
+  rotate: false
+  xy: 1294, 822
+  size: 321, 199
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30055
+  rotate: false
+  xy: 971, 397
+  size: 321, 192
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30056
+  rotate: false
+  xy: 1294, 633
+  size: 321, 187
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30057
+  rotate: false
+  xy: 1617, 839
+  size: 321, 182
+  orig: 550, 400
+  offset: 110, 111
+  index: -1
+shock30058
+  rotate: false
+  xy: 1294, 453
+  size: 321, 178
+  orig: 550, 400
+  offset: 110, 111
+  index: -1

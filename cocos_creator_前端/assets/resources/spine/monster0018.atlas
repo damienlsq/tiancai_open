@@ -1,0 +1,188 @@
+
+monster0018.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 333, 68
+  size: 68, 53
+  orig: 80, 160
+  offset: 3, 33
+  index: -1
+bomd
+  rotate: false
+  xy: 2, 40
+  size: 93, 81
+  orig: 109, 160
+  offset: 16, 12
+  index: -1
+bomd1
+  rotate: true
+  xy: 216, 36
+  size: 27, 32
+  orig: 109, 160
+  offset: 0, 58
+  index: -1
+bomd2
+  rotate: false
+  xy: 98, 28
+  size: 17, 19
+  orig: 109, 160
+  offset: 82, 75
+  index: -1
+box
+  rotate: false
+  xy: 178, 65
+  size: 78, 56
+  orig: 103, 150
+  offset: 15, 9
+  index: -1
+c1
+  rotate: true
+  xy: 313, 34
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+c17
+  rotate: false
+  xy: 2, 2
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 283, 35
+  size: 28, 26
+  orig: 37, 37
+  offset: 4, 5
+  index: -1
+c3
+  rotate: false
+  xy: 403, 73
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 97, 49
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 47, 5
+  size: 32, 33
+  orig: 80, 160
+  offset: 21, 93
+  index: -1
+eyes2
+  rotate: false
+  xy: 476, 88
+  size: 32, 33
+  orig: 80, 160
+  offset: 21, 93
+  index: -1
+eyesBad
+  rotate: false
+  xy: 250, 30
+  size: 31, 31
+  orig: 80, 160
+  offset: 22, 94
+  index: -1
+head
+  rotate: true
+  xy: 258, 63
+  size: 58, 73
+  orig: 80, 160
+  offset: 6, 87
+  index: -1
+larm
+  rotate: true
+  xy: 283, 23
+  size: 10, 25
+  orig: 80, 160
+  offset: 58, 51
+  index: -1
+lf
+  rotate: false
+  xy: 81, 3
+  size: 15, 35
+  orig: 80, 160
+  offset: 56, 25
+  index: -1
+lfoot
+  rotate: true
+  xy: 98, 8
+  size: 18, 7
+  orig: 80, 160
+  offset: 40, 0
+  index: -1
+lleg
+  rotate: true
+  xy: 476, 72
+  size: 14, 27
+  orig: 80, 160
+  offset: 41, 14
+  index: -1
+lpant
+  rotate: true
+  xy: 117, 33
+  size: 14, 21
+  orig: 80, 160
+  offset: 41, 1
+  index: -1
+rarm
+  rotate: true
+  xy: 310, 23
+  size: 9, 25
+  orig: 80, 160
+  offset: 6, 51
+  index: -1
+rf
+  rotate: true
+  xy: 338, 52
+  size: 14, 35
+  orig: 80, 160
+  offset: 3, 25
+  index: -1
+rfoot
+  rotate: false
+  xy: 140, 40
+  size: 18, 7
+  orig: 80, 160
+  offset: 18, 0
+  index: -1
+rleg
+  rotate: true
+  xy: 338, 35
+  size: 15, 27
+  orig: 80, 160
+  offset: 20, 14
+  index: -1
+rpant
+  rotate: true
+  xy: 375, 51
+  size: 15, 22
+  orig: 80, 160
+  offset: 20, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 505, 56
+  size: 30, 5
+  orig: 80, 160
+  offset: 48, 86
+  index: -1
+weaponFire
+  rotate: false
+  xy: 178, 36
+  size: 36, 27
+  orig: 80, 160
+  offset: 20, 51
+  index: -1

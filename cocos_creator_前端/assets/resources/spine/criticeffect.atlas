@@ -1,0 +1,146 @@
+
+criticeffect.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crit30001
+  rotate: true
+  xy: 917, 14
+  size: 122, 149
+  orig: 210, 250
+  offset: 46, 38
+  index: -1
+crit30002
+  rotate: true
+  xy: 960, 138
+  size: 116, 150
+  orig: 210, 250
+  offset: 49, 38
+  index: -1
+crit30003
+  rotate: true
+  xy: 1854, 134
+  size: 120, 142
+  orig: 210, 250
+  offset: 47, 38
+  index: -1
+crit30004
+  rotate: false
+  xy: 1414, 2
+  size: 119, 132
+  orig: 210, 250
+  offset: 47, 39
+  index: -1
+crit30005
+  rotate: false
+  xy: 483, 2
+  size: 118, 134
+  orig: 210, 250
+  offset: 48, 39
+  index: -1
+crit30006
+  rotate: true
+  xy: 1562, 137
+  size: 117, 144
+  orig: 210, 250
+  offset: 48, 33
+  index: -1
+crit30007
+  rotate: true
+  xy: 1112, 137
+  size: 117, 150
+  orig: 210, 250
+  offset: 48, 31
+  index: -1
+crit30008
+  rotate: true
+  xy: 803, 138
+  size: 116, 155
+  orig: 210, 250
+  offset: 49, 29
+  index: -1
+crit30009
+  rotate: true
+  xy: 483, 138
+  size: 116, 159
+  orig: 210, 250
+  offset: 49, 27
+  index: -1
+crit30010
+  rotate: false
+  xy: 243, 94
+  size: 116, 160
+  orig: 210, 250
+  offset: 49, 27
+  index: -1
+crit30011
+  rotate: true
+  xy: 644, 138
+  size: 116, 157
+  orig: 210, 250
+  offset: 49, 31
+  index: -1
+crit30012
+  rotate: false
+  xy: 361, 98
+  size: 120, 156
+  orig: 210, 250
+  offset: 47, 29
+  index: -1
+crit30013
+  rotate: false
+  xy: 122, 94
+  size: 119, 160
+  orig: 210, 250
+  offset: 47, 27
+  index: -1
+crit30014
+  rotate: false
+  xy: 2, 90
+  size: 118, 164
+  orig: 210, 250
+  offset: 48, 27
+  index: -1
+crit30015
+  rotate: true
+  xy: 761, 18
+  size: 118, 154
+  orig: 210, 250
+  offset: 48, 39
+  index: -1
+crit30016
+  rotate: true
+  xy: 603, 19
+  size: 117, 156
+  orig: 210, 250
+  offset: 48, 39
+  index: -1
+crit30017
+  rotate: true
+  xy: 1068, 18
+  size: 117, 141
+  orig: 210, 250
+  offset: 48, 39
+  index: -1
+crit30018
+  rotate: true
+  xy: 1708, 137
+  size: 117, 144
+  orig: 210, 250
+  offset: 48, 38
+  index: -1
+crit30019
+  rotate: true
+  xy: 1414, 136
+  size: 118, 146
+  orig: 210, 250
+  offset: 48, 38
+  index: -1
+crit30020
+  rotate: true
+  xy: 1264, 135
+  size: 119, 148
+  orig: 210, 250
+  offset: 47, 38
+  index: -1

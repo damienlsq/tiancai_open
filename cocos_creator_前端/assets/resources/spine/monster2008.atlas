@@ -1,0 +1,83 @@
+
+monster2008.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 43, 2
+  size: 38, 60
+  orig: 70, 150
+  offset: 16, 28
+  index: -1
+eyes
+  rotate: false
+  xy: 186, 46
+  size: 24, 16
+  orig: 69, 145
+  offset: 22, 112
+  index: -1
+eyesBad
+  rotate: false
+  xy: 186, 33
+  size: 18, 11
+  orig: 70, 150
+  offset: 25, 114
+  index: -1
+head
+  rotate: false
+  xy: 0, 2
+  size: 41, 60
+  orig: 69, 145
+  offset: 12, 85
+  index: -1
+lfoot
+  rotate: false
+  xy: 101, 0
+  size: 15, 10
+  orig: 70, 150
+  offset: 38, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 83, 38
+  size: 24, 61
+  orig: 70, 150
+  offset: 46, 24
+  index: -1
+lpant
+  rotate: false
+  xy: 146, 27
+  size: 18, 35
+  orig: 70, 150
+  offset: 36, 4
+  index: -1
+neck
+  rotate: false
+  xy: 146, 12
+  size: 34, 13
+  orig: 70, 150
+  offset: 18, 82
+  index: -1
+rfoot
+  rotate: false
+  xy: 83, 0
+  size: 16, 10
+  orig: 70, 150
+  offset: 17, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 83, 12
+  size: 24, 61
+  orig: 70, 150
+  offset: 0, 24
+  index: -1
+rpant
+  rotate: false
+  xy: 166, 27
+  size: 18, 35
+  orig: 70, 150
+  offset: 16, 4
+  index: -1

@@ -1,0 +1,279 @@
+
+photics.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+photics0001
+  rotate: false
+  xy: 790, 380
+  size: 7, 11
+  orig: 550, 400
+  offset: 219, 184
+  index: -1
+photics0002
+  rotate: true
+  xy: 439, 0
+  size: 18, 32
+  orig: 550, 400
+  offset: 240, 189
+  index: -1
+photics0003
+  rotate: false
+  xy: 649, 59
+  size: 54, 30
+  orig: 550, 400
+  offset: 199, 202
+  index: -1
+photics0004
+  rotate: false
+  xy: 740, 320
+  size: 48, 71
+  orig: 550, 400
+  offset: 184, 160
+  index: -1
+photics0005
+  rotate: true
+  xy: 144, 11
+  size: 46, 87
+  orig: 550, 400
+  offset: 199, 138
+  index: -1
+photics0006
+  rotate: true
+  xy: 290, 0
+  size: 100, 55
+  orig: 550, 400
+  offset: 182, 147
+  index: -1
+photics0007
+  rotate: true
+  xy: 515, 91
+  size: 119, 62
+  orig: 550, 400
+  offset: 183, 173
+  index: -1
+photics0008
+  rotate: true
+  xy: 403, 103
+  size: 107, 110
+  orig: 550, 400
+  offset: 195, 158
+  index: -1
+photics0009
+  rotate: false
+  xy: 943, 373
+  size: 65, 137
+  orig: 550, 400
+  offset: 213, 149
+  index: -1
+photics0010
+  rotate: false
+  xy: 238, 48
+  size: 50, 142
+  orig: 550, 400
+  offset: 203, 149
+  index: -1
+photics0011
+  rotate: true
+  xy: 144, 192
+  size: 84, 143
+  orig: 550, 400
+  offset: 178, 150
+  index: -1
+photics0012
+  rotate: false
+  xy: 290, 102
+  size: 111, 139
+  orig: 550, 400
+  offset: 158, 153
+  index: -1
+photics0013
+  rotate: false
+  xy: 102, 59
+  size: 134, 131
+  orig: 550, 400
+  offset: 142, 158
+  index: -1
+photics0014
+  rotate: false
+  xy: 144, 278
+  size: 151, 120
+  orig: 550, 400
+  offset: 129, 163
+  index: -1
+photics0015
+  rotate: false
+  xy: 144, 400
+  size: 162, 110
+  orig: 550, 400
+  offset: 121, 167
+  index: -1
+photics0016
+  rotate: false
+  xy: 482, 410
+  size: 168, 100
+  orig: 550, 400
+  offset: 117, 171
+  index: -1
+photics0017
+  rotate: true
+  xy: 0, 54
+  size: 172, 100
+  orig: 550, 400
+  offset: 114, 168
+  index: -1
+photics0018
+  rotate: false
+  xy: 308, 410
+  size: 172, 100
+  orig: 550, 400
+  offset: 114, 167
+  index: -1
+photics0019
+  rotate: true
+  xy: 652, 393
+  size: 117, 145
+  orig: 550, 400
+  offset: 150, 152
+  index: -1
+photics0020
+  rotate: false
+  xy: 347, 5
+  size: 90, 95
+  orig: 550, 400
+  offset: 180, 155
+  index: -1
+photics0021
+  rotate: true
+  xy: 439, 20
+  size: 81, 64
+  orig: 550, 400
+  offset: 198, 158
+  index: -1
+photics0022
+  rotate: false
+  xy: 308, 343
+  size: 142, 65
+  orig: 550, 400
+  offset: 152, 153
+  index: -1
+photics0023
+  rotate: false
+  xy: 452, 328
+  size: 142, 80
+  orig: 550, 400
+  offset: 152, 150
+  index: -1
+photics0024
+  rotate: false
+  xy: 297, 243
+  size: 142, 98
+  orig: 550, 400
+  offset: 152, 147
+  index: -1
+photics0025
+  rotate: false
+  xy: 441, 212
+  size: 142, 114
+  orig: 550, 400
+  offset: 152, 144
+  index: -1
+photics0026
+  rotate: false
+  xy: 799, 384
+  size: 142, 126
+  orig: 550, 400
+  offset: 152, 142
+  index: -1
+photics0027
+  rotate: false
+  xy: 0, 228
+  size: 142, 137
+  orig: 550, 400
+  offset: 152, 140
+  index: -1
+photics0028
+  rotate: false
+  xy: 0, 367
+  size: 142, 143
+  orig: 550, 400
+  offset: 152, 139
+  index: -1
+photics0029
+  rotate: false
+  xy: 596, 306
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 173
+  index: -1
+photics0030
+  rotate: false
+  xy: 585, 263
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 172
+  index: -1
+photics0031
+  rotate: false
+  xy: 585, 220
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 172
+  index: -1
+photics0032
+  rotate: false
+  xy: 585, 177
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 171
+  index: -1
+photics0033
+  rotate: false
+  xy: 579, 134
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 173
+  index: -1
+photics0034
+  rotate: false
+  xy: 579, 91
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 174
+  index: -1
+photics0035
+  rotate: false
+  xy: 505, 48
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 175
+  index: -1
+photics0036
+  rotate: false
+  xy: 0, 10
+  size: 142, 42
+  orig: 550, 400
+  offset: 152, 176
+  index: -1
+photics0037
+  rotate: false
+  xy: 505, 5
+  size: 142, 41
+  orig: 550, 400
+  offset: 152, 178
+  index: -1
+photics0038
+  rotate: false
+  xy: 596, 349
+  size: 142, 42
+  orig: 550, 400
+  offset: 152, 179
+  index: -1
+photics0039
+  rotate: false
+  xy: 1010, 509
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

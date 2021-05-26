@@ -1,0 +1,97 @@
+
+openChest.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box3_1
+  rotate: false
+  xy: 1748, 623
+  size: 241, 173
+  orig: 370, 588
+  offset: 61, 176
+  index: -1
+box3_2
+  rotate: false
+  xy: 1376, 676
+  size: 370, 326
+  orig: 370, 588
+  offset: 0, 176
+  index: -1
+box4_1
+  rotate: false
+  xy: 1748, 798
+  size: 241, 204
+  orig: 370, 588
+  offset: 61, 161
+  index: -1
+box4_2
+  rotate: false
+  xy: 1004, 643
+  size: 370, 359
+  orig: 370, 588
+  offset: 0, 159
+  index: -1
+box5_1
+  rotate: false
+  xy: 1410, 169
+  size: 185, 177
+  orig: 370, 588
+  offset: 104, 209
+  index: -1
+box5_2
+  rotate: false
+  xy: 1004, 39
+  size: 321, 274
+  orig: 370, 588
+  offset: 47, 209
+  index: -1
+box6_1
+  rotate: false
+  xy: 1748, 448
+  size: 241, 173
+  orig: 370, 588
+  offset: 61, 176
+  index: -1
+box6_2
+  rotate: false
+  xy: 1376, 348
+  size: 370, 326
+  orig: 370, 588
+  offset: 0, 176
+  index: -1
+box7_1
+  rotate: false
+  xy: 1748, 273
+  size: 241, 173
+  orig: 370, 588
+  offset: 61, 176
+  index: -1
+box7_2
+  rotate: false
+  xy: 1004, 315
+  size: 370, 326
+  orig: 370, 588
+  offset: 0, 176
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1327, 66
+  size: 247, 81
+  orig: 250, 90
+  offset: 2, 4
+  index: -1
+smoke
+  rotate: false
+  xy: 1597, 262
+  size: 143, 84
+  orig: 152, 92
+  offset: 2, 6
+  index: -1

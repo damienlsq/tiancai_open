@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2426008d-d7e2-4b42-9833-fba2bdb8452b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "pvpgrade16": {
+      "ver": "1.0.4",
+      "uuid": "5097cc7f-a550-4a5f-8815-cc7d160f2fcd",
+      "rawTextureUuid": "2426008d-d7e2-4b42-9833-fba2bdb8452b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 180,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

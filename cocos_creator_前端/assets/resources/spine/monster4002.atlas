@@ -1,0 +1,97 @@
+
+monster4002.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag1
+  rotate: false
+  xy: 52, 10
+  size: 48, 52
+  orig: 93, 119
+  offset: 22, 26
+  index: -1
+body
+  rotate: true
+  xy: 179, 22
+  size: 40, 34
+  orig: 70, 100
+  offset: 12, 12
+  index: -1
+eyes
+  rotate: false
+  xy: 215, 32
+  size: 33, 30
+  orig: 70, 100
+  offset: 15, 46
+  index: -1
+eyesBad
+  rotate: true
+  xy: 215, 3
+  size: 27, 29
+  orig: 70, 100
+  offset: 18, 49
+  index: -1
+head
+  rotate: true
+  xy: 2, 7
+  size: 55, 48
+  orig: 70, 100
+  offset: 4, 42
+  index: -1
+lfoot
+  rotate: false
+  xy: 2, 2
+  size: 9, 3
+  orig: 70, 100
+  offset: 36, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 136, 19
+  size: 12, 31
+  orig: 70, 100
+  offset: 44, 15
+  index: -1
+lpant
+  rotate: true
+  xy: 185, 6
+  size: 14, 13
+  orig: 70, 100
+  offset: 34, 3
+  index: -1
+rfoot
+  rotate: false
+  xy: 13, 2
+  size: 9, 3
+  orig: 70, 100
+  offset: 21, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 102, 8
+  size: 12, 32
+  orig: 70, 100
+  offset: 7, 14
+  index: -1
+rpant
+  rotate: false
+  xy: 169, 6
+  size: 14, 14
+  orig: 70, 100
+  offset: 17, 2
+  index: -1
+shadow
+  rotate: false
+  xy: 102, 33
+  size: 75, 29
+  orig: 120, 60
+  offset: 21, 12
+  index: -1
+tail
+  rotate: false
+  xy: 136, 7
+  size: 19, 10
+  orig: 70, 100
+  offset: 46, 17
+  index: -1

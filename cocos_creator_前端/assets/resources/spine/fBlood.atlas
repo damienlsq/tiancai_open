@@ -1,0 +1,146 @@
+
+fBlood.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb0001
+  rotate: false
+  xy: 620, 371
+  size: 85, 55
+  orig: 550, 400
+  offset: 221, 14
+  index: -1
+fb0002
+  rotate: true
+  xy: 307, 2
+  size: 87, 55
+  orig: 550, 400
+  offset: 220, 14
+  index: -1
+fb0003
+  rotate: true
+  xy: 248, 0
+  size: 89, 57
+  orig: 550, 400
+  offset: 219, 14
+  index: -1
+fb0004
+  rotate: false
+  xy: 496, 246
+  size: 95, 61
+  orig: 550, 400
+  offset: 216, 12
+  index: -1
+fb0005
+  rotate: false
+  xy: 372, 96
+  size: 103, 72
+  orig: 550, 400
+  offset: 212, 9
+  index: -1
+fb0006
+  rotate: false
+  xy: 620, 428
+  size: 112, 82
+  orig: 550, 400
+  offset: 208, 4
+  index: -1
+fb0007
+  rotate: false
+  xy: 0, 0
+  size: 122, 91
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0008
+  rotate: false
+  xy: 496, 309
+  size: 122, 96
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0009
+  rotate: false
+  xy: 372, 170
+  size: 122, 100
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0010
+  rotate: false
+  xy: 496, 407
+  size: 122, 103
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0011
+  rotate: false
+  xy: 372, 272
+  size: 122, 109
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0012
+  rotate: false
+  xy: 248, 91
+  size: 122, 118
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0013
+  rotate: false
+  xy: 372, 383
+  size: 122, 127
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0014
+  rotate: false
+  xy: 248, 211
+  size: 122, 137
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0015
+  rotate: false
+  xy: 124, 0
+  size: 122, 148
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0016
+  rotate: false
+  xy: 248, 350
+  size: 122, 160
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0017
+  rotate: false
+  xy: 124, 150
+  size: 122, 172
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0018
+  rotate: false
+  xy: 124, 324
+  size: 122, 186
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0019
+  rotate: false
+  xy: 0, 93
+  size: 122, 200
+  orig: 550, 400
+  offset: 203, 0
+  index: -1
+fb0020
+  rotate: false
+  xy: 0, 295
+  size: 122, 215
+  orig: 550, 400
+  offset: 203, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+monster1022.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 46
+  size: 79, 80
+  orig: 167, 140
+  offset: 74, 12
+  index: -1
+bones2
+  rotate: false
+  xy: 203, 36
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+bones3
+  rotate: false
+  xy: 83, 76
+  size: 104, 50
+  orig: 167, 140
+  offset: 22, 83
+  index: -1
+eyes
+  rotate: false
+  xy: 161, 2
+  size: 29, 13
+  orig: 180, 140
+  offset: 93, 99
+  index: -1
+eyesBad
+  rotate: true
+  xy: 161, 17
+  size: 31, 13
+  orig: 180, 140
+  offset: 92, 98
+  index: -1
+head
+  rotate: false
+  xy: 189, 55
+  size: 62, 71
+  orig: 180, 140
+  offset: 79, 69
+  index: -1
+larm
+  rotate: false
+  xy: 83, 14
+  size: 37, 34
+  orig: 167, 140
+  offset: 128, 65
+  index: -1
+lf
+  rotate: true
+  xy: 83, 50
+  size: 24, 43
+  orig: 167, 140
+  offset: 143, 35
+  index: -1
+lfoot
+  rotate: false
+  xy: 176, 36
+  size: 25, 17
+  orig: 167, 140
+  offset: 123, 0
+  index: -1
+rarm
+  rotate: false
+  xy: 122, 14
+  size: 37, 34
+  orig: 167, 140
+  offset: 60, 65
+  index: -1
+rf
+  rotate: true
+  xy: 128, 50
+  size: 24, 43
+  orig: 167, 140
+  offset: 58, 35
+  index: -1
+rfoot
+  rotate: false
+  xy: 176, 17
+  size: 25, 17
+  orig: 167, 140
+  offset: 76, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 4
+  size: 76, 40
+  orig: 167, 140
+  offset: 0, 7
+  index: -1

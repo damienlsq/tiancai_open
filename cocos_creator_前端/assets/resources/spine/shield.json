@@ -1,0 +1,48 @@
+{
+"skeleton": { "hash": "PoUl8KbOHLmzXtqIuIc2nNRScKA", "spine": "3.3.07", "width": 212, "height": 252, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 99.02, "rotation": 91.15, "x": 7.56, "y": -22.57 }
+],
+"slots": [
+	{ "name": "dun", "bone": "bone", "attachment": "dun1" }
+],
+"skins": {
+	"default": {
+		"dun": {
+			"dun": { "x": 52.96, "y": -2.07, "rotation": -91.15, "width": 212, "height": 252 },
+			"dun1": { "x": 71.26, "y": -1.43, "rotation": -91.15, "width": 212, "height": 252 }
+		}
+	}
+},
+"animations": {
+	"shield": {
+		"slots": {
+			"dun": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff96" },
+					{ "time": 0.6666, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.045, "y": 0.933 },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

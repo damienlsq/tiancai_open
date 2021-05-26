@@ -1,0 +1,62 @@
+
+monster2011.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 173, 30
+  size: 29, 40
+  orig: 60, 130
+  offset: 16, 28
+  index: -1
+foot
+  rotate: false
+  xy: 136, 22
+  size: 35, 37
+  orig: 60, 130
+  offset: 12, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 57, 65
+  orig: 60, 130
+  offset: 2, 65
+  index: -1
+head2
+  rotate: true
+  xy: 69, 2
+  size: 57, 65
+  orig: 60, 130
+  offset: 2, 65
+  index: -1
+larm
+  rotate: true
+  xy: 136, 12
+  size: 8, 19
+  orig: 60, 130
+  offset: 42, 43
+  index: -1
+lf
+  rotate: true
+  xy: 136, 3
+  size: 7, 18
+  orig: 60, 130
+  offset: 43, 29
+  index: -1
+rarm
+  rotate: false
+  xy: 215, 40
+  size: 8, 19
+  orig: 60, 130
+  offset: 11, 43
+  index: -1
+rf
+  rotate: false
+  xy: 225, 41
+  size: 7, 18
+  orig: 60, 130
+  offset: 11, 29
+  index: -1

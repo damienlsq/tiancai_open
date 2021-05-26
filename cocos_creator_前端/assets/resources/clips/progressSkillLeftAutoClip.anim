@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "progressSkillLeftAutoClip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Widget": {},
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6e6eaaeb-4161-4202-9f52-99e4f22fcaff"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "893c6067-ee3e-4964-805f-1b8cb80da3dd"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "e9ef1899-486d-4720-ba72-fe190040fe6c"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

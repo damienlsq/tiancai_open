@@ -1,0 +1,20 @@
+
+device_col3.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+device_col1
+  rotate: false
+  xy: 90, 11
+  size: 75, 36
+  orig: 88, 45
+  offset: 11, 0
+  index: -1
+device_col1_2
+  rotate: false
+  xy: 2, 2
+  size: 86, 45
+  orig: 88, 45
+  offset: 2, 0
+  index: -1

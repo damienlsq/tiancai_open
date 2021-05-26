@@ -1,0 +1,97 @@
+
+selectedFrame.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grow1
+  rotate: false
+  xy: 903, 15
+  size: 73, 38
+  orig: 101, 101
+  offset: 14, 7
+  index: -1
+grow2
+  rotate: false
+  xy: 833, 2
+  size: 68, 51
+  orig: 101, 101
+  offset: 16, 8
+  index: -1
+grow3
+  rotate: false
+  xy: 646, 74
+  size: 100, 52
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+seatLight0_0
+  rotate: false
+  xy: 2, 29
+  size: 97, 97
+  orig: 100, 100
+  offset: 2, 0
+  index: -1
+seatLight0_1
+  rotate: false
+  xy: 547, 58
+  size: 97, 68
+  orig: 100, 100
+  offset: 2, 0
+  index: -1
+seatLight1_0
+  rotate: false
+  xy: 200, 29
+  size: 83, 97
+  orig: 100, 100
+  offset: 12, 0
+  index: -1
+seatLight1_1
+  rotate: false
+  xy: 748, 48
+  size: 83, 78
+  orig: 100, 100
+  offset: 12, 0
+  index: -1
+seatLight2_0
+  rotate: false
+  xy: 370, 29
+  size: 76, 97
+  orig: 100, 100
+  offset: 11, 0
+  index: -1
+seatLight2_1
+  rotate: false
+  xy: 918, 55
+  size: 76, 71
+  orig: 100, 100
+  offset: 11, 0
+  index: -1
+seatLight3_0
+  rotate: false
+  xy: 285, 29
+  size: 83, 97
+  orig: 100, 100
+  offset: 5, 0
+  index: -1
+seatLight3_1
+  rotate: false
+  xy: 833, 55
+  size: 83, 71
+  orig: 100, 100
+  offset: 5, 0
+  index: -1
+seatLight4_0
+  rotate: false
+  xy: 101, 29
+  size: 97, 97
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+seatLight4_1
+  rotate: false
+  xy: 448, 57
+  size: 97, 69
+  orig: 100, 100
+  offset: 1, 0
+  index: -1

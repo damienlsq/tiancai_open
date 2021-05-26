@@ -1,0 +1,76 @@
+
+monster1005.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 75, 57
+  size: 69, 68
+  orig: 100, 150
+  offset: 16, 19
+  index: -1
+eyes
+  rotate: false
+  xy: 146, 57
+  size: 27, 16
+  orig: 100, 150
+  offset: 33, 116
+  index: -1
+eyesBad
+  rotate: false
+  xy: 32, 17
+  size: 27, 14
+  orig: 100, 150
+  offset: 33, 118
+  index: -1
+head
+  rotate: false
+  xy: 0, 52
+  size: 73, 73
+  orig: 100, 150
+  offset: 12, 75
+  index: -1
+lfoot
+  rotate: false
+  xy: 176, 97
+  size: 21, 10
+  orig: 94, 140
+  offset: 59, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 0, 0
+  size: 30, 50
+  orig: 100, 150
+  offset: 68, 33
+  index: -1
+lpant
+  rotate: false
+  xy: 32, 33
+  size: 33, 17
+  orig: 94, 140
+  offset: 48, 2
+  index: -1
+rfoot
+  rotate: false
+  xy: 211, 115
+  size: 21, 10
+  orig: 94, 140
+  offset: 15, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 146, 75
+  size: 28, 50
+  orig: 100, 150
+  offset: 3, 33
+  index: -1
+rpant
+  rotate: false
+  xy: 176, 109
+  size: 33, 16
+  orig: 94, 140
+  offset: 14, 2
+  index: -1

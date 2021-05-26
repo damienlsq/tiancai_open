@@ -1,0 +1,146 @@
+
+useskill.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+useskill0011
+  rotate: true
+  xy: 857, 153
+  size: 101, 126
+  orig: 210, 250
+  offset: 54, 43
+  index: -1
+useskill0021
+  rotate: true
+  xy: 857, 153
+  size: 101, 126
+  orig: 210, 250
+  offset: 54, 43
+  index: -1
+useskill0012
+  rotate: true
+  xy: 595, 151
+  size: 103, 129
+  orig: 210, 250
+  offset: 53, 43
+  index: -1
+useskill0013
+  rotate: true
+  xy: 331, 149
+  size: 105, 130
+  orig: 210, 250
+  offset: 52, 44
+  index: -1
+useskill0014
+  rotate: true
+  xy: 2, 13
+  size: 107, 129
+  orig: 210, 250
+  offset: 51, 47
+  index: -1
+useskill0015
+  rotate: false
+  xy: 2, 122
+  size: 108, 132
+  orig: 210, 250
+  offset: 50, 46
+  index: -1
+useskill0016
+  rotate: true
+  xy: 1725, 144
+  size: 110, 116
+  orig: 210, 250
+  offset: 49, 45
+  index: -1
+useskill0017
+  rotate: true
+  xy: 1481, 143
+  size: 111, 120
+  orig: 210, 250
+  offset: 49, 43
+  index: -1
+useskill0018
+  rotate: true
+  xy: 985, 142
+  size: 112, 122
+  orig: 210, 250
+  offset: 48, 43
+  index: -1
+useskill0019
+  rotate: true
+  xy: 1233, 143
+  size: 111, 122
+  orig: 210, 250
+  offset: 49, 45
+  index: -1
+useskill0020
+  rotate: false
+  xy: 222, 2
+  size: 97, 121
+  orig: 210, 250
+  offset: 56, 44
+  index: -1
+useskill0030
+  rotate: false
+  xy: 222, 2
+  size: 97, 121
+  orig: 210, 250
+  offset: 56, 44
+  index: -1
+useskill0022
+  rotate: true
+  xy: 726, 151
+  size: 103, 129
+  orig: 210, 250
+  offset: 53, 43
+  index: -1
+useskill0023
+  rotate: true
+  xy: 463, 149
+  size: 105, 130
+  orig: 210, 250
+  offset: 52, 44
+  index: -1
+useskill0024
+  rotate: false
+  xy: 222, 125
+  size: 107, 129
+  orig: 210, 250
+  offset: 51, 47
+  index: -1
+useskill0025
+  rotate: false
+  xy: 112, 122
+  size: 108, 132
+  orig: 210, 250
+  offset: 50, 46
+  index: -1
+useskill0026
+  rotate: true
+  xy: 1843, 144
+  size: 110, 116
+  orig: 210, 250
+  offset: 49, 45
+  index: -1
+useskill0027
+  rotate: true
+  xy: 1603, 143
+  size: 111, 120
+  orig: 210, 250
+  offset: 49, 43
+  index: -1
+useskill0028
+  rotate: true
+  xy: 1109, 142
+  size: 112, 122
+  orig: 210, 250
+  offset: 48, 43
+  index: -1
+useskill0029
+  rotate: true
+  xy: 1357, 143
+  size: 111, 122
+  orig: 210, 250
+  offset: 49, 45
+  index: -1

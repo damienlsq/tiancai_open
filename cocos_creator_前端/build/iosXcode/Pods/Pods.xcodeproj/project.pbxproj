@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		045BAAC4FB3B5B602B272B714940E34B /* VungleSDK-iOS */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 9B3CECDFB72C915CAAD8DB2C5547D20C /* Build configuration list for PBXAggregateTarget "VungleSDK-iOS" */;
+			buildPhases = (
+			);
+			dependencies = (
+			);
+			name = "VungleSDK-iOS";
+		};
+		8554F6236D2AA202CF58503D2DF29730 /* WechatOpenSDK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 4AF0DF2249DC5CF1F6B67BE5469CE54C /* Build configuration list for PBXAggregateTarget "WechatOpenSDK" */;
+			buildPhases = (
+			);
+			dependencies = (
+			);
+			name = WechatOpenSDK;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		59EE89A42A43AA288A81FA7285B5F717 /* Pods-game-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB7E1DDEEC5C5E78D9E39AD449EA4CC5 /* Pods-game-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2AB9940E03A926D7DA95C42A86CFCC04 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 045BAAC4FB3B5B602B272B714940E34B;
+			remoteInfo = "VungleSDK-iOS";
+		};
+		D612D68EC6555B0C7B01F797F98FC1C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8554F6236D2AA202CF58503D2DF29730;
+			remoteInfo = WechatOpenSDK;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3538F7337D13B27CB9DCF03D2BABCEFC /* VungleSDK-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "VungleSDK-iOS.debug.xcconfig"; sourceTree = "<group>"; };
+		378AFDFB24528A060D505D977309B307 /* WechatOpenSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WechatOpenSDK.debug.xcconfig; sourceTree = "<group>"; };
+		3CE82ABBF3E625472B106263F6BA705A /* libWeChatSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeChatSDK.a; path = OpenSDK1.8.7.1/libWeChatSDK.a; sourceTree = "<group>"; };
+		589EECE9894FDE5E4205B33E6516C5F2 /* WXApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WXApi.h; path = OpenSDK1.8.7.1/WXApi.h; sourceTree = "<group>"; };
+		799F410182868A619673F7BAD0452316 /* Pods-game-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-game-acknowledgements.plist"; sourceTree = "<group>"; };
+		7E89836BC09B27A0234B08562F40D5A2 /* Pods-game-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-game-acknowledgements.markdown"; sourceTree = "<group>"; };
+		84B94FABD259FFEDFD4B080A71F410B4 /* VungleSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = VungleSDK.framework; sourceTree = "<group>"; };
+		937ADFC5815B19A57ED446DA488B8D36 /* WXApiObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WXApiObject.h; path = OpenSDK1.8.7.1/WXApiObject.h; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9FED5EA82FE380309E34BBF12B29E941 /* Pods-game.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-game.debug.xcconfig"; sourceTree = "<group>"; };
+		AFF4C9C465B2CF971C44DC7B046B9F9B /* WechatOpenSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WechatOpenSDK.release.xcconfig; sourceTree = "<group>"; };
+		C1558D967C2457E33983EF960A5A3BB2 /* libPods-game.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-game.a"; path = "libPods-game.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C20271837D74E285BF73CA4B97AE998D /* Pods-game.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-game.release.xcconfig"; sourceTree = "<group>"; };
+		C694D268E4EB80FC708D21B9FF9AFE42 /* VungleSDK-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "VungleSDK-iOS.release.xcconfig"; sourceTree = "<group>"; };
+		DB7E1DDEEC5C5E78D9E39AD449EA4CC5 /* Pods-game-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-game-dummy.m"; sourceTree = "<group>"; };
+		EA93A24416CA134D31C6C9A8787FAB89 /* WechatAuthSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WechatAuthSDK.h; path = OpenSDK1.8.7.1/WechatAuthSDK.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9DF1656702D8C71DA59AB468220444B1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		224F0051EB79BE0712F2D904E900792B /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				3538F7337D13B27CB9DCF03D2BABCEFC /* VungleSDK-iOS.debug.xcconfig */,
+				C694D268E4EB80FC708D21B9FF9AFE42 /* VungleSDK-iOS.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/VungleSDK-iOS";
+			sourceTree = "<group>";
+		};
+		4AE90E96CF223405ACB8C6D959024C68 /* WechatOpenSDK */ = {
+			isa = PBXGroup;
+			children = (
+				EA93A24416CA134D31C6C9A8787FAB89 /* WechatAuthSDK.h */,
+				589EECE9894FDE5E4205B33E6516C5F2 /* WXApi.h */,
+				937ADFC5815B19A57ED446DA488B8D36 /* WXApiObject.h */,
+				50F799A274A4C12DB28997B8B24DB330 /* Frameworks */,
+				C807A1D948E9FA3BFF6E48EAC7BD1C33 /* Support Files */,
+			);
+			name = WechatOpenSDK;
+			path = WechatOpenSDK;
+			sourceTree = "<group>";
+		};
+		50F799A274A4C12DB28997B8B24DB330 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3CE82ABBF3E625472B106263F6BA705A /* libWeChatSDK.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7DBC5B110403AC3FD7E005EC24B736DB /* Pods-game */ = {
+			isa = PBXGroup;
+			children = (
+				7E89836BC09B27A0234B08562F40D5A2 /* Pods-game-acknowledgements.markdown */,
+				799F410182868A619673F7BAD0452316 /* Pods-game-acknowledgements.plist */,
+				DB7E1DDEEC5C5E78D9E39AD449EA4CC5 /* Pods-game-dummy.m */,
+				9FED5EA82FE380309E34BBF12B29E941 /* Pods-game.debug.xcconfig */,
+				C20271837D74E285BF73CA4B97AE998D /* Pods-game.release.xcconfig */,
+			);
+			name = "Pods-game";
+			path = "Target Support Files/Pods-game";
+			sourceTree = "<group>";
+		};
+		85D9E486DB35C588DE3B553D7CEC3B1C /* VungleSDK-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				AB77553C1A93B39CBE8399F1137DE9CF /* Frameworks */,
+				224F0051EB79BE0712F2D904E900792B /* Support Files */,
+			);
+			name = "VungleSDK-iOS";
+			path = "VungleSDK-iOS";
+			sourceTree = "<group>";
+		};
+		AB77553C1A93B39CBE8399F1137DE9CF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				84B94FABD259FFEDFD4B080A71F410B4 /* VungleSDK.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B4BD0717BDE5783DDF9294E41BB6959E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				85D9E486DB35C588DE3B553D7CEC3B1C /* VungleSDK-iOS */,
+				4AE90E96CF223405ACB8C6D959024C68 /* WechatOpenSDK */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		C7847776AA8EE2FBB160C544AE636534 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7DBC5B110403AC3FD7E005EC24B736DB /* Pods-game */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		C807A1D948E9FA3BFF6E48EAC7BD1C33 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				378AFDFB24528A060D505D977309B307 /* WechatOpenSDK.debug.xcconfig */,
+				AFF4C9C465B2CF971C44DC7B046B9F9B /* WechatOpenSDK.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/WechatOpenSDK";
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
+				B4BD0717BDE5783DDF9294E41BB6959E /* Pods */,
+				E7A8AAE3A3C6BC093D4B380C45EC47FF /* Products */,
+				C7847776AA8EE2FBB160C544AE636534 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E7A8AAE3A3C6BC093D4B380C45EC47FF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C1558D967C2457E33983EF960A5A3BB2 /* libPods-game.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		86293A73E02B14E7DA65EAFE7F09F7EA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		7D583AD1B15A3AE7F0B8DA29088622AF /* Pods-game */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C1912D06F9D0F8A2907F3B5598C2ADF2 /* Build configuration list for PBXNativeTarget "Pods-game" */;
+			buildPhases = (
+				86293A73E02B14E7DA65EAFE7F09F7EA /* Headers */,
+				8EBCDC8EAB7E41EB10FA45CE6305312B /* Sources */,
+				9DF1656702D8C71DA59AB468220444B1 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				41F54CE2351062BE3E584D7FFE944A77 /* PBXTargetDependency */,
+				D19294BB1A4B2EDE77B83C5EA48C3CB0 /* PBXTargetDependency */,
+			);
+			name = "Pods-game";
+			productName = "Pods-game";
+			productReference = C1558D967C2457E33983EF960A5A3BB2 /* libPods-game.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 11.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = E7A8AAE3A3C6BC093D4B380C45EC47FF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7D583AD1B15A3AE7F0B8DA29088622AF /* Pods-game */,
+				045BAAC4FB3B5B602B272B714940E34B /* VungleSDK-iOS */,
+				8554F6236D2AA202CF58503D2DF29730 /* WechatOpenSDK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8EBCDC8EAB7E41EB10FA45CE6305312B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59EE89A42A43AA288A81FA7285B5F717 /* Pods-game-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		41F54CE2351062BE3E584D7FFE944A77 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "VungleSDK-iOS";
+			target = 045BAAC4FB3B5B602B272B714940E34B /* VungleSDK-iOS */;
+			targetProxy = 2AB9940E03A926D7DA95C42A86CFCC04 /* PBXContainerItemProxy */;
+		};
+		D19294BB1A4B2EDE77B83C5EA48C3CB0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = WechatOpenSDK;
+			target = 8554F6236D2AA202CF58503D2DF29730 /* WechatOpenSDK */;
+			targetProxy = D612D68EC6555B0C7B01F797F98FC1C3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		085F0921680D6177627D043F34491173 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C694D268E4EB80FC708D21B9FF9AFE42 /* VungleSDK-iOS.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		19EB48C8530FBA1DDEA8FFCDD602F307 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AFF4C9C465B2CF971C44DC7B046B9F9B /* WechatOpenSDK.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		AA043919B8F03CF85CC32FC4A65A3901 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C20271837D74E285BF73CA4B97AE998D /* Pods-game.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BAC1D2FCDA67ED8AD5BBE5B1EE2A76A6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3538F7337D13B27CB9DCF03D2BABCEFC /* VungleSDK-iOS.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D299434AB35E7FD6F7921C8EF24742FF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		E9034C3C8B274D7A7C62065B44D4B763 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 378AFDFB24528A060D505D977309B307 /* WechatOpenSDK.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F47523079DBCD0978047075F9B2A1108 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9FED5EA82FE380309E34BBF12B29E941 /* Pods-game.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
+				7EE7A78859F657F6BEFC651185B43192 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4AF0DF2249DC5CF1F6B67BE5469CE54C /* Build configuration list for PBXAggregateTarget "WechatOpenSDK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E9034C3C8B274D7A7C62065B44D4B763 /* Debug */,
+				19EB48C8530FBA1DDEA8FFCDD602F307 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9B3CECDFB72C915CAAD8DB2C5547D20C /* Build configuration list for PBXAggregateTarget "VungleSDK-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAC1D2FCDA67ED8AD5BBE5B1EE2A76A6 /* Debug */,
+				085F0921680D6177627D043F34491173 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C1912D06F9D0F8A2907F3B5598C2ADF2 /* Build configuration list for PBXNativeTarget "Pods-game" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F47523079DBCD0978047075F9B2A1108 /* Debug */,
+				AA043919B8F03CF85CC32FC4A65A3901 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

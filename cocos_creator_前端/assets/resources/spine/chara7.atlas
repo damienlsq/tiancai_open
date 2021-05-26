@@ -1,0 +1,279 @@
+
+chara7.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1_1
+  rotate: false
+  xy: 2, 30
+  size: 110, 31
+  orig: 110, 100
+  offset: 0, 11
+  index: -1
+book
+  rotate: false
+  xy: 278, 2
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+eyes_1_1
+  rotate: false
+  xy: 565, 84
+  size: 64, 20
+  orig: 64, 120
+  offset: 0, 61
+  index: -1
+eyes_s9
+  rotate: false
+  xy: 565, 84
+  size: 64, 20
+  orig: 64, 120
+  offset: 0, 61
+  index: -1
+eyes_s1
+  rotate: false
+  xy: 677, 95
+  size: 64, 24
+  orig: 64, 120
+  offset: 0, 57
+  index: -1
+eyes_s10
+  rotate: false
+  xy: 442, 34
+  size: 64, 13
+  orig: 64, 120
+  offset: 0, 61
+  index: -1
+eyes_s11
+  rotate: false
+  xy: 508, 47
+  size: 64, 24
+  orig: 64, 120
+  offset: 0, 57
+  index: -1
+eyes_s12
+  rotate: false
+  xy: 508, 25
+  size: 64, 20
+  orig: 64, 120
+  offset: 0, 61
+  index: -1
+eyes_s2
+  rotate: false
+  xy: 789, 106
+  size: 64, 20
+  orig: 64, 120
+  offset: 0, 60
+  index: -1
+eyes_s3
+  rotate: false
+  xy: 855, 104
+  size: 64, 22
+  orig: 64, 120
+  offset: 0, 58
+  index: -1
+eyes_s5
+  rotate: false
+  xy: 921, 103
+  size: 64, 23
+  orig: 64, 120
+  offset: 0, 57
+  index: -1
+eyes_s6
+  rotate: false
+  xy: 278, 39
+  size: 64, 24
+  orig: 64, 120
+  offset: 0, 56
+  index: -1
+eyes_s7
+  rotate: false
+  xy: 344, 43
+  size: 64, 24
+  orig: 64, 120
+  offset: 0, 57
+  index: -1
+eyes_s8
+  rotate: false
+  xy: 442, 49
+  size: 64, 22
+  orig: 64, 120
+  offset: 0, 56
+  index: -1
+eyesbrow
+  rotate: false
+  xy: 114, 6
+  size: 64, 8
+  orig: 64, 120
+  offset: 0, 75
+  index: -1
+glass
+  rotate: false
+  xy: 114, 45
+  size: 110, 19
+  orig: 110, 100
+  offset: 0, 65
+  index: -1
+grow
+  rotate: false
+  xy: 330, 90
+  size: 121, 36
+  orig: 121, 36
+  offset: 0, 0
+  index: -1
+grow1
+  rotate: false
+  xy: 226, 65
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+grow3
+  rotate: false
+  xy: 631, 89
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+head_1_1
+  rotate: false
+  xy: 2, 63
+  size: 110, 63
+  orig: 110, 100
+  offset: 0, 36
+  index: -1
+larm_1_1
+  rotate: false
+  xy: 114, 25
+  size: 110, 18
+  orig: 110, 100
+  offset: 0, 24
+  index: -1
+lfoot_1_1
+  rotate: false
+  xy: 2, 2
+  size: 110, 5
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+lforarm_1_1
+  rotate: false
+  xy: 330, 69
+  size: 110, 19
+  orig: 110, 100
+  offset: 0, 11
+  index: -1
+lleg_1_1
+  rotate: false
+  xy: 114, 16
+  size: 110, 7
+  orig: 110, 100
+  offset: 0, 3
+  index: -1
+lpants_1_1
+  rotate: false
+  xy: 565, 115
+  size: 110, 11
+  orig: 110, 100
+  offset: 0, 7
+  index: -1
+mouth
+  rotate: false
+  xy: 114, 2
+  size: 64, 2
+  orig: 64, 120
+  offset: 0, 52
+  index: -1
+mouth_s1
+  rotate: false
+  xy: 344, 35
+  size: 64, 6
+  orig: 64, 120
+  offset: 0, 47
+  index: -1
+mouth_s2
+  rotate: false
+  xy: 554, 76
+  size: 64, 6
+  orig: 64, 120
+  offset: 0, 47
+  index: -1
+mouth_s3
+  rotate: true
+  xy: 574, 10
+  size: 64, 6
+  orig: 64, 120
+  offset: 0, 51
+  index: -1
+question
+  rotate: true
+  xy: 226, 21
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+rarm_1_1
+  rotate: false
+  xy: 453, 90
+  size: 110, 15
+  orig: 110, 100
+  offset: 0, 26
+  index: -1
+rfoot_1_1
+  rotate: false
+  xy: 677, 121
+  size: 110, 5
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+rforarm_1_1
+  rotate: false
+  xy: 442, 73
+  size: 110, 15
+  orig: 110, 100
+  offset: 0, 19
+  index: -1
+rforarm_1_2
+  rotate: false
+  xy: 453, 107
+  size: 110, 19
+  orig: 110, 100
+  offset: 0, 11
+  index: -1
+rleg_1_1
+  rotate: false
+  xy: 565, 106
+  size: 110, 7
+  orig: 110, 100
+  offset: 0, 3
+  index: -1
+rpants_1_1
+  rotate: false
+  xy: 2, 9
+  size: 110, 19
+  orig: 110, 100
+  offset: 0, 6
+  index: -1
+void
+  rotate: false
+  xy: 554, 73
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+weapon_1_1
+  rotate: false
+  xy: 114, 66
+  size: 110, 60
+  orig: 110, 100
+  offset: 0, 1
+  index: -1
+weapon_1_1_
+  rotate: true
+  xy: 410, 41
+  size: 26, 30
+  orig: 26, 48
+  offset: 0, 18
+  index: -1

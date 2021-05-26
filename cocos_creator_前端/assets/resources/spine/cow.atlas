@@ -1,0 +1,13 @@
+
+cow.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slent4
+  rotate: false
+  xy: 0, 0
+  size: 42, 32
+  orig: 550, 400
+  offset: 96, 311
+  index: -1

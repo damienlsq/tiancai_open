@@ -1,0 +1,76 @@
+
+monster1027.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 139, 189
+  size: 100, 65
+  orig: 240, 200
+  offset: 78, 16
+  index: -1
+eyes
+  rotate: true
+  xy: 100, 4
+  size: 31, 32
+  orig: 240, 200
+  offset: 110, 111
+  index: -1
+eyesBad
+  rotate: false
+  xy: 139, 88
+  size: 23, 23
+  orig: 240, 200
+  offset: 114, 117
+  index: -1
+foot1
+  rotate: true
+  xy: 0, 0
+  size: 95, 38
+  orig: 240, 200
+  offset: 0, 30
+  index: -1
+foot2
+  rotate: false
+  xy: 40, 39
+  size: 65, 56
+  orig: 240, 200
+  offset: 53, 8
+  index: -1
+foot3
+  rotate: false
+  xy: 185, 127
+  size: 40, 60
+  orig: 240, 200
+  offset: 99, 1
+  index: -1
+foot4
+  rotate: true
+  xy: 40, 8
+  size: 29, 58
+  orig: 240, 200
+  offset: 133, 1
+  index: -1
+foot5
+  rotate: false
+  xy: 107, 37
+  size: 28, 58
+  orig: 240, 200
+  offset: 171, 0
+  index: -1
+foot6
+  rotate: false
+  xy: 139, 113
+  size: 44, 74
+  orig: 240, 200
+  offset: 189, 6
+  index: -1
+head
+  rotate: false
+  xy: 0, 97
+  size: 137, 157
+  orig: 240, 200
+  offset: 81, 43
+  index: -1

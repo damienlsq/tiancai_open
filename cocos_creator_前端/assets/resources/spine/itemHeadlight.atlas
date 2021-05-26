@@ -1,0 +1,153 @@
+
+itemHeadlight.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+itemHeadlight0001
+  rotate: true
+  xy: 352, 28
+  size: 66, 58
+  orig: 150, 150
+  offset: 44, 42
+  index: -1
+itemHeadlight0002
+  rotate: true
+  xy: 407, 178
+  size: 76, 80
+  orig: 150, 150
+  offset: 39, 35
+  index: -1
+itemHeadlight0003
+  rotate: false
+  xy: 83, 88
+  size: 77, 80
+  orig: 150, 150
+  offset: 39, 35
+  index: -1
+itemHeadlight0004
+  rotate: false
+  xy: 131, 8
+  size: 77, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0005
+  rotate: false
+  xy: 164, 96
+  size: 78, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0006
+  rotate: false
+  xy: 244, 96
+  size: 78, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0007
+  rotate: false
+  xy: 324, 96
+  size: 78, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0008
+  rotate: false
+  xy: 83, 170
+  size: 79, 84
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0009
+  rotate: false
+  xy: 2, 66
+  size: 79, 90
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0010
+  rotate: false
+  xy: 2, 158
+  size: 79, 96
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0011
+  rotate: false
+  xy: 164, 176
+  size: 79, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0012
+  rotate: false
+  xy: 245, 176
+  size: 79, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0013
+  rotate: false
+  xy: 326, 176
+  size: 79, 78
+  orig: 150, 150
+  offset: 39, 37
+  index: -1
+itemHeadlight0014
+  rotate: false
+  xy: 210, 16
+  size: 75, 78
+  orig: 150, 150
+  offset: 43, 37
+  index: -1
+itemHeadlight0015
+  rotate: false
+  xy: 287, 16
+  size: 63, 78
+  orig: 150, 150
+  offset: 55, 37
+  index: -1
+itemHeadlight0016
+  rotate: true
+  xy: 2, 2
+  size: 62, 72
+  orig: 150, 150
+  offset: 56, 37
+  index: -1
+itemHeadlight0017
+  rotate: true
+  xy: 76, 2
+  size: 62, 53
+  orig: 150, 150
+  offset: 56, 37
+  index: -1
+itemHeadlight0018
+  rotate: true
+  xy: 404, 112
+  size: 62, 35
+  orig: 150, 150
+  offset: 56, 37
+  index: -1
+itemHeadlight0019
+  rotate: true
+  xy: 441, 114
+  size: 62, 34
+  orig: 150, 150
+  offset: 56, 37
+  index: -1
+itemHeadlight0020
+  rotate: false
+  xy: 489, 238
+  size: 17, 16
+  orig: 150, 150
+  offset: 56, 55
+  index: -1
+itemHeadlight0021
+  rotate: false
+  xy: 83, 70
+  size: 15, 16
+  orig: 150, 150
+  offset: 57, 55
+  index: -1

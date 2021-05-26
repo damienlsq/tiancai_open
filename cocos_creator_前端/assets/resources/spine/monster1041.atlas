@@ -1,0 +1,76 @@
+
+monster1041.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 102, 61
+  size: 40, 60
+  orig: 130, 140
+  offset: 48, 17
+  index: -1
+eyes
+  rotate: false
+  xy: 140, 36
+  size: 33, 21
+  orig: 130, 140
+  offset: 52, 91
+  index: -1
+eyesBad
+  rotate: true
+  xy: 84, 17
+  size: 35, 22
+  orig: 130, 140
+  offset: 50, 90
+  index: -1
+f2
+  rotate: false
+  xy: 144, 79
+  size: 54, 42
+  orig: 130, 140
+  offset: 42, 78
+  index: -1
+f3
+  rotate: false
+  xy: 108, 32
+  size: 30, 27
+  orig: 130, 140
+  offset: 52, 50
+  index: -1
+f4
+  rotate: false
+  xy: 0, 0
+  size: 45, 12
+  orig: 130, 140
+  offset: 46, 70
+  index: -1
+foot
+  rotate: false
+  xy: 0, 14
+  size: 82, 38
+  orig: 130, 140
+  offset: 26, 0
+  index: -1
+fr1
+  rotate: false
+  xy: 0, 54
+  size: 100, 67
+  orig: 130, 140
+  offset: 19, 73
+  index: -1
+ye
+  rotate: false
+  xy: 200, 97
+  size: 47, 24
+  orig: 130, 140
+  offset: 10, 41
+  index: -1
+ye2
+  rotate: false
+  xy: 144, 59
+  size: 44, 18
+  orig: 130, 140
+  offset: 83, 51
+  index: -1

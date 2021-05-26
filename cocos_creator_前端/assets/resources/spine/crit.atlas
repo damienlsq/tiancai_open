@@ -1,0 +1,146 @@
+
+crit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crit0001
+  rotate: true
+  xy: 405, 432
+  size: 191, 189
+  orig: 210, 250
+  offset: 3, 39
+  index: -1
+crit0002
+  rotate: false
+  xy: 596, 245
+  size: 187, 187
+  orig: 210, 250
+  offset: 4, 39
+  index: -1
+crit0003
+  rotate: false
+  xy: 0, 0
+  size: 190, 184
+  orig: 210, 250
+  offset: 4, 39
+  index: -1
+crit0004
+  rotate: false
+  xy: 596, 434
+  size: 191, 189
+  orig: 210, 250
+  offset: 5, 31
+  index: -1
+crit0005
+  rotate: false
+  xy: 801, 626
+  size: 194, 192
+  orig: 210, 250
+  offset: 5, 28
+  index: -1
+crit0006
+  rotate: true
+  xy: 413, 626
+  size: 195, 197
+  orig: 210, 250
+  offset: 6, 25
+  index: -1
+crit0007
+  rotate: false
+  xy: 826, 820
+  size: 196, 202
+  orig: 210, 250
+  offset: 7, 23
+  index: -1
+crit0008
+  rotate: true
+  xy: 413, 823
+  size: 199, 206
+  orig: 210, 250
+  offset: 7, 22
+  index: -1
+crit0009
+  rotate: false
+  xy: 0, 397
+  size: 200, 204
+  orig: 210, 250
+  offset: 8, 27
+  index: -1
+crit0010
+  rotate: false
+  xy: 0, 603
+  size: 201, 208
+  orig: 210, 250
+  offset: 9, 25
+  index: -1
+crit0011
+  rotate: false
+  xy: 191, 192
+  size: 191, 203
+  orig: 210, 250
+  offset: 5, 23
+  index: -1
+crit0012
+  rotate: false
+  xy: 0, 186
+  size: 189, 209
+  orig: 210, 250
+  offset: 5, 22
+  index: -1
+crit0013
+  rotate: true
+  xy: 192, 0
+  size: 190, 197
+  orig: 210, 250
+  offset: 5, 38
+  index: -1
+crit0014
+  rotate: true
+  xy: 204, 625
+  size: 192, 201
+  orig: 210, 250
+  offset: 5, 38
+  index: -1
+crit0015
+  rotate: false
+  xy: 801, 443
+  size: 194, 181
+  orig: 210, 250
+  offset: 5, 38
+  index: -1
+crit0016
+  rotate: true
+  xy: 612, 625
+  size: 196, 187
+  orig: 210, 250
+  offset: 5, 38
+  index: -1
+crit0017
+  rotate: false
+  xy: 203, 431
+  size: 200, 192
+  orig: 210, 250
+  offset: 3, 39
+  index: -1
+crit0018
+  rotate: false
+  xy: 621, 825
+  size: 203, 197
+  orig: 210, 250
+  offset: 2, 39
+  index: -1
+crit0019
+  rotate: false
+  xy: 204, 819
+  size: 207, 203
+  orig: 210, 250
+  offset: 0, 39
+  index: -1
+crit0020
+  rotate: false
+  xy: 0, 813
+  size: 202, 209
+  orig: 210, 250
+  offset: 7, 39
+  index: -1

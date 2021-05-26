@@ -1,0 +1,167 @@
+
+monster1014.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 345, 128
+  size: 148, 126
+  orig: 158, 200
+  offset: 1, 0
+  index: -1
+bones0001
+  rotate: false
+  xy: 751, 137
+  size: 125, 117
+  orig: 550, 400
+  offset: 173, 154
+  index: -1
+bones0002
+  rotate: false
+  xy: 474, 4
+  size: 126, 122
+  orig: 550, 400
+  offset: 170, 148
+  index: -1
+bones0004
+  rotate: false
+  xy: 624, 129
+  size: 125, 125
+  orig: 550, 400
+  offset: 168, 139
+  index: -1
+bones0006
+  rotate: false
+  xy: 495, 128
+  size: 127, 126
+  orig: 550, 400
+  offset: 171, 135
+  index: -1
+bones0008
+  rotate: false
+  xy: 345, 2
+  size: 127, 124
+  orig: 550, 400
+  offset: 174, 137
+  index: -1
+bones0010
+  rotate: false
+  xy: 1002, 143
+  size: 118, 111
+  orig: 550, 400
+  offset: 180, 141
+  index: -1
+bones0012
+  rotate: false
+  xy: 1241, 108
+  size: 111, 108
+  orig: 550, 400
+  offset: 184, 144
+  index: -1
+bones0014
+  rotate: true
+  xy: 1354, 106
+  size: 110, 98
+  orig: 550, 400
+  offset: 182, 151
+  index: -1
+bones0016
+  rotate: false
+  xy: 1666, 161
+  size: 99, 93
+  orig: 550, 400
+  offset: 186, 152
+  index: -1
+bones0018
+  rotate: false
+  xy: 1454, 50
+  size: 97, 92
+  orig: 550, 400
+  offset: 189, 156
+  index: -1
+bones0020
+  rotate: false
+  xy: 1767, 160
+  size: 98, 94
+  orig: 550, 400
+  offset: 188, 160
+  index: -1
+bones0022
+  rotate: false
+  xy: 1867, 160
+  size: 98, 94
+  orig: 550, 400
+  offset: 183, 160
+  index: -1
+bones0024
+  rotate: false
+  xy: 1563, 156
+  size: 101, 98
+  orig: 550, 400
+  offset: 183, 153
+  index: -1
+bones0026
+  rotate: false
+  xy: 1454, 144
+  size: 107, 110
+  orig: 550, 400
+  offset: 187, 150
+  index: -1
+bones0028
+  rotate: true
+  xy: 1122, 143
+  size: 111, 117
+  orig: 550, 400
+  offset: 189, 151
+  index: -1
+bones0030
+  rotate: false
+  xy: 878, 137
+  size: 122, 117
+  orig: 550, 400
+  offset: 178, 154
+  index: -1
+eyes
+  rotate: false
+  xy: 1967, 227
+  size: 39, 27
+  orig: 180, 200
+  offset: 65, 131
+  index: -1
+eyesBad
+  rotate: false
+  xy: 184, 44
+  size: 42, 11
+  orig: 180, 200
+  offset: 64, 152
+  index: -1
+head
+  rotate: false
+  xy: 184, 57
+  size: 159, 197
+  orig: 180, 200
+  offset: 9, 3
+  index: -1
+head222
+  rotate: false
+  xy: 2, 35
+  size: 180, 219
+  orig: 180, 220
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 2, 4
+  size: 29, 54
+  orig: 158, 200
+  offset: 96, 56
+  index: -1
+rhand
+  rotate: true
+  xy: 1241, 218
+  size: 36, 192
+  orig: 158, 200
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,278 @@
+{
+"skeleton": { "hash": "xC2B7SwuDDXpbDTJXqTXI/HS7m0", "spine": "3.6.38", "width": 118.17, "height": 126.16, "images": "" },
+"bones": [
+	{ "name": "root", "rotation": -0.08 },
+	{ "name": "bone", "parent": "root", "length": 124.56, "rotation": 90.08, "x": 0.73, "y": 2.15 },
+	{ "name": "bone2", "parent": "bone", "length": 39.49, "x": 62.49, "y": 12.36 }
+],
+"slots": [
+	{ "name": "device_gym13", "bone": "bone", "attachment": "device_gym13" },
+	{ "name": "device_gym", "bone": "bone2", "attachment": "device_gym130001" }
+],
+"skins": {
+	"default": {
+		"device_gym": {
+			"device_gym130001": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130002": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130003": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130004": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130005": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130006": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130007": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130008": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130009": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130010": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130011": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130012": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130013": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130014": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130015": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130016": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130017": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130018": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130019": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130020": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130021": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130022": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130023": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130024": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130025": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130026": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130027": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130028": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130029": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130030": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130031": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130032": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130033": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130034": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130035": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130036": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130037": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130038": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130039": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130040": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130041": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130042": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130043": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130044": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130045": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130046": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130047": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130048": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130049": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130050": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130051": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130052": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130053": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130054": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130055": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130056": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130057": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130058": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130059": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130060": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130061": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130062": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130063": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130064": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130065": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130066": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130067": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130068": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130069": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130070": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130071": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130072": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130073": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130074": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130075": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130076": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130077": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130078": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130079": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130080": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130081": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130082": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130083": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130084": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130085": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130086": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130087": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130088": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130089": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130090": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130091": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130092": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130093": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130094": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130095": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130096": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130097": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130098": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130099": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130100": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130101": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130102": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 },
+			"device_gym130103": { "x": -0.01, "y": -0.09, "rotation": -90.08, "width": 118, "height": 126 }
+		},
+		"device_gym13": {
+			"device_gym13": { "x": 62.7, "y": 12.54, "rotation": -90.08, "width": 117, "height": 125 }
+		}
+	}
+},
+"animations": {
+	"idle1": {
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"idle2": {
+		"slots": {
+			"device_gym": {
+				"attachment": [
+					{ "time": 0.0667, "name": "device_gym130002" },
+					{ "time": 0.1333, "name": "device_gym130003" },
+					{ "time": 0.2, "name": "device_gym130004" },
+					{ "time": 0.2667, "name": "device_gym130005" },
+					{ "time": 0.3333, "name": "device_gym130006" },
+					{ "time": 0.4, "name": "device_gym130007" },
+					{ "time": 0.4667, "name": "device_gym130008" },
+					{ "time": 0.5333, "name": "device_gym130009" },
+					{ "time": 0.6, "name": "device_gym130010" },
+					{ "time": 0.6667, "name": "device_gym130011" },
+					{ "time": 0.7333, "name": "device_gym130012" },
+					{ "time": 0.8, "name": "device_gym130013" },
+					{ "time": 0.8667, "name": "device_gym130014" },
+					{ "time": 0.9333, "name": "device_gym130015" },
+					{ "time": 1, "name": "device_gym130016" },
+					{ "time": 1.0667, "name": "device_gym130017" },
+					{ "time": 1.1333, "name": "device_gym130018" },
+					{ "time": 1.2, "name": "device_gym130019" },
+					{ "time": 1.2667, "name": "device_gym130020" },
+					{ "time": 1.3333, "name": "device_gym130021" },
+					{ "time": 1.4, "name": "device_gym130022" },
+					{ "time": 1.4667, "name": "device_gym130023" },
+					{ "time": 1.5333, "name": "device_gym130024" },
+					{ "time": 1.6, "name": "device_gym130025" },
+					{ "time": 1.6667, "name": "device_gym130026" },
+					{ "time": 1.7333, "name": "device_gym130027" },
+					{ "time": 1.8, "name": "device_gym130028" },
+					{ "time": 1.8667, "name": "device_gym130029" },
+					{ "time": 1.9333, "name": "device_gym130030" },
+					{ "time": 2, "name": "device_gym130031" },
+					{ "time": 2.0667, "name": "device_gym130032" },
+					{ "time": 2.1333, "name": "device_gym130033" },
+					{ "time": 2.2, "name": "device_gym130034" },
+					{ "time": 2.2667, "name": "device_gym130035" },
+					{ "time": 2.3333, "name": "device_gym130036" },
+					{ "time": 2.4, "name": "device_gym130037" },
+					{ "time": 2.4667, "name": "device_gym130038" },
+					{ "time": 2.5333, "name": "device_gym130039" },
+					{ "time": 2.6, "name": "device_gym130040" },
+					{ "time": 2.6667, "name": "device_gym130041" },
+					{ "time": 2.7333, "name": "device_gym130042" },
+					{ "time": 2.8, "name": "device_gym130043" },
+					{ "time": 2.8667, "name": "device_gym130044" },
+					{ "time": 2.9333, "name": "device_gym130045" },
+					{ "time": 3, "name": "device_gym130046" },
+					{ "time": 3.0667, "name": "device_gym130047" },
+					{ "time": 3.1333, "name": "device_gym130048" },
+					{ "time": 3.2, "name": "device_gym130049" },
+					{ "time": 3.2667, "name": "device_gym130050" },
+					{ "time": 3.3333, "name": "device_gym130051" },
+					{ "time": 3.4, "name": "device_gym130052" },
+					{ "time": 3.4667, "name": "device_gym130053" },
+					{ "time": 3.5333, "name": "device_gym130054" },
+					{ "time": 3.6, "name": "device_gym130055" },
+					{ "time": 3.6667, "name": "device_gym130056" },
+					{ "time": 3.7333, "name": "device_gym130057" },
+					{ "time": 3.8, "name": "device_gym130058" },
+					{ "time": 3.8667, "name": "device_gym130059" },
+					{ "time": 3.9333, "name": "device_gym130060" },
+					{ "time": 4, "name": "device_gym130061" },
+					{ "time": 4.0667, "name": "device_gym130062" },
+					{ "time": 4.1333, "name": "device_gym130063" },
+					{ "time": 4.2, "name": "device_gym130064" },
+					{ "time": 4.2667, "name": "device_gym130065" },
+					{ "time": 4.3333, "name": "device_gym130066" },
+					{ "time": 4.4, "name": "device_gym130067" },
+					{ "time": 4.4667, "name": "device_gym130068" },
+					{ "time": 4.5333, "name": "device_gym130069" },
+					{ "time": 4.6, "name": "device_gym130070" },
+					{ "time": 4.6667, "name": "device_gym130071" },
+					{ "time": 4.7333, "name": "device_gym130072" },
+					{ "time": 4.8, "name": "device_gym130073" },
+					{ "time": 4.8667, "name": "device_gym130074" },
+					{ "time": 4.9333, "name": "device_gym130075" },
+					{ "time": 5, "name": "device_gym130076" },
+					{ "time": 5.0667, "name": "device_gym130077" },
+					{ "time": 5.1333, "name": "device_gym130078" },
+					{ "time": 5.2, "name": "device_gym130079" },
+					{ "time": 5.2667, "name": "device_gym130080" },
+					{ "time": 5.3333, "name": "device_gym130081" },
+					{ "time": 5.4, "name": "device_gym130082" },
+					{ "time": 5.4667, "name": "device_gym130083" },
+					{ "time": 5.5333, "name": "device_gym130084" },
+					{ "time": 5.6, "name": "device_gym130085" },
+					{ "time": 5.6667, "name": "device_gym130086" },
+					{ "time": 5.7333, "name": "device_gym130087" },
+					{ "time": 5.8, "name": "device_gym130088" },
+					{ "time": 5.8667, "name": "device_gym130089" },
+					{ "time": 5.9333, "name": "device_gym130090" },
+					{ "time": 6, "name": "device_gym130091" },
+					{ "time": 6.0667, "name": "device_gym130092" },
+					{ "time": 6.1333, "name": "device_gym130093" },
+					{ "time": 6.2, "name": "device_gym130094" },
+					{ "time": 6.2667, "name": "device_gym130095" },
+					{ "time": 6.3333, "name": "device_gym130096" },
+					{ "time": 6.4, "name": "device_gym130097" },
+					{ "time": 6.4667, "name": "device_gym130098" },
+					{ "time": 6.5333, "name": "device_gym130099" },
+					{ "time": 6.6, "name": "device_gym130100" },
+					{ "time": 6.6667, "name": "device_gym130101" },
+					{ "time": 6.7333, "name": "device_gym130102" },
+					{ "time": 6.8, "name": "device_gym130103" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

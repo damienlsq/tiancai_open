@@ -1,0 +1,90 @@
+
+resultWin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cup
+  rotate: false
+  xy: 407, 179
+  size: 269, 184
+  orig: 500, 500
+  offset: 115, 169
+  index: -1
+grown
+  rotate: false
+  xy: 2, 92
+  size: 403, 418
+  orig: 500, 500
+  offset: 44, 23
+  index: -1
+grown2
+  rotate: false
+  xy: 407, 365
+  size: 451, 145
+  orig: 500, 500
+  offset: 16, 163
+  index: -1
+leaf
+  rotate: false
+  xy: 860, 397
+  size: 60, 66
+  orig: 500, 500
+  offset: 159, 102
+  index: -1
+leaf1
+  rotate: false
+  xy: 407, 105
+  size: 87, 72
+  orig: 500, 500
+  offset: 83, 110
+  index: -1
+leaf2
+  rotate: false
+  xy: 53, 22
+  size: 74, 68
+  orig: 500, 500
+  offset: 56, 148
+  index: -1
+leaf3
+  rotate: false
+  xy: 780, 273
+  size: 65, 90
+  orig: 500, 500
+  offset: 36, 180
+  index: -1
+leaf4
+  rotate: false
+  xy: 780, 216
+  size: 21, 55
+  orig: 500, 500
+  offset: 56, 241
+  index: -1
+start
+  rotate: false
+  xy: 496, 129
+  size: 46, 48
+  orig: 500, 500
+  offset: 280, 305
+  index: -1
+ticker_tape1
+  rotate: true
+  xy: 2, 2
+  size: 88, 49
+  orig: 500, 500
+  offset: 205, 114
+  index: -1
+ticker_tape2
+  rotate: false
+  xy: 860, 465
+  size: 136, 45
+  orig: 500, 500
+  offset: 182, 106
+  index: -1
+win
+  rotate: true
+  xy: 678, 170
+  size: 193, 100
+  orig: 500, 500
+  offset: 153, 151
+  index: -1

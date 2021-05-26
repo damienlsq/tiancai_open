@@ -1,0 +1,83 @@
+
+monster2009.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 58, 68
+  orig: 100, 140
+  offset: 21, 27
+  index: -1
+eyes
+  rotate: false
+  xy: 370, 42
+  size: 27, 18
+  orig: 93, 140
+  offset: 35, 104
+  index: -1
+eyesBad
+  rotate: false
+  xy: 337, 41
+  size: 31, 19
+  orig: 93, 140
+  offset: 33, 103
+  index: -1
+head
+  rotate: false
+  xy: 72, 4
+  size: 42, 56
+  orig: 93, 140
+  offset: 27, 84
+  index: -1
+lfoot
+  rotate: false
+  xy: 156, 18
+  size: 19, 12
+  orig: 100, 140
+  offset: 62, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 116, 32
+  size: 28, 62
+  orig: 100, 140
+  offset: 69, 28
+  index: -1
+lpant
+  rotate: true
+  xy: 116, 4
+  size: 26, 38
+  orig: 100, 140
+  offset: 54, 4
+  index: -1
+neck
+  rotate: false
+  xy: 244, 47
+  size: 51, 13
+  orig: 100, 140
+  offset: 25, 87
+  index: -1
+rfoot
+  rotate: false
+  xy: 244, 33
+  size: 19, 12
+  orig: 100, 140
+  offset: 19, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 180, 33
+  size: 27, 62
+  orig: 100, 140
+  offset: 3, 28
+  index: -1
+rpant
+  rotate: true
+  xy: 297, 34
+  size: 26, 38
+  orig: 100, 140
+  offset: 21, 4
+  index: -1

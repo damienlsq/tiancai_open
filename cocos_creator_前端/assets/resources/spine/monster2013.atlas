@@ -1,0 +1,55 @@
+
+monster2013.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 70, 2
+  size: 27, 26
+  orig: 80, 100
+  offset: 27, 18
+  index: -1
+eyes
+  rotate: true
+  xy: 112, 30
+  size: 22, 27
+  orig: 80, 100
+  offset: 27, 45
+  index: -1
+eyesBad
+  rotate: true
+  xy: 99, 9
+  size: 19, 28
+  orig: 80, 100
+  offset: 30, 45
+  index: -1
+foot
+  rotate: false
+  xy: 70, 30
+  size: 40, 22
+  orig: 80, 100
+  offset: 19, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 66, 50
+  orig: 80, 100
+  offset: 6, 39
+  index: -1
+lhand
+  rotate: true
+  xy: 141, 38
+  size: 14, 26
+  orig: 80, 100
+  offset: 48, 16
+  index: -1
+rhand
+  rotate: true
+  xy: 169, 39
+  size: 13, 26
+  orig: 80, 100
+  offset: 19, 16
+  index: -1

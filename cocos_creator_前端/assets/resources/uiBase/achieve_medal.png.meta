@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "42c88856-6fda-48d0-8aed-8d86589bab0b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "achieve_medal": {
+      "ver": "1.0.4",
+      "uuid": "6caf2b23-6833-4a21-8913-242bc9f5c4df",
+      "rawTextureUuid": "42c88856-6fda-48d0-8aed-8d86589bab0b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 118,
+      "height": 97,
+      "rawWidth": 120,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

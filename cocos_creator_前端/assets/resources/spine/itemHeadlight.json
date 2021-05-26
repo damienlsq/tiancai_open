@@ -1,0 +1,81 @@
+{
+"skeleton": { "hash": "FJE+JN9yHwd04PWlgInCSUTjMTQ", "spine": "3.6.50", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 150, "rotation": 90.38, "x": 0.5, "y": 2 }
+],
+"slots": [
+	{ "name": "itemHeadlight", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"itemHeadlight": {
+			"itemHeadlight0001": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0002": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0003": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0004": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0005": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0006": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0007": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0008": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0009": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0010": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0011": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0012": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0013": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0014": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0015": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0016": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0017": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0018": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0019": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0020": { "rotation": -90.38, "width": 150, "height": 150 },
+			"itemHeadlight0021": { "rotation": -90.38, "width": 150, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"itemHeadlight": {
+		"slots": {
+			"itemHeadlight": {
+				"attachment": [
+					{ "time": 0, "name": "itemHeadlight0001" },
+					{ "time": 0.0333, "name": "itemHeadlight0002" },
+					{ "time": 0.0667, "name": "itemHeadlight0003" },
+					{ "time": 0.1, "name": "itemHeadlight0004" },
+					{ "time": 0.1333, "name": "itemHeadlight0005" },
+					{ "time": 0.1667, "name": "itemHeadlight0006" },
+					{ "time": 0.2, "name": "itemHeadlight0007" },
+					{ "time": 0.2333, "name": "itemHeadlight0008" },
+					{ "time": 0.2667, "name": "itemHeadlight0009" },
+					{ "time": 0.3, "name": "itemHeadlight0010" },
+					{ "time": 0.3333, "name": "itemHeadlight0011" },
+					{ "time": 0.3667, "name": "itemHeadlight0012" },
+					{ "time": 0.4, "name": "itemHeadlight0013" },
+					{ "time": 0.4333, "name": "itemHeadlight0014" },
+					{ "time": 0.4667, "name": "itemHeadlight0015" },
+					{ "time": 0.5, "name": "itemHeadlight0016" },
+					{ "time": 0.5333, "name": "itemHeadlight0017" },
+					{ "time": 0.5667, "name": "itemHeadlight0018" },
+					{ "time": 0.6, "name": "itemHeadlight0019" },
+					{ "time": 0.6333, "name": "itemHeadlight0020" },
+					{ "time": 0.6667, "name": "itemHeadlight0021" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

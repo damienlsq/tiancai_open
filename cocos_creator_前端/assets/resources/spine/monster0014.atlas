@@ -1,0 +1,90 @@
+
+monster0014.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 48
+  size: 68, 78
+  orig: 90, 160
+  offset: 11, 33
+  index: -1
+fire1
+  rotate: false
+  xy: 80, 22
+  size: 31, 33
+  orig: 276, 204
+  offset: 117, 78
+  index: -1
+gun
+  rotate: false
+  xy: 72, 79
+  size: 68, 47
+  orig: 100, 100
+  offset: 12, 39
+  index: -1
+head
+  rotate: true
+  xy: 2, 3
+  size: 43, 57
+  orig: 90, 160
+  offset: 21, 99
+  index: -1
+lfoot
+  rotate: true
+  xy: 122, 58
+  size: 19, 6
+  orig: 90, 160
+  offset: 45, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 61, 2
+  size: 17, 44
+  orig: 90, 160
+  offset: 72, 27
+  index: -1
+lleg
+  rotate: true
+  xy: 80, 4
+  size: 16, 40
+  orig: 90, 160
+  offset: 46, 3
+  index: -1
+lram
+  rotate: true
+  xy: 142, 105
+  size: 21, 48
+  orig: 90, 160
+  offset: 68, 54
+  index: -1
+rfoot
+  rotate: false
+  xy: 142, 79
+  size: 14, 5
+  orig: 80, 160
+  offset: 25, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 142, 86
+  size: 17, 43
+  orig: 90, 160
+  offset: 2, 28
+  index: -1
+rleg
+  rotate: true
+  xy: 192, 109
+  size: 17, 42
+  orig: 90, 160
+  offset: 28, 3
+  index: -1
+rram
+  rotate: true
+  xy: 72, 57
+  size: 20, 48
+  orig: 90, 160
+  offset: 3, 55
+  index: -1

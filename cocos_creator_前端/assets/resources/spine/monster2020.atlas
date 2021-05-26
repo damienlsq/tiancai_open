@@ -1,0 +1,83 @@
+
+monster2020.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 76, 13
+  size: 41, 49
+  orig: 80, 130
+  offset: 20, 25
+  index: -1
+eyes
+  rotate: false
+  xy: 168, 12
+  size: 16, 15
+  orig: 80, 130
+  offset: 32, 80
+  index: -1
+eyesBad
+  rotate: false
+  xy: 187, 23
+  size: 21, 11
+  orig: 80, 130
+  offset: 29, 84
+  index: -1
+foot
+  rotate: true
+  xy: 217, 39
+  size: 23, 29
+  orig: 80, 130
+  offset: 11, 9
+  index: -1
+foot1
+  rotate: false
+  xy: 164, 29
+  size: 21, 33
+  orig: 80, 130
+  offset: 29, 4
+  index: -1
+foot2
+  rotate: false
+  xy: 187, 36
+  size: 28, 26
+  orig: 80, 130
+  offset: 46, 14
+  index: -1
+head
+  rotate: false
+  xy: 2, 6
+  size: 72, 56
+  orig: 80, 130
+  offset: 5, 67
+  index: -1
+larm
+  rotate: false
+  xy: 119, 2
+  size: 25, 15
+  orig: 80, 130
+  offset: 46, 54
+  index: -1
+lhand
+  rotate: false
+  xy: 119, 19
+  size: 21, 43
+  orig: 80, 130
+  offset: 51, 26
+  index: -1
+rarm
+  rotate: false
+  xy: 146, 2
+  size: 20, 16
+  orig: 80, 130
+  offset: 12, 54
+  index: -1
+rhand
+  rotate: false
+  xy: 142, 20
+  size: 20, 42
+  orig: 80, 130
+  offset: 10, 25
+  index: -1

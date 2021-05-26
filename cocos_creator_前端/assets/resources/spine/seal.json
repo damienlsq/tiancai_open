@@ -1,0 +1,88 @@
+{
+"skeleton": { "hash": "47wa7Qb5hL1zxxUo98Lc2NJjZ7c", "spine": "3.6.48", "width": 0, "height": 0, "images": "../人物暴击/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "criticeffect2", "parent": "root", "length": 149.01, "rotation": 89.23, "x": -2, "y": 76 }
+],
+"slots": [
+	{ "name": "criticeffect2", "bone": "criticeffect2" }
+],
+"skins": {
+	"default": {
+		"criticeffect2": {
+			"crit30001": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30002": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30003": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30004": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30005": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30006": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30007": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30008": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30009": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30010": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30011": { "rotation": -89.23, "width": 200, "height": 200 },
+			"crit30012": { "rotation": -89.23, "width": 200, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"seal": {
+		"slots": {
+			"criticeffect2": {
+				"attachment": [
+					{ "time": 0, "name": "crit30001" },
+					{ "time": 0.0333, "name": "crit30002" },
+					{ "time": 0.0667, "name": "crit30002" },
+					{ "time": 0.1, "name": "crit30003" },
+					{ "time": 0.1333, "name": "crit30004" },
+					{ "time": 0.1667, "name": "crit30005" },
+					{ "time": 0.2, "name": "crit30006" },
+					{ "time": 0.2333, "name": "crit30007" },
+					{ "time": 0.2667, "name": "crit30008" },
+					{ "time": 0.3, "name": "crit30009" },
+					{ "time": 0.3333, "name": "crit30010" },
+					{ "time": 0.3667, "name": "crit30011" },
+					{ "time": 0.4, "name": "crit30012" },
+					{ "time": 0.4333, "name": "crit30001" },
+					{ "time": 0.4667, "name": "crit30002" },
+					{ "time": 0.5, "name": "crit30002" },
+					{ "time": 0.5333, "name": "crit30003" },
+					{ "time": 0.5667, "name": "crit30004" },
+					{ "time": 0.6, "name": "crit30005" },
+					{ "time": 0.6333, "name": "crit30006" },
+					{ "time": 0.6667, "name": "crit30007" },
+					{ "time": 0.7, "name": "crit30008" },
+					{ "time": 0.7333, "name": "crit30009" },
+					{ "time": 0.7667, "name": "crit30010" },
+					{ "time": 0.8, "name": "crit30011" },
+					{ "time": 0.8333, "name": "crit30012" },
+					{ "time": 0.8667, "name": "crit30001" },
+					{ "time": 0.9, "name": "crit30002" },
+					{ "time": 0.9333, "name": "crit30002" },
+					{ "time": 0.9667, "name": "crit30003" },
+					{ "time": 1, "name": "crit30004" },
+					{ "time": 1.0333, "name": "crit30005" },
+					{ "time": 1.0667, "name": "crit30006" },
+					{ "time": 1.1, "name": "crit30007" },
+					{ "time": 1.1333, "name": "crit30008" },
+					{ "time": 1.1667, "name": "crit30009" },
+					{ "time": 1.2, "name": "crit30010" }
+				]
+			}
+		},
+		"bones": {
+			"criticeffect2": {
+				"rotate": [
+					{ "time": 0.3, "angle": 0, "curve": "stepped" },
+					{ "time": 0.7333, "angle": 0, "curve": "stepped" },
+					{ "time": 1.1667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -7.33, "y": -3.67, "curve": "stepped" },
+					{ "time": 1.2, "x": -7.33, "y": -3.67 }
+				]
+			}
+		}
+	}
+}
+}

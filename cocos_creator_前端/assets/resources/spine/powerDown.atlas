@@ -1,0 +1,13 @@
+
+powerDown.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reducedPower2
+  rotate: false
+  xy: 0, 0
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1

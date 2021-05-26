@@ -1,0 +1,13 @@
+
+fire.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire
+  rotate: false
+  xy: 0, 0
+  size: 53, 53
+  orig: 60, 62
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,69 @@
+
+monster1021.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 23
+  size: 45, 34
+  orig: 80, 100
+  offset: 20, 7
+  index: -1
+eyes
+  rotate: false
+  xy: 65, 101
+  size: 42, 21
+  orig: 80, 100
+  offset: 21, 44
+  index: -1
+eyesBad
+  rotate: false
+  xy: 0, 0
+  size: 42, 21
+  orig: 80, 100
+  offset: 21, 44
+  index: -1
+head
+  rotate: false
+  xy: 0, 59
+  size: 63, 63
+  orig: 80, 100
+  offset: 10, 28
+  index: -1
+lhand
+  rotate: false
+  xy: 65, 72
+  size: 15, 27
+  orig: 80, 100
+  offset: 55, 10
+  index: -1
+lleg
+  rotate: true
+  xy: 109, 104
+  size: 18, 13
+  orig: 80, 100
+  offset: 41, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 47, 29
+  size: 15, 28
+  orig: 80, 100
+  offset: 15, 10
+  index: -1
+rleg
+  rotate: false
+  xy: 82, 86
+  size: 18, 13
+  orig: 80, 100
+  offset: 25, 0
+  index: -1
+tail
+  rotate: false
+  xy: 65, 62
+  size: 14, 8
+  orig: 80, 100
+  offset: 57, 4
+  index: -1

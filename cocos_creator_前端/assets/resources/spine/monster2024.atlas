@@ -1,0 +1,83 @@
+
+monster2024.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 74, 14
+  size: 53, 43
+  orig: 85, 130
+  offset: 15, 28
+  index: -1
+bones2
+  rotate: true
+  xy: 237, 97
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+bones3
+  rotate: false
+  xy: 2, 69
+  size: 104, 50
+  orig: 167, 140
+  offset: 22, 83
+  index: -1
+eyes
+  rotate: false
+  xy: 162, 64
+  size: 20, 21
+  orig: 100, 140
+  offset: 41, 74
+  index: -1
+eyesBad
+  rotate: false
+  xy: 135, 63
+  size: 25, 22
+  orig: 100, 140
+  offset: 38, 74
+  index: -1
+foot
+  rotate: false
+  xy: 108, 87
+  size: 85, 32
+  orig: 85, 130
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 70, 65
+  orig: 100, 140
+  offset: 17, 65
+  index: -1
+larm
+  rotate: false
+  xy: 108, 72
+  size: 25, 13
+  orig: 85, 130
+  offset: 54, 58
+  index: -1
+lhand
+  rotate: true
+  xy: 195, 96
+  size: 23, 40
+  orig: 85, 130
+  offset: 57, 31
+  index: -1
+rarm
+  rotate: true
+  xy: 237, 70
+  size: 25, 13
+  orig: 85, 130
+  offset: 0, 58
+  index: -1
+rhand
+  rotate: true
+  xy: 195, 71
+  size: 23, 40
+  orig: 85, 130
+  offset: 1, 31
+  index: -1

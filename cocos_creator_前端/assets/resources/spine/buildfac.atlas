@@ -1,0 +1,146 @@
+
+buildfac.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 478, 195
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+c10
+  rotate: false
+  xy: 268, 106
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+c11
+  rotate: false
+  xy: 368, 102
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+c12
+  rotate: false
+  xy: 478, 220
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+c13
+  rotate: false
+  xy: 118, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+c14
+  rotate: false
+  xy: 478, 161
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+c15
+  rotate: false
+  xy: 500, 165
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+c16
+  rotate: false
+  xy: 449, 117
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+c17
+  rotate: false
+  xy: 368, 117
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 449, 125
+  size: 28, 26
+  orig: 37, 37
+  offset: 4, 5
+  index: -1
+c3
+  rotate: false
+  xy: 195, 103
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 118, 13
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 2, 6
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+c6
+  rotate: true
+  xy: 324, 107
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 413, 117
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+c8
+  rotate: false
+  xy: 478, 178
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+c9
+  rotate: false
+  xy: 388, 100
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+device
+  rotate: false
+  xy: 349, 155
+  size: 127, 99
+  orig: 132, 101
+  offset: 3, 0
+  index: -1
+device2
+  rotate: false
+  xy: 195, 153
+  size: 152, 101
+  orig: 156, 102
+  offset: 2, 0
+  index: -1
+piaoyun2
+  rotate: false
+  xy: 2, 94
+  size: 191, 160
+  orig: 191, 160
+  offset: 0, 0
+  index: -1

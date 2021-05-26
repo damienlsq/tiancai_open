@@ -1,0 +1,20 @@
+
+missile.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+missile0001
+  rotate: false
+  xy: 2, 5
+  size: 118, 31
+  orig: 120, 40
+  offset: 0, 6
+  index: -1
+missile0002
+  rotate: false
+  xy: 122, 2
+  size: 106, 34
+  orig: 120, 40
+  offset: 12, 4
+  index: -1

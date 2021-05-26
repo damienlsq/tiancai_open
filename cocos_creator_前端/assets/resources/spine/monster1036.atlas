@@ -1,0 +1,167 @@
+
+monster1036.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 92, 54
+  size: 29, 72
+  orig: 80, 140
+  offset: 24, 3
+  index: -1
+eyes
+  rotate: false
+  xy: 436, 2
+  size: 20, 12
+  orig: 80, 140
+  offset: 29, 83
+  index: -1
+eyesBad
+  rotate: false
+  xy: 458, 2
+  size: 17, 12
+  orig: 80, 140
+  offset: 29, 83
+  index: -1
+fire0001
+  rotate: false
+  xy: 327, 14
+  size: 51, 55
+  orig: 120, 140
+  offset: 15, 63
+  index: -1
+fire0002
+  rotate: true
+  xy: 46, 2
+  size: 49, 54
+  orig: 120, 140
+  offset: 14, 65
+  index: -1
+fire0003
+  rotate: true
+  xy: 102, 3
+  size: 49, 54
+  orig: 120, 140
+  offset: 12, 66
+  index: -1
+fire0004
+  rotate: false
+  xy: 421, 72
+  size: 49, 54
+  orig: 120, 140
+  offset: 11, 67
+  index: -1
+fire0005
+  rotate: false
+  xy: 314, 71
+  size: 52, 55
+  orig: 120, 140
+  offset: 10, 67
+  index: -1
+fire0006
+  rotate: false
+  xy: 158, 2
+  size: 56, 56
+  orig: 120, 140
+  offset: 9, 67
+  index: -1
+fire0007
+  rotate: true
+  xy: 252, 65
+  size: 61, 60
+  orig: 120, 140
+  offset: 6, 65
+  index: -1
+fire0008
+  rotate: true
+  xy: 188, 63
+  size: 63, 62
+  orig: 120, 140
+  offset: 7, 63
+  index: -1
+fire0009
+  rotate: true
+  xy: 123, 60
+  size: 66, 63
+  orig: 120, 140
+  offset: 3, 63
+  index: -1
+fire0010
+  rotate: true
+  xy: 216, 2
+  size: 59, 55
+  orig: 120, 140
+  offset: 9, 63
+  index: -1
+fire0011
+  rotate: true
+  xy: 273, 7
+  size: 56, 52
+  orig: 120, 140
+  offset: 11, 63
+  index: -1
+fire0012
+  rotate: true
+  xy: 368, 71
+  size: 55, 51
+  orig: 120, 140
+  offset: 12, 62
+  index: -1
+fire0013
+  rotate: true
+  xy: 436, 16
+  size: 54, 49
+  orig: 120, 140
+  offset: 12, 62
+  index: -1
+fire0014
+  rotate: false
+  xy: 380, 15
+  size: 54, 54
+  orig: 120, 140
+  offset: 13, 61
+  index: -1
+head
+  rotate: false
+  xy: 28, 53
+  size: 62, 73
+  orig: 80, 140
+  offset: 8, 67
+  index: -1
+lfoot
+  rotate: true
+  xy: 380, 2
+  size: 11, 45
+  orig: 80, 140
+  offset: 39, 1
+  index: -1
+lhand
+  rotate: false
+  xy: 2, 3
+  size: 14, 39
+  orig: 80, 140
+  offset: 44, 25
+  index: -1
+rfoot
+  rotate: true
+  xy: 327, 2
+  size: 10, 44
+  orig: 80, 140
+  offset: 29, 1
+  index: -1
+rhand
+  rotate: false
+  xy: 18, 10
+  size: 26, 32
+  orig: 80, 140
+  offset: 12, 37
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 44
+  size: 24, 82
+  orig: 80, 140
+  offset: 0, 0
+  index: -1

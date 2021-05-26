@@ -1,0 +1,5 @@
+include ':libcocos2dx',':game', ':protectlib'
+project(':libcocos2dx').projectDir = new File('/Applications/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/libcocos2dx')
+project(':game').projectDir = new File(settingsDir, 'app')
+project(':protectlib').projectDir = new File(settingsDir, './protectlib')
+

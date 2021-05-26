@@ -1,0 +1,153 @@
+
+monster0023.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 183, 32
+  size: 122, 94
+  orig: 150, 180
+  offset: 13, 45
+  index: -1
+c2
+  rotate: true
+  xy: 173, 2
+  size: 28, 26
+  orig: 37, 37
+  offset: 4, 5
+  index: -1
+c3
+  rotate: false
+  xy: 586, 78
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 423, 54
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 307, 40
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 835, 84
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 307, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+grow
+  rotate: true
+  xy: 504, 56
+  size: 70, 80
+  orig: 100, 100
+  offset: 8, 15
+  index: -1
+gun1
+  rotate: false
+  xy: 2, 60
+  size: 179, 66
+  orig: 179, 66
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: false
+  xy: 881, 105
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 721, 67
+  size: 59, 59
+  orig: 150, 180
+  offset: 44, 120
+  index: -1
+head2
+  rotate: true
+  xy: 659, 67
+  size: 59, 60
+  orig: 340, 245
+  offset: 66, 105
+  index: -1
+larm
+  rotate: true
+  xy: 948, 87
+  size: 39, 45
+  orig: 150, 180
+  offset: 106, 88
+  index: -1
+lf
+  rotate: true
+  xy: 343, 14
+  size: 24, 44
+  orig: 150, 180
+  offset: 122, 58
+  index: -1
+lfoot
+  rotate: false
+  xy: 782, 73
+  size: 38, 6
+  orig: 150, 180
+  offset: 78, 15
+  index: -1
+lpant
+  rotate: false
+  xy: 782, 81
+  size: 51, 45
+  orig: 150, 180
+  offset: 73, 20
+  index: -1
+rarm
+  rotate: true
+  xy: 586, 39
+  size: 37, 44
+  orig: 150, 180
+  offset: 6, 89
+  index: -1
+rf
+  rotate: true
+  xy: 201, 7
+  size: 23, 44
+  orig: 150, 180
+  offset: 4, 58
+  index: -1
+rf2
+  rotate: true
+  xy: 2, 2
+  size: 56, 113
+  orig: 150, 180
+  offset: 45, 56
+  index: -1
+rfoot
+  rotate: false
+  xy: 117, 2
+  size: 40, 6
+  orig: 150, 180
+  offset: 31, 15
+  index: -1
+rpant
+  rotate: false
+  xy: 117, 10
+  size: 54, 48
+  orig: 150, 180
+  offset: 23, 20
+  index: -1

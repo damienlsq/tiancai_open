@@ -1,0 +1,48 @@
+
+aim.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glass1
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+glass3
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+glass4
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+glass5
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+glass6
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+glass2
+  rotate: false
+  xy: 2, 5
+  size: 43, 40
+  orig: 74, 64
+  offset: 14, 12
+  index: -1

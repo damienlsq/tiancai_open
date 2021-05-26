@@ -1,0 +1,55 @@
+
+clanUpdate.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beam
+  rotate: false
+  xy: 556, 338
+  size: 82, 165
+  orig: 93, 186
+  offset: 0, 21
+  index: -1
+date
+  rotate: false
+  xy: 556, 250
+  size: 82, 86
+  orig: 135, 135
+  offset: 19, 20
+  index: -1
+grow
+  rotate: false
+  xy: 2, 38
+  size: 586, 156
+  orig: 586, 204
+  offset: 0, 30
+  index: -1
+light
+  rotate: false
+  xy: 2, 28
+  size: 608, 8
+  orig: 608, 8
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 640, 419
+  size: 80, 84
+  orig: 127, 135
+  offset: 28, 23
+  index: -1
+研究所升级弹窗
+  rotate: false
+  xy: 2, 196
+  size: 552, 307
+  orig: 640, 1136
+  offset: 44, 450
+  index: -1

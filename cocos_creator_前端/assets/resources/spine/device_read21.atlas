@@ -1,0 +1,13 @@
+
+device_read21.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+device_read1
+  rotate: false
+  xy: 2, 2
+  size: 255, 169
+  orig: 255, 169
+  offset: 0, 0
+  index: -1
